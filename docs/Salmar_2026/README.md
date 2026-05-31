@@ -9,13 +9,16 @@
 
 ## Om dette prosjektet
 
-SalMar Farming AS har varslet oppstart av detaljregulering for å erstatte flere eksisterende lokaliteter i Rognsundet med to nye – samlet biomasse 15 300 tonn. Planen omtales som en omstrukturering av eksisterende virksomhet.
+SalMar Farming AS har varslet oppstart av detaljregulering for å erstatte flere eksisterende lokaliteter i Rognsundet med to nye – samlet biomasse 15 300 tonn. Planen omtales som en omstrukturering av eksisterende virksomhet. Planutvalget i Alta kommune vedtok **enstemmig** oppstart av planarbeidet 4. desember 2025 (sak 50/2025).
+
+SalMar understreker at de er i en **tidlig fase** og ønsker spesifikke innspill på plassering. De har utarbeidet kart med sektorinndeling (10 sektorer) for å få mest mulig konkrete tilbakemeldinger fra berørte parter.
 
 Dette prosjektet samler offentlige dokumenter og presenterer en faglig gjennomgang av planmaterialet, med særlig vekt på:
 - Forholdet til overordnede planer og regelverk
 - Kunnskapsgrunnlagets tilstrekkelighet
 - Miljømessige og samiske interesser
 - Prosessuelle forhold
+- Svakheter i planinitiativets §10-vurdering
 
 > **Se `PLAN-SAMMENSTILLING.md` for fullstendig gjennomgang med 18 kapitler.
 
@@ -67,6 +70,42 @@ Kumulative effekter fra alle lokaliteter i Rognsundet, inkludert Kime Akvas tors
 
 ---
 
+## Alternativer og plassering
+
+Planen omfatter **tre alternativer** for plassering av to nye lokaliteter. To av alternativene velges, det tredje tas ut:
+
+| Alternativ | Plassering | Beskrivelse |
+|------------|-----------|-------------|
+| **Nordvest** | Nordvestsiden av sundet | Ett anlegg |
+| **Nordøst** | Nordøstsiden av sundet | Ett anlegg |
+| **Sørøst** | Sørøstsiden av sundet | Ett anlegg |
+
+SalMar er også åpen for **to anlegg i nord og ingen i sør**. Plasseringen er foreløpig kun basert på hvit lyktesektor fra Mjånes fyr – øvrige hensyn skal innarbeides gjennom konsekvensutredningene. Det er utarbeidet kart med **10 sektorer** for å få konkrete tilbakemeldinger.
+
+### Nullalternativet
+Dersom planen ikke realiseres, beholdes dagens fem lokaliteter. Da forblir planstatus:
+- **Nord:** Avsatt til fiske
+- **Sør:** FFNFA (fellesområde for fiske, ferdsel, natur, friluft og akvakultur) – oppdrett av anadrome fiskearter ikke tillatt
+
+Nullalternativet må utredes like grundig som planalternativene for å gi et reelt sammenligningsgrunnlag.
+
+---
+
+## Svakheter i planinitiativets §10-vurdering
+
+Planinitiativet inneholder en vurdering etter forskrift om konsekvensutredninger §10 (kriterier for vesentlige virkninger). Flere av vurderingene er problematiske:
+
+| Svakhet | Problem | Betydning |
+|---------|---------|-----------|
+| **Forhåndskonklusjon om nasjonalpark** | "Seiland nasjonalpark påvirkes ikke negativt" – konkludert uten utredning | Burde vært: "Kan ikke utelukkes før KU" |
+| **Selvmotsigelse om vannkvalitet** | "Fastsatte mål for vannkvalitet er ikke overskredet" – samtidig som kjemisk tilstand er **ukjent** | Man kan ikke konkludere når data mangler |
+| **Undervurdering av kumulative effekter** | Kun vurdert enkeltvis, ikke samlet belastning | Strider mot naturmangfoldloven §10 |
+| **Manglende flodbølgevurdering** | Skredfare er identifisert, men konsekvenser for bebyggelse på land ved flodbølge er ikke vurdert | ROS-analysen må utvides |
+
+> **Innspillstips:** Påpek disse svakhetene i ditt høringsinnspill – be om at §10-vurderingen oppdateres før planprogrammet fastsettes.
+
+---
+
 ## Dokumenter i prosjektet
 
 ### Originale PDF-dokumenter
@@ -105,11 +144,23 @@ Kumulative effekter fra alle lokaliteter i Rognsundet, inkludert Kime Akvas tors
 | **01.07.2026** | **Frist for innspill til planprogram** | Send skriftlige innspill – se momentliste over |
 | Q3 2026 | Folkemøter i Rognsund | Delta og gi innspill muntlig |
 | Q4 2026 | Planprogram fastsettes av Alta kommune | Følg med på politisk behandling |
-| Q4 2026–Q1 2027 | Konsekvensutredninger gjennomføres | Meld interesse som informant for fiske, friluftsliv, reindrift |
+| Q4 2026–Q1 2027 | Konsekvensutredninger gjennomføres | Meld interesse som informant for fiske, friluftsliv, reindrift. Fagutredere kontakter informanter særskilt |
 | Q1–Q3 2027 | Høring av planforslag (6 uker) | Ny høringsrunde – anledning til å kommentere hele planen |
 | Q2 2027 | Mattilsynets behandling av konsesjonssøknad | Mulighet for innspill til konsesjonsprosessen |
 | Q2 2028 | Endelig planvedtak i Alta kommune | Klagefrist 3 uker etter vedtak til Statsforvalteren |
 | Q3 2028 | Klagefrist konsesjon (Mattilsynet) | Klage til Landbruks- og matdepartementet |
+
+### Medvirkningsmuligheter – tre anledninger
+
+| Anledning | Tidsrom | Hva kan du gjøre? |
+|-----------|---------|-------------------|
+| **1. Høring av planprogram** | Nå – 01.07.2026 | Skriftlige innspill til Rambøll. **VIKTIGSTE MULIGHET NÅ** |
+| **Folkemøter** | Q3 2026 | I bygdene i Rognsundet – invitasjon sendes i samråd med bygdelag |
+| **Dialog med fagutredere** | Q4 2026–Q1 2027 | Meld deg som informant hvis du har kunnskap om fiske, friluftsliv, reindrift eller lokalsamfunn |
+| **2. Høring av planforslag** | Q3 2027 | 6 ukers høring – ny mulighet for innspill |
+| **3. Klage på vedtak** | Q2 2028 | 3 ukers frist etter kunngjøring |
+
+I tillegg kan du når som helst ta kontakt med plankonsulent (Rambøll) via e-post eller telefon.
 
 ---
 
@@ -120,6 +171,17 @@ Kumulative effekter fra alle lokaliteter i Rognsundet, inkludert Kime Akvas tors
 Planprogrammet fastsetter hvilke temaer som skal utredes i konsekvensutredningen. Dersom viktige temaer ikke tas med i planprogrammet, er det risiko for at de heller ikke blir tilstrekkelig utredet før planvedtak. **Jo flere som påpeker de samme manglene, desto større sjanse for at de blir tatt til følge.**
 
 Alle kan sende innspill – privatpersoner, organisasjoner, lag og foreninger. Du trenger ikke juridisk eller faglig bakgrunn for å delta. Et innspill kan være kort og konsist, eller mer utfyllende – alt teller med i den samlede vurderingen.
+
+### Hvordan be om konsultasjon (samiske interesser)
+
+Hvis du representerer samiske eller sjøsamiske interesser, kan du be om konsultasjon etter **sameloven §4-4**. Dette sender du til Alta kommune, ikke til Rambøll:
+
+> **Alta kommune, Planavdelingen**  
+> E-post: postmottak@alta.kommune.no
+
+Varselet sier: *"Representanter for samiske interesser bes melde inn behov for konsultasjon iht. sameloven kapittel 4 så snart som mulig, gjerne i forbindelse med dette varselet om oppstart av planarbeid. Dette gjelder både reindrift og andre samiske og sjøsamiske interesser."*
+
+Konsultasjonsplikten omfatter både reindrift (distrikter 24A Oarje-Sievju og 25 Stierdná) og sjøsamiske interesser. Uenighet kan løftes til Kommunal- og distriktsdepartementet.
 
 ### Hvem sender du innspill til?
 
@@ -141,18 +203,21 @@ Et innspill kan ta opp ett eller flere temaer. Listen nedenfor gir forslag til t
 
 #### Forslag til temaer som bør utredes i konsekvensutredningen
 
-1. **Villaks og lakselus** – Konsekvenser for Altaelva (nasjonal lakseelv) og Repparfjordelva. Hele 16 % av laksen vandrer gjennom Rognsundet. Lakselusmodellering for villaks bør gjennomføres.
-2. **Vannforskriften §12** – Kjemisk tilstand i Rognsundet er ikke kartlagt. Uten dette grunnlaget kan man ikke vurdere om vilkårene for ny aktivitet er oppfylt.
-3. **Sjøfugl** – Kartlegging i hekkesesong mangler, særlig for truede arter som krykkje, lunde og storskarv.
-4. **Marinarkeologi** – Kunnskapsgrunnlaget for kulturminner i sjø er i dag ukjent/lavt. Marinarkeologisk befaring bør gjennomføres.
-5. **Strømforhold** – Det foreligger kun modellerte strømdata, ikke faktiske målinger. Strømmen har betydning for spredning av partikler og lakselus.
+1. **Villaks og lakselus** – Konsekvenser for Altaelva (nasjonal lakseelv) og Repparfjordelva. Hele 16 % av laksen vandrer gjennom Rognsundet. Lakselusmodellering for villaks bør gjennomføres. Be om at Rognsundet inkluderes i NALO-programmet (overvåkingsprogram for lakselus på vill fisk).
+2. **Vannforskriften §12** – Kjemisk tilstand i Rognsundet er ikke kartlagt. Uten dette grunnlaget kan man ikke vurdere om vilkårene for ny aktivitet er oppfylt. Krev at kjemisk tilstand kartlegges **før** planprogrammet fastsettes.
+3. **Sjøfugl** – Kartlegging i hekkesesong mangler, særlig for truede arter som krykkje, lunde og storskarv. Krev at fuglekartlegging gjennomføres før KU.
+4. **Marinarkeologi** – Kunnskapsgrunnlaget for kulturminner i sjø er i dag ukjent/lavt. Marinarkeologisk befaring bør gjennomføres før planvedtak.
+5. **Strømforhold** – Det foreligger kun modellerte strømdata, ikke faktiske målinger. Strømmen har betydning for spredning av partikler og lakselus. Krev reelle strømmålinger.
 6. **Kumulative effekter** – Samlet belastning fra alle lokaliteter i Rognsundet (5 eksisterende + 2 nye + Kime Akvas torskeoppdrett) bør utredes samlet, jf. naturmangfoldloven §10.
 7. **Seiland nasjonalpark** – Visuell påvirkning bør dokumenteres med 3D-modell og visualiseringer, slik kommunen har bedt om.
 8. **Samiske interesser** – Konsultasjon etter sameloven §4-4 bør gjennomføres før planprogrammet fastsettes. Sjøsamisk fiske og reindrift (distrikter 24A og 25) må utredes særskilt.
-9. **Metode for konsekvensutredning** – Alta kommune har anbefalt M-1941 (med feltarbeid) for flere tema, mens planrådgiver har foreslått V712. Valg av metode bør avklares.
+9. **Metode for konsekvensutredning** – Alta kommune har anbefalt M-1941 (med feltarbeid) for flere tema, mens planrådgiver har foreslått V712. Krev at M-1941 brukes for **alle** KU-tema.
 10. **Rømningsrisiko** – Bør vurderes opp mot klimaframskrivninger med økt frekvens av ekstremvær.
 11. **Rekkefølgebestemmelse for biomasse** – Dersom planen skal sikre at total biomasse ikke overstiger dagens nivå, bør dette sikres gjennom en juridisk bindende rekkefølgebestemmelse.
 12. **Nullalternativet** – Bør utredes like grundig som planalternativene, for å gi et reelt sammenligningsgrunnlag.
+13. **FFNFA-forholdet** – Den sørlige lokasjonen ligger i FFNFA-område hvor oppdrett av anadrome fiskearter ikke er tillatt (KPA §6.2.2). Be om at dette avklares juridisk før planarbeidet fortsetter.
+14. **Skredfare og flodbølge** – Registrert skred ved Hestneset/Hestneselva (2010). Be om at ROS-analysen vurderer konsekvenser for bebyggelse på land ved flodbølge.
+15. **Eksisterende påvirkning** – Utslipp fra dagens fiskeoppdrett er vurdert til "liten grad" (2024), men kumulative effekter av eksisterende + nye anlegg er ikke vurdert. Be om oppdatert vurdering.
 
 #### Innsynsbegjæringer – en annen måte å bidra på
 
@@ -225,10 +290,12 @@ Flere offentlige instanser har roller i planprosessen og kan fremme innsigelse d
 | **Truede arter** | Krykkje, lunde, storskarv, torsk – flere rødlistede. To hotspots på land. | Nat.mangfoldloven |
 | **Samiske rettigheter** | Konsultasjonsplikt. Sjøsamisk område. Kan forsinke eller stanse. | Sameloven §§4-4, 4-5 |
 | **Hvit lyktesektor** | Mjånes fyr – kan være absolutt hinder for plassering. | Havne- og farvannsloven |
-| **Skredfare** | Snøskred kan utløse flodbølger. Registrert skred i 2010. | Pbl (ROS-analyse) |
+| **Skredfare** | Snøskred kan utløse flodbølger. Registrert skred ved Hestneset i 2010. Steinsprangfare ved sørlig lokasjon. | Pbl (ROS-analyse) |
+| **§10-vurdering** | Planinitiativet har forhåndskonklusjoner og selvmotsigelser (ukjent = ikke overskredet). | KU-forskriften §10 |
 | **"Samme biomasse"** | Ingen juridisk garanti. Reguleringsplanen åpner bare for etablering. | Mangler rekkefølgebestemmelse |
 | **Grønn konsesjon** | NRS Finnmark (SalMar) søker grønn konsesjon som kan øke MTB med 36 % – kan gi reell vekst utenom reguleringsplanen. | Akvakulturloven |
-| **Kumulative effekter** | 5+2 anlegg + torskeoppdrett = okt samlet belastning. Ikke utredet. | Nat.mangfoldloven §10 |
+| **Kumulative effekter** | 5+2 anlegg + torskeoppdrett = økt samlet belastning. Ikke utredet samlet. | Nat.mangfoldloven §10 |
+| **18 utredningstema** | KPA §1.11.1 stiller krav om 18 temaer – flere kan bli nedprioritert uten innspill. | KPA §1.11.1 |
 
 ---
 
@@ -250,15 +317,18 @@ De ønsker å erstatte 2–3 av disse med to nye, bedre plasserte lokaliteter.
 
 ## Planprosess
 
-| Aktivitet | Tidsrom |
-|-----------|---------|
-| Varsel oppstart og høring av planprogram | Q2 2026 |
-| Medvirkningsmøter og folkemøter | Q3 2026 |
-| Fastsetting av planprogram | Q4 2026 |
-| Datainnsamling og konsekvensutredninger | Q4 2026 – Q1 2027 |
-| Planforslag sendes kommunen | Q2 2027 |
-| Høring og offentlig ettersyn (6 uker) | Q3 2027 |
-| Sluttbehandling og planvedtak | Q1 2028 |
+| Aktivitet | Tidsrom | Status |
+|-----------|---------|--------|
+| Planoppstart vedtatt av planutvalget | 04.12.2025 | ✅ Gjennomført (enstemmig) |
+| Varsel oppstart og høring av planprogram | 11.05.2026 – 01.07.2026 | **PÅGÅR** |
+| Medvirkningsmøter og folkemøter | Q3 2026 | Ikke gjennomført |
+| Fastsetting av planprogram | Q4 2026 | Ikke gjennomført |
+| Datainnsamling og konsekvensutredninger | Q4 2026 – Q1 2027 | Ikke gjennomført |
+| Planforslag sendes kommunen | Q2 2027 | Ikke gjennomført |
+| Høring og offentlig ettersyn (6 uker) | Q3 2027 | Ikke gjennomført |
+| Sluttbehandling og planvedtak | Q1 2028 | Ikke gjennomført |
+
+> **Merk:** Fremdriftsplanen er tentativ og kan påvirkes av saksbehandlingstid i kommunen, politiske møter og eventuelle uforutsette utfordringer.
 
 ---
 
@@ -282,6 +352,15 @@ Kontaktperson: **Marie Dølør McDougall** – tlf. +47 975 87 006
 
 - [Rambøll – Kunngjøring Rognsund akvakultur](https://www.ramboll.com/no-no/kunngjoring-rognsund-akvakultur)
 - [Alta kommune – Varsel om oppstart](https://www.alta.kommune.no/nyhetsarkiv/nyheter/2026-05-29-varsel-om-oppstart-av--detaljregulering-for-akvakultur-i-rognsund)
+- [Rambøll brandcentral – Varslingsbrev](https://brandcentral.ramboll.com/share/a1MhVaBr1JcaREoNSuxz/assets/126401)
+- [Rambøll brandcentral – Planinitiativ](https://brandcentral.ramboll.com/share/uTkxXKDA6m4RzEVxS3Sn/assets/126403)
+- [Rambøll brandcentral – Oppstartsmøtereferat](https://brandcentral.ramboll.com/share/Lc2sgm4WduYdC7VsjDC3/assets/126402)
+- [Rambøll brandcentral – Planprogram](https://brandcentral.ramboll.com/share/7XJkxqovRpGjQJzs3C48/assets/126404)
+- [Rambøll brandcentral – Personvernerklæring](https://brandcentral.ramboll.com/share/3ub21Y8BgkekLoobhALt/assets/126405)
 - [Havforskningsinstituttet – NALO-overvåking av lakselus på vill fisk](https://www.hi.no/hi/temasider/lakselus)
 - [Mattilsynet – Tidligere vedtak om avslag for settefiskanlegg ved Alta (nasjonal laksefjord)](https://www.mattilsynet.no/)
+- [Vann-Nett – Vannforekomst Rognsundet (0420031000-C)](https://vann-nett.no/)
+- [Artsdatabanken – Registreringer i Rognsundet](https://www.artsdatabanken.no/)
+- [Kystinfo – Farleder og lyktesektorer](https://kystinfo.no/)
+- [Miljødirektoratet – Veileder M-1941 for KU](https://www.miljodirektoratet.no/)
 - [GitHub-repository](https://github.com/egkristi/Rognsund_Oppdrett)
