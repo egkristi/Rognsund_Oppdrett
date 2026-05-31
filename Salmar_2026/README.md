@@ -59,6 +59,9 @@ Mjånes fyrlykt har hvite sektorer som **i utgangspunktet ikke tillater anlegg**
 | 5 | `Vedlegg 2 - Oppstartsmøtereferat.md` | Møtereferat 22.01.2026 – 11 sider |
 | 6 | `Vedlegg 3 - Planprogram.md` | **Hoveddokument** – Planprogram – 23 sider |
 | 7 | `Vedlegg 4 - Personvernerklæring.md` | Personvernerklæring Rambøll |
+| 8 | `Oversiktskart2-9.png`, `Beligenhet.png`, `Farleder.png` m.fl. | 20+ kartutsnitt og figurer fra planmaterialet |
+
+> 📸 **Bildemateriale:** Mappen inneholder 20+ PNG-filer med kart, figurer og tabeller fra planprogrammet. Se `PLAN-SAMMENSTILLING.md` kapittel 15 for full oversikt.
 
 ---
 
@@ -181,6 +184,6 @@ Kontaktperson: **Marie Dølør McDougall** – tlf. +47 975 87 006
 
 ## Kilder
 
-- [Alta kommune – Varsel om oppstart](https://www.alta.kommune.no/nyhetsarkiv/nyheter/2026-05-29-varsel-om-oppstart-av--detaljregulering-for-akvakultur-i-rognsund)
 - [Rambøll – Kunngjøring Rognsund akvakultur](https://www.ramboll.com/no-no/kunngjoring-rognsund-akvakultur)
+- [Alta kommune – Varsel om oppstart](https://www.alta.kommune.no/nyhetsarkiv/nyheter/2026-05-29-varsel-om-oppstart-av--detaljregulering-for-akvakultur-i-rognsund)
 - [GitHub-repository](https://github.com/egkristi/Rognsund_Oppdrett)
