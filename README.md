@@ -1,4 +1,4 @@
-# Nei til mer oppdrett i Rognsund
+# Ta vare på Rognsund!
 
 **Dette repositoriet dokumenterer hvorfor SalMar Farming AS ikke bør få utvide oppdrettsvirksomheten i Rognsundet, Alta kommune.**
 
