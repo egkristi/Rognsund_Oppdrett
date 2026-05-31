@@ -59,21 +59,32 @@ Det finnes **ingen juridisk bindende mekanisme** som sikrer at total biomasse ik
 
 ## Dokumenter i prosjektet
 
-| # | Fil | Beskrivelse |
-|---|-----|-------------|
-| # | Fil | Beskrivelse |
-|---|-----|-------------|
-| 1 | `underlag_konvertert/D-bre-001 Varsel om oppstart Rognsund.md` | Formelt varsel om oppstart |
-| 2 | `underlag_konvertert/Kunngjøring_ Rognsund akvakultur - Ramboll - [www.ramboll.com].md` | Rambølls kunngjøring |
-| 3 | `underlag_konvertert/Varsel om oppstart av detaljregulering for akvakultur i Rognsund - [www.alta.kommune.no].md` | Alta kommunes kunngjøring |
-| 4 | `underlag_konvertert/Vedlegg 1 - Planinitiativ.md` | Planinitiativ (OCR) – 13 sider |
-| 5 | `underlag_konvertert/Vedlegg 2 - Oppstartsmøtereferat.md` | Møtereferat 22.01.2026 – 11 sider |
-| 6 | `underlag_konvertert/Vedlegg 3 - Planprogram.md` | **Hoveddokument** – Planprogram – 23 sider |
-| 7 | `underlag_konvertert/Vedlegg 4 - Personvernerklæring.md` | Personvernerklæring Rambøll |
-| 8 | `underlag_bilder/*.png`, `*.jpg` | 20+ kartutsnitt og figurer fra planmaterialet |
+### Originale PDF-dokumenter
 
-> **Bildemateriale:** Mappen `underlag_bilder/` inneholder 20+ PNG/JPG-filer med kart, figurer og tabeller fra planprogrammet. Se `PLAN-SAMMENSTILLING.md` kapittel 15 for full oversikt.
-> **PDF-originaler:** Mappen `underlag/` inneholder de originale PDF-dokumentene.
+| # | Fil | Beskrivelse |
+|---|-----|-------------|
+| 1 | `underlag/D-bre-001 Varsel om oppstart Rognsund.pdf` | Formelt varsel om oppstart |
+| 2 | `underlag/Kunngjøring_ Rognsund akvakultur - Ramboll - [www.ramboll.com].pdf` | Rambølls kunngjøring |
+| 3 | `underlag/Varsel om oppstart av detaljregulering for akvakultur i Rognsund -_ - [www.alta.kommune.no].pdf` | Alta kommunes kunngjøring |
+| 4 | `underlag/Vedlegg 1 - Planinitiativ.pdf` | Planinitiativ – 13 sider |
+| 5 | `underlag/Vedlegg 2 - Oppstartsmøtereferat.pdf` | Møtereferat 22.01.2026 – 11 sider |
+| 6 | `underlag/Vedlegg 3 - Planprogram.pdf` | **Hoveddokument** – Planprogram – 23 sider |
+| 7 | `underlag/Vedlegg 4 - Personvernerklæring.pdf` | Personvernerklæring Rambøll |
+
+### Konverterte markdown-filer
+
+| # | Fil | Beskrivelse |
+|---|-----|-------------|
+| 1–7 | `underlag_konvertert/*.md` | Samme dokumenter som over, konvertert til lesbar markdown |
+| 8 | `underlag_konvertert/Vedlegg 3 - Planprogram/` | HTML + 13 bilder fra planprogrammet |
+
+### Kart og figurer
+
+| Fil | Innhold |
+|-----|---------|
+| `underlag_bilder/*.png`, `*.jpg` | 20+ kartutsnitt, figurer og tabeller fra planmaterialet |
+
+> **Merk:** For sitater og henvisninger, bruk de originale PDF-filene i `underlag/`. Markdown-filene er hjelpemidler for rask lesing og søk.
 
 ---
 
