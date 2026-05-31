@@ -105,36 +105,56 @@ Det er per i dag ikke foreslått juridisk bindende mekanismer som sikrer at tota
 
 ---
 
-## Momentliste for høringsinnspill
+## Høringsinnspill – veiledning og momentliste
 
-### Om innspillsprosessen
+### Hvorfor sende innspill?
 
-Høringsinnspill sendes til Rambøll Norge AS v/Marie Dølør McDougall (marie.mcdougall@ramboll.no). Innspillene blir del av det offentlige planmaterialet og vil bli vurdert av Alta kommune før planprogrammet fastsettes.
+Planprogrammet fastsetter hvilke temaer som skal utredes i konsekvensutredningen. Dersom viktige temaer ikke tas med i planprogrammet, er det risiko for at de heller ikke blir tilstrekkelig utredet før planvedtak. **Jo flere som påpeker de samme manglene, desto større sjanse for at de blir tatt til følge.**
 
-Det kan også være relevant å sende kopi av innspillet til:
-- **Alta kommune** (postmottak@alta.kommune.no)
-- **Statsforvalteren i Troms og Finnmark** (sfotapost@statsforvalteren.no)
-- **Sametinget** (sametinget@sametinget.no)
-- **Kystverket** (post@kystverket.no)
+Alle kan sende innspill – privatpersoner, organisasjoner, lag og foreninger. Du trenger ikke juridisk eller faglig bakgrunn for å delta. Et innspill kan være kort og konsist, eller mer utfyllende – alt teller med i den samlede vurderingen.
 
-### Forslag til temaer som bør utredes
+### Hvem sender du innspill til?
 
-Følgende temaer fremstår som sentrale å få belyst gjennom konsekvensutredningen, basert på gjennomgang av planmaterialet:
+**Hovedmottaker:**
+> **Rambøll Norge AS** v/Marie Dølør McDougall  
+> E-post: marie.mcdougall@ramboll.no
 
-1. Konsekvenser for villaks i hele influensområdet, inkludert Altaelva og Repparfjordelva
-2. Kartlegging av kjemisk tilstand i Rognsundet og vurdering etter vannforskriften §12
-3. Sjøfuglkartlegging i hekkesesong (særlig truede arter som krykkje, lunde, storskarv)
-4. Marinarkeologisk befaring (kunnskapsgrunnlaget er i dag ukjent/lavt)
-5. Faktiske strømmålinger (ikke kun modellering)
-6. Konsultasjon etter sameloven §4-4 før planprogrammet fastsettes
-7. Nullalternativet utredes like grundig som planalternativene
-8. Kumulative effekter fra alle anlegg i Rognsundet vurderes samlet (inkl. Kime Akvas torskeoppdrett)
-9. Lakselusmodellering for villaks
-10. Rømningsrisiko vurdert opp mot klimaframskrivninger (ekstremvær)
-11. Avklaring av metodevalg – M-1941 bør vurderes for alle KU-tema
-12. Juridisk bindende rekkefølgebestemmelse som sikrer at biomasse ikke øker
-13. 3D-visualisering av synlighet fra Seiland nasjonalpark
-14. Sjøsamisk fiske utredes som eget tema
+Rambøll er planrådgiver for SalMar og skal sammenstille innspillene til kommunen. Innspillene blir del av det offentlige planmaterialet.
+
+**Anbefalte kopimottakere** – for å sikre at innspillet også blir sett av dem som skal vurdere planen:
+- **Alta kommune** (planmyndighet): postmottak@alta.kommune.no
+- **Statsforvalteren i Troms og Finnmark** (innsigelsesmyndighet): sfotapost@statsforvalteren.no
+- **Sametinget** (samiske interesser): sametinget@sametinget.no
+- **Kystverket** (farleder og sikkerhet): post@kystverket.no
+
+### Hva kan innspillet inneholde?
+
+Et innspill kan ta opp ett eller flere temaer. Listen nedenfor gir forslag til temaer som fremstår som sentrale å få belyst, basert på gjennomgang av planmaterialet. Du kan velge å fokusere på det du selv er mest opptatt av eller har kunnskap om.
+
+#### Forslag til temaer som bør utredes i konsekvensutredningen
+
+1. **Villaks og lakselus** – Konsekvenser for Altaelva (nasjonal lakseelv) og Repparfjordelva. Hele 16 % av laksen vandrer gjennom Rognsundet. Lakselusmodellering for villaks bør gjennomføres.
+2. **Vannforskriften §12** – Kjemisk tilstand i Rognsundet er ikke kartlagt. Uten dette grunnlaget kan man ikke vurdere om vilkårene for ny aktivitet er oppfylt.
+3. **Sjøfugl** – Kartlegging i hekkesesong mangler, særlig for truede arter som krykkje, lunde og storskarv.
+4. **Marinarkeologi** – Kunnskapsgrunnlaget for kulturminner i sjø er i dag ukjent/lavt. Marinarkeologisk befaring bør gjennomføres.
+5. **Strømforhold** – Det foreligger kun modellerte strømdata, ikke faktiske målinger. Strømmen har betydning for spredning av partikler og lakselus.
+6. **Kumulative effekter** – Samlet belastning fra alle lokaliteter i Rognsundet (5 eksisterende + 2 nye + Kime Akvas torskeoppdrett) bør utredes samlet, jf. naturmangfoldloven §10.
+7. **Seiland nasjonalpark** – Visuell påvirkning bør dokumenteres med 3D-modell og visualiseringer, slik kommunen har bedt om.
+8. **Samiske interesser** – Konsultasjon etter sameloven §4-4 bør gjennomføres før planprogrammet fastsettes. Sjøsamisk fiske og reindrift (distrikter 24A og 25) må utredes særskilt.
+9. **Metode for konsekvensutredning** – Alta kommune har anbefalt M-1941 (med feltarbeid) for flere tema, mens planrådgiver har foreslått V712. Valg av metode bør avklares.
+10. **Rømningsrisiko** – Bør vurderes opp mot klimaframskrivninger med økt frekvens av ekstremvær.
+11. **Rekkefølgebestemmelse for biomasse** – Dersom planen skal sikre at total biomasse ikke overstiger dagens nivå, bør dette sikres gjennom en juridisk bindende rekkefølgebestemmelse.
+12. **Nullalternativet** – Bør utredes like grundig som planalternativene, for å gi et reelt sammenligningsgrunnlag.
+
+#### Eksempel på hvordan et innspill kan formuleres
+
+> **Tema: Konsekvenser for villaks**
+>
+> Jeg ønsker å påpeke at konsekvenser for villaks i Altaelva må utredes grundig. Altaelva er en nasjonal lakseelv, og Havforskningsinstituttet har dokumentert at 16 % av laksen vandrer gjennom Rognsundet. Økt lakseluspress fra nye anlegg kan påvirke bestanden negativt. Jeg ber om at full lakselusmodellering for villaks inngår i konsekvensutredningen.
+
+> **Tema: Vannforskriften**
+>
+> Jeg er bekymret for at kjemisk tilstand i Rognsundet ikke er tilstrekkelig kartlagt. Uten dokumentert kjemisk tilstand er det vanskelig å vurdere om vannforskriften §12 er oppfylt. Jeg ber om at kjemisk tilstand kartlegges før planprogrammet fastsettes.
 
 ### Relevante problemstillinger for den videre planprosessen
 
