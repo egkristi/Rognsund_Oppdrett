@@ -2,7 +2,7 @@
 
 > **Formål:** Dette dokumentet samler ALL offentlig informasjon fra planmaterialet for detaljregulering for akvakultur i Rognsundet, Alta kommune. Basert på utvidet og svært grundig gjennomgang av varslingsbrev, planinitiativ, oppstartsmøtereferat, planprogram (23 sider), personvernerklæring og offentlige kunngjøringer.
 >
-> **Sist oppdatert:** 02.06.2026
+> **Sist oppdatert:** 01.06.2026
 
 ---
 
@@ -93,6 +93,15 @@ Dagens situasjon: Beholde fem eksisterende lokaliteter. Planstatus forblir:
 - **Sør:** FFNFA (fellesområde for fiske, ferdsel, natur, friluft og akvakultur) – **oppdrett av anadrome fiskearter ikke tillatt**
 
 Vannforekomsten Rognsundet (ID 0420031000-C) har i dag **god økologisk tilstand** og **ukjent kjemisk tilstand**. Vannforekomstene Store Kufjorden (042003100-C) og Innerpollen (0420031100-C) har også god økologisk og ukjent kjemisk tilstand.
+
+### 2.5 Grønn konsesjon – NRS Finnmarks MTB-økning
+
+Parallelt med SalMars planarbeid har **NRS Finnmark AS** søkt om en **grønn konsesjon** i Finnmark (område 11) med en MTB på 6.112 tonn. Dette er en egen konsesjonsprosess som behandles av Nærings- og fiskeridepartementet, men som har direkte relevans for Rognsundet:
+
+- Den viser at **samlet belastning** i regionen er i ferd med å øke, ikke bare fra SalMar
+- Grønne konsesjoner har særlige miljøvilkår knyttet til arealbruk og utslipp
+- SalMar selv har nylig gjennomført konvertering av utviklingslisenser i samme område
+- Understreker behovet for å vurdere **kumulative effekter** samlet for hele Rognsundet og tilstøtende fjordsystemer, ikke bare SalMars egne lokaliteter isolert
 
 ---
 
@@ -281,6 +290,8 @@ Planprogrammet har gjort en tidlig vurdering av risiko og sårbarhet. Følgende 
 
 > **Kritisk:** Altavassdraget har **moderat tilstand** – allerede under kvalitetsnormen. 16 % av laksen vandrer gjennom Rognsundet. Nye anlegg i vandringsruten vil øke lakseluspresset og svekke bestanden ytterligere. Både Altavassdraget og Repparfjordelva er innenfor 60 km fra begge alternativer.
 
+> **Presisering – lakseluspress:** HI-data viser at lakseluspresset på vill postsmolt i Altafjorden hittil har vært **lavt** (2–12 % prevalens, 1–2 lus/fisk). Rognsundet ligger **utenfor** den definerte nasjonale laksefjorden (Altafjorden innenfor Stjernsundet). Historisk lave nivåer er imidlertid ingen garanti for fremtiden, særlig ved endrede strømforhold eller økt produksjon i området. Mattilsynet har tidligere stoppet akvakulturprosjekter inne i nasjonale laksefjorder (bl.a. landbasert settefiskanlegg ved Alta), men Rognsundet ligger utenfor denne sonen.
+
 ### 5.2 Truede arter registrert i området
 
 | Art | Status | Kommentar | Lokasjon |
@@ -367,6 +378,14 @@ Påvirkning: Fysisk ikke beiteområder, men støy fra anlegg kan påvirke rein p
 - Gjelder **ut til 1 nautisk mil utenfor grunnlinjen**
 - Omfatter både land og sjø
 
+### 6.5 Sjøsamisk fiske – eget utredningstema?
+
+Planprogrammet behandler sjøsamisk fiske som en del av temaet "tradisjonelt fiske", med begrunnelsen at det "i praksis ikke er mulig å skille sjøsamisk fiske fra annet type fiske". Dette er en pragmatisk tilnærming, men reiser spørsmål:
+
+- **Risiko:** Sjøsamiske interesser kan bli usynliggjort når de slås sammen med tradisjonelt fiske
+- **Konsultasjonsplikt:** Sameloven §4-4 krever konsultasjon om forhold som berører samiske interesser spesifikt – ikke bare som del av allmennheten
+- **Anbefaling:** Innspill bør kreve at sjøsamisk fiske omtales som eget deltema i KU-en, selv om det utredes sammen med tradisjonelt fiske metodisk
+
 ---
 
 ## 7. Tekniske og sikkerhetsmessige forhold
@@ -411,6 +430,8 @@ Påvirkning: Fysisk ikke beiteområder, men støy fra anlegg kan påvirke rein p
 - Anleggene er flytende og fortøyd i havbunnen – **ingen direkte kontakt med land**
 - Består av: Én flåte med fôring og fiskehelseanlegg, merder koblet til denne
 
+> **Sammenligning:** Arealbeslaget på 2,4 km² tilsvarer omtrent **340 fotballbaner** eller **halvparten av sjøarealet i Rognsundet** (avhengig av definisjon). Til sammenligning er Alta kommunes tettsted på ca. 1,5 km².
+
 ### 7.5 Andre tekniske forhold
 
 | Forhold | Status |
@@ -431,7 +452,7 @@ Påvirkning: Fysisk ikke beiteområder, men støy fra anlegg kan påvirke rein p
 | Aktivitet | Tidsrom | Status |
 |-----------|---------|--------|
 | **1. Varsel oppstart** | Q2 2026 (11.05.2026) | ✅ Gjennomført |
-| **2. Høring av planprogram** | Q2 2026 – **frist 01.07.2026** | **PÅGÅR – 4 uker igjen** |
+| **2. Høring av planprogram** | Q2 2026 – **frist 01.07.2026** | **PÅGÅR – 1 måned igjen** |
 | **3. Medvirkningsmøter/folkemøter** | Q3 2026 | Ikke gjennomført |
 | **4. Fastsetting av planprogram** | Q4 2026 | Ikke gjennomført |
 | **5. Datainnsamling og utredninger** | Q4 2026 – Q1 2027 | Ikke gjennomført |
@@ -441,7 +462,7 @@ Påvirkning: Fysisk ikke beiteområder, men støy fra anlegg kan påvirke rein p
 
 > **Merk:** Fremdriftsplanen er tentativ og forutsetter at det ikke oppstår uforutsette utfordringer. Den vil påvirkes av saksbehandlingstid i kommunen og datoer for politiske møter.
 
-### 8.2 Medvirkningsmuligheter – tre anledninger
+### 8.2 Medvirkningsmuligheter – fire anledninger
 
 | Anledning | Tidsrom | Beskrivelse |
 |-----------|---------|-------------|
@@ -452,6 +473,19 @@ Påvirkning: Fysisk ikke beiteområder, men støy fra anlegg kan påvirke rein p
 | **3. Klage på vedtak** | Q1 2028 | 3 ukers frist etter kunngjøring |
 
 I tillegg: Det er anledning til å ta kontakt med plankonsulent via e-post eller telefon underveis i planprosessen.
+
+### 8.3 Konsesjonsprosess – reguleringsplanens begrensning
+
+Det er viktig å være klar over at **reguleringsplanen alene ikke gir SalMar rett til å drive akvakultur**. Følgende tillatelser må også foreligge:
+
+| Tillatelse | Myndighet | Behandling |
+|------------|-----------|------------|
+| **Akvakulturkonsesjon** | Nærings- og fiskeridepartementet | Egen prosess – kan ta år |
+| **Lokalitetsgodkjenning** | Mattilsynet | Fiskehelse, lakselus, rømming |
+| **Utslippstillatelse** | Statsforvalteren | Forurensningsloven |
+| **Reguleringsplan** | Alta kommune | Pbl. – denne prosessen |
+
+> **Konsekvens:** Selv om reguleringsplanen vedtas, kan prosjektet stoppes i konsesjonsrunden. Mattilsynet har tidligere stoppet prosjekter av hensyn til villaks (bl.a. landbasert settefiskanlegg ved Alta). Dette er et viktig argument for å sikre at KU-en er grundig nok – svakheter i KU kan også påvirke konsesjonsbehandlingen.
 
 ### 8.3 Konsultasjonsplikt etter sameloven
 
@@ -512,6 +546,15 @@ I henhold til KPA §1.11.1 skal følgende vurderes/utredes i det videre planarbe
 
 > **Merknad fra oppstartsmøtet:** Planrådgiver anbefaler en fordeling av undertemaer slik at enkelttemaer ikke gjentas unødig. Planbeskrivelsens punkter vil kort omtale KU-temaer med henvisning til utredning.
 
+### 9.1 NALO-programmet – nasjonalt arealverktøy for havbruk
+
+NALO (Nærings- og fiskeridepartementets arealverktøy for havbruk) er et nasjonalt program for å bedre arealplanleggingen for havbruk. Programmet skal:
+- Utvikle bedre metoder for arealvurdering
+- Sikre helhetlig forvaltning av kystsonen
+- Gi bedre beslutningsgrunnlag for både planmyndigheter og konsesjonsmyndigheter
+
+> **Relevans:** NALO-programmet bør legges til grunn for arealvurderingene i Rognsundet, særlig fordi planen berører både FFNFA-område og nasjonal lakseelv.
+
 ---
 
 ## 10. Kunnskapsmangler – svakheter i grunnlagsmaterialet
@@ -526,6 +569,9 @@ I henhold til KPA §1.11.1 skal følgende vurderes/utredes i det videre planarbe
 | **Marin kartlegging** | **Mangelfull** | ROV-kartlegging planlagt, ikke utført | Svekker KU-kvalitet |
 | **Faktisk påvirkning på villaks** | **Ikke utredet** | Skal inngå i KU – men lite kunnskap per i dag | Kvalitetsnorm for villaks |
 | **Konsekvensutredninger i KPA** | **Ikke gjennomført** | Områdene lå inne i forrige planversjon – ingen ny KU ved siste revisjon | Svekker beslutningsgrunnlag |
+| **Påvirkning på sjøørret/sjørøye** | **Ikke utredet** | Sjøørret og sjørøye er like sårbare for lakselus som laks, men omtales ikke spesifikt | Kan undervurdere samlet effekt |
+| **Kumulative effekter** | **Ikke utredet** | Eksisterende 5 anlegg + Kime Akvas torskeoppdrett + 2 nye anlegg = økt samlet belastning | Naturmangfoldloven §10 |
+| **Strømningsmønster og resipientkapasitet** | **Kun modellert** | Ingen faktiske målinger av strøm på de aktuelle lokalitetene | Kan feilvurdere spredning av avfall |
 
 > **Naturmangfoldloven §9 (føre-var-prinsippet):** *"Når det treffes en beslutning uten at det foreligger tilstrekkelig kunnskap om hvilke virkninger den kan ha for naturmiljøet, skal det tas sikte på å unngå mulig vesentlig skade på naturmangfoldet."*
 
@@ -598,6 +644,7 @@ Ny aktivitet kan tillates dersom **alle tre vilkår** er oppfylt:
 | 8 | **"Samme biomasse" ikke garantert** | Ingen juridisk bindende mekanisme i reguleringsplanen. Kun SalMars intensjon | **Middels** |
 | 9 | **Kumulative effekter** | Eksisterende 5 anlegg + Kime Akvas torskeoppdrett + 2 nye anlegg = økt samlet belastning. Ikke utredet samlet | **Høy** |
 | 10 | **Kartleggingsmangler i KPA** | Ingen konsekvensutredning ved siste revisjon av kommuneplanens arealdel – områdene lå inne fra forrige plan | **Middels** |
+| 11 | **Grønn konsesjon i samme område** | NRS Finnmark har søkt om 6.112 tonn MTB i område 11 – øker samlet belastning i regionen | **Middels** |
 
 ### 13.2 Sterke argumenter mot utvidelsen
 
@@ -611,6 +658,8 @@ Ny aktivitet kan tillates dersom **alle tre vilkår** er oppfylt:
 | Nasjonalpark | Forskrift om vern av Seiland nasjonalpark | **Middels** – synlighet |
 | Truede arter | Naturmangfoldloven, artsdatabanken | **Middels** – flere rødlistede |
 | Hvit lyktesektor | Havne- og farvannsloven | **Potensielt absolutt** |
+| Konsesjonsprosess | Akvakulturloven, Mattilsynet | **Middels** – kan stoppe i etterkant |
+| Sjøørret/sjørøye | Naturmangfoldloven, kvalitetsnorm | **Middels** – ikke utredet |
 
 ### 13.3 Hvem kan stoppe planen – vurdering av innsigelsesmyndighet
 
@@ -634,6 +683,8 @@ Ny aktivitet kan tillates dersom **alle tre vilkår** er oppfylt:
 | Q4 2026–Q1 2027 | KU-arbeid | Meld deg som informant |
 | Q3 2027 | Høring planforslag | Nytt innspill |
 | Q1 2028 | Planvedtak | Klagefrist 3 uker |
+| Etter planvedtak | Konsesjonsbehandling (NFD) | Egen høringsrunde |
+| Etter konsesjon | Lokalitetsgodkjenning (Mattilsynet) | Fiskehelse, lakselus, rømming |
 
 ---
 
@@ -669,11 +720,7 @@ Ny aktivitet kan tillates dersom **alle tre vilkår** er oppfylt:
 
 ## 15. Tilgjengelig bildemateriale
 
-Følgende bilder og figurer følger planmaterialet og er tilgjengelig i `underlag_bilder/`-mappen:
-
-| Fil | Innhold |
-|-----|---------|
-> **Merk:** Bildene ligger i `underlag_bilder/`-mappen. PDF-originalene ligger i `underlag/`-mappen.
+Følgende bilder og figurer følger planmaterialet og er tilgjengelig i `underlag_bilder/`-mappen. PDF-originalene ligger i `underlag/`-mappen.
 
 | Fil | Innhold |
 |-----|---------|
@@ -726,18 +773,44 @@ Planinitiativet inneholder en vurdering etter forskrift om konsekvensutredninger
 
 **Kritikk:** Dette er en **selvmotsigelse**. Man kan ikke si at mål ikke er overskredet når kjemisk tilstand ikke er dokumentert. Korrekt vurdering: "Kan ikke vurderes før kjemisk tilstand er kartlagt."
 
-### 16.4 §10 h) – Naturfarer
+### 16.4 §10 c) – Tettbygde områder, friluftsliv, samisk kultur
+
+**Planinitiativets vurdering:** Ikke spesifikt vurdert utover generell omtale.
+
+**Kritikk:** §10 c) krever vurdering av virkninger for tettbygde områder, friluftsliv og samisk kultur. Planinitiativet omtaler disse temaene, men foretar ingen reell vurdering av om virkningene er vesentlige. For et område med kontinuerlig sjøsamisk bosetting over flere hundre år, burde dette vært grundigere vurdert.
+
+### 16.5 §10 d) – Kulturminner
+
+**Planinitiativets vurdering:** Ikke spesifikt vurdert.
+
+**Kritikk:** Kulturminner i sjø er ukjent/lavt kartlagt. Tre ulike myndigheter er involvert (Finnmark fylkeskommune, Sametinget, UiT). Manglende vurdering av potensielle kulturminner i sjø er en svakhet.
+
+### 16.6 §10 e) – Miljøkvalitetsstandarder
+
+**Planinitiativets vurdering:** "Fastsatte mål for vannkvalitet er ikke overskredet" – men erkjenner at kjemisk tilstand er **ukjent**.
+
+**Kritikk:** Dette er en **selvmotsigelse**. Man kan ikke si at mål ikke er overskredet når kjemisk tilstand ikke er dokumentert. Korrekt vurdering: "Kan ikke vurderes før kjemisk tilstand er kartlagt."
+
+### 16.7 §10 h) – Naturfarer
 
 **Planinitiativets vurdering:** Erkjenner skredfare og registrert skred i 2010.
 
 **Kritikk:** Riktig identifisert, men vurderer ikke konsekvenser for bebyggelse og infrastruktur på land dersom flodbølge oppstår.
 
-### 16.5 Oppsummering – svakheter i §10-vurderingen
+### 16.8 §10 i) – Kumulative effekter
+
+**Planinitiativets vurdering:** Ikke vurdert.
+
+**Kritikk:** Kumulative effekter av eksisterende 5 anlegg + Kime Akvas torskeoppdrett + 2 nye anlegg er ikke vurdert. Dette er et sentralt kriterium i §10 og burde vært omtalt.
+
+### 16.9 Oppsummering – svakheter i §10-vurderingen
 
 1. **Forhåndskonklusjoner** om nasjonalpark og naturtyper uten utredning
 2. **Selvmotsigelse** om vannkvalitet (ukjent = ikke overskredet)
 3. **Undervurdering** av kumulative effekter
 4. **Manglende vurdering** av konsekvenser for lokalsamfunn ved flodbølge
+5. **Manglende vurdering** av kulturminner i sjø
+6. **Manglende vurdering** av samisk kultur som eget §10-kriterium
 
 ---
 
@@ -775,6 +848,12 @@ Basert på gjennomgangen av alt planmateriale, anbefales følgende punkter for i
 17. **Sjøsamisk fiske** må utredes som eget tema (ikke bare som del av tradisjonelt fiske)
 18. **Biomassegaranti** – krav om juridisk bindende rekkefølgebestemmelse
 
+### 17.5 Krav om innsyn og prosess
+
+19. **Innsynsbegjæring** – be om innsyn i alle relevante dokumenter etter offentleglova §25 (herunder e-postkorrespondanse mellom SalMar, Rambøll og Alta kommune)
+20. **NALO-programmet** – be om at NALO (Nærings- og fiskeridepartementets arealverktøy for havbruk) legges til grunn for arealvurderinger
+21. **Konsesjonsprosess** – be om at reguleringsplanen sees i sammenheng med konsesjonsbehandlingen, slik at KU-en også dekker konsesjonsmyndighetenes behov
+
 ---
 
 ## 18. Kilder
@@ -793,3 +872,7 @@ Basert på gjennomgangen av alt planmateriale, anbefales følgende punkter for i
 - Miljødirektoratet: Veileder M-1941 for konsekvensutredning av klima og miljø
 - Statens vegvesen: Håndbok V712 for konsekvensutredning
 - DSB: Veileder for samfunnssikkerhet i arealplanlegging (2017)
+- Havforskningsinstituttet: Lakselusdata for Altafjorden (prevalens 2–12 %)
+- Nærings- og fiskeridepartementet: Grønne konsesjoner – NRS Finnmark
+- Sameloven kapittel 4: Konsultasjonsplikt (§§4-4 og 4-5)
+- Offentleglova §25: Innsynsrett i saksdokumenter
