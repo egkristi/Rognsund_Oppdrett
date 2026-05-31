@@ -101,9 +101,21 @@ Det finnes **ingen juridisk bindende mekanisme** som sikrer at total biomasse ik
 
 ---
 
-## Mal for innspill til planprogrammet (frist 01.07.2026)
+## Strategisk handlingsplan – slik vinner du fram
 
-Send e-post til **marie.mcdougall@ramboll.no** med følgende punkter:
+### Fase 1: Høringsinnspill (nå – 1. juli 2026)
+
+#### Taktikk for innspillet ditt
+
+**Ikke send bare til Rambøll.** Rambøll er betalt av SalMar og skal levere et produkt. For å skape politisk press må innspillet ditt også nå politikerne og innsigelsesmyndighetene.
+
+**Gjør dette hver gang du sender innspill:**
+- **Koplinger (CC):** Alta kommune v/formannskapet (postmottak@alta.kommune.no), Statsforvalteren i Troms og Finnmark (sfotapost@statsforvalteren.no), Sametinget (sametinget@sametinget.no), Kystverket (post@kystverket.no)
+- **Offentliggjøring:** Send kopi til Altaposten og iFinnmark – gjør innspillet ditt til en nyhet
+
+#### Mal for innspill til planprogrammet (frist 01.07.2026)
+
+Send e-post til **marie.mcdougall@ramboll.no** – **med kopi til Alta kommune, Statsforvalteren, Sametinget og Kystverket.**
 
 **Krever at følgende utredes før planvedtak:**
 
@@ -122,23 +134,101 @@ Send e-post til **marie.mcdougall@ramboll.no** med følgende punkter:
 13. 3D-visualisering av synlighet fra Seiland nasjonalpark
 14. Sjøsamisk fiske utredes som eget tema
 
+### Fase 2: Politisk press og alliansebygging (juni 2026 – Q1 2027)
+
+#### 2.1 Gjør FFNFA-forbudet til en politisk debatt
+
+Den sørlige lokasjonen strider mot kommunens egen arealplan (KPA §6.2.2). Dette er ikke bare en plansak – det er en **demokratisk prinsippsak**.
+
+**Aksjoner:**
+- Krev at Alta-politikerne svarer i Altaposten/iFinnmark på om de vil overkjøre sin egen nylig vedtatte arealplan for én enkelt aktør
+- Still spørsmål ved om dette er "punktregulering" – et svært kontroversielt verktøy
+- Gjør saken til en debatt om **forutsigbarhet og demokrati**, ikke bare om fisk
+
+#### 2.2 Støtt kommunens administrasjon – slå kiler mot Rambøll
+
+Alta kommune ønsker M-1941 (streng KU-metodikk med feltarbeid). Rambøll vil bruke V712 (mindre feltarbeid). Still dere på kommunens side.
+
+**Aksjoner:**
+- Skriv debattinnlegg som roser kommuneadministrasjonen for å stille strenge krav
+- Kritiser SalMar/Rambøll for å velge "minste motstands vei" i konsekvensutredningen
+- Dette bygger allianse med saksbehandlerne i kommunen
+
+#### 2.3 Vekk "veto-myndighetene" nå
+
+Ikke vent på at Statsforvalteren, Kystverket og Sametinget skal lese Rambølls dokumenter.
+
+**Aksjoner:**
+- Ta direkte kontakt med saksbehandlere hos Statsforvalteren (miljøavdelingen)
+- Send dem analysen av KPA §6.2.2 (FFNFA) og utfordringen med Mjånes fyr
+- Be Statsforvalteren kreve M-1941-metodikk i sitt høringssvar – da må Rambøll bøye seg
+
+#### 2.4 Sjøsamisk juridisk blokkering
+
+Sameloven §4-4 krever konsultasjon. Hvis kommunen fatter vedtak uten reelle konsultasjoner, er vedtaket ugyldig.
+
+**Aksjoner:**
+- Lokale sjøsamiske rettighetshavere (fiskere fra Hakkstabben, Kvalfjord) bør **formelt kreve konsultasjon** med Alta kommune **nå**
+- Involér Sametinget og Norske Reindriftsamers Landsforbund
+- En formell konsultasjonsfeil kan klages inn for departementet
+
+### Fase 3: Juridisk binding og uavhengig fagekspertise (Q3 2026 – Q2 2027)
+
+#### 3.1 Krev rekkefølgebestemmelse for "samme biomasse"
+
+SalMar hevder de skal beholde samme biomasse. Uten en juridisk binding er dette en tom påstand.
+
+**Krev denne formuleringen:**
+> "Brukstillatelse for nye lokaliteter i Rognsund kan ikke gis før eksisterende lokaliteter i Pollen, Lille Kvalfjord og Store Kufjord er permanent avviklet, fortøyninger fjernet, og arealformålet tilbakeført til LNF i kommuneplanen."
+
+Hvis SalMar nekter en slik binding, avslører de at intensjonen er vekst, ikke flytting.
+
+#### 3.2 Skaff uavhengig fagekspertise
+
+SalMar kommer til å bruke innleide konsulenter (Åkerblå, Multiconsult) som konkluderer med "akseptabel påvirkning".
+
+**Aksjoner:**
+- Start en Spleis/crowdfunding: "Aksjon Redd Rognsund"
+- Bruk pengene til å leie uavhengige marinbiologer (NINA, universitetsmiljøer)
+- Få dem til å kvalitetssikre – og eventuelt tilbakevise – konsulentrapportene
+- Spesielt viktig: villaks (Altavassdraget) og strømmodeller
+
+### Fase 4: Organisering og mediesynlighet (fortløpende)
+
+#### 4.1 Stift en formell forening
+
+**"Bevar Rognsundet"** – med styre og organisasjonsnummer.
+
+**Hvorfor:** En formell organisasjon får partrettigheter i saken og rett til å delta i møter. Det gir også tyngde i mediekontakt og innsamling.
+
+#### 4.2 Visuell krigføring
+
+Byråkratiske dokumenter vinner i forvaltningen – bilder vinner folket og politikerne.
+
+**Aksjoner:**
+- Få en fotograf eller dronepilot til å ta bilder fra topper i Seiland nasjonalpark
+- Illustrer med røde bokser hvor store anleggene (ca. 2,5 km²) vil bli i det ubesudlede landskapet
+- Del bildene i sosiale medier og send til lokalaviser
+
 ---
 
 ## Hvem kan stoppe planen?
 
-| Aktør | Hva de kan gjøre | Sannsynlighet |
-|-------|------------------|:-------------:|
-| **Statsforvalteren i Troms og Finnmark** | Fremme **innsigelse** – stopper planen | **Høy** |
-| **Sametinget** | Kreve konsultasjon – kan løftes til departementet | **Middels-Høy** |
-| **Kystverket** | Avvise plassering pga. hvit lyktesektor | **Middels** |
-| **Fiskeridirektoratet** | Innsigelse på gyteområder og fiskeinteresser | **Middels** |
-| **NVE** | Innsigelse på skredfare og flodbølgerisiko | **Middels** |
-| **Mattilsynet** | Fiskehelse og lakselus | **Middels** |
-| **Finnmark fylkeskommune** | Kulturminner, regionale interesser | **Lav-Middels** |
-| **Naturvernforbundet / WWF / FNF** | Innsigelse og/eller søksmål | Avhenger av mobilisering |
-| **Bygdelag** (Hakkstabben, Altnes, Kvalfjord) | Lokal mobilisering og innspill | Viktig for politisk trykk |
-| **Reinbeitedistrikter** (24A, 25) | Samiske rettigheter, konsultasjon | Kan forsinke |
-| **Lokale medier** (Altaposten, iFinnmark) | Offentlig debatt og press | Viktig for opinionen |
+| Aktør | Hva de kan gjøre | Sannsynlighet | Når bør de kontaktes? |
+|-------|------------------|:-------------:|-----------------------|
+| **Statsforvalteren i Troms og Finnmark** | Fremme **innsigelse** – stopper planen | **Høy** | **Nå** – send dem analysen av KPA §6.2.2 |
+| **Sametinget** | Kreve konsultasjon – kan løftes til departementet | **Middels-Høy** | **Nå** – be dem kreve konsultasjon |
+| **Kystverket** | Avvise plassering pga. hvit lyktesektor | **Middels** | **Nå** – be dem vurdere Mjånes fyr |
+| **Fiskeridirektoratet** | Innsigelse på gyteområder og fiskeinteresser | **Middels** | Ved høring av planforslag |
+| **NVE** | Innsigelse på skredfare og flodbølgerisiko | **Middels** | Ved høring av planforslag |
+| **Mattilsynet** | Fiskehelse og lakselus | **Middels** | Ved høring av planforslag |
+| **Finnmark fylkeskommune** | Kulturminner, regionale interesser | **Lav-Middels** | Ved høring av planforslag |
+| **Alta kommune (formannskapet)** | Politisk vedtak – kan si nei | **Lav** (foreløpig) | **Nå** – krev svar i lokalavisen |
+| **Naturvernforbundet / WWF / FNF** | Innsigelse og/eller søksmål | Avhenger av mobilisering | Be om støtte allerede nå |
+| **Norske Reindriftsamers Landsforbund** | Støtte konsultasjonskrav | Kan forsterke samisk press | Kontakt i juni 2026 |
+| **Bygdelag** (Hakkstabben, Altnes, Kvalfjord) | Lokal mobilisering og innspill | Viktig for politisk trykk | Organisér nå |
+| **Reinbeitedistrikter** (24A, 25) | Samiske rettigheter, konsultasjon | Kan forsinke | Involér før planprogram fastsettes |
+| **Lokale medier** (Altaposten, iFinnmark) | Offentlig debatt og press | Viktig for opinionen | Send innlegg og tips løpende |
 
 ---
 
