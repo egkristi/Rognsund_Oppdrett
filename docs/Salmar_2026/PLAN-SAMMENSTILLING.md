@@ -584,28 +584,56 @@ Ny aktivitet kan tillates dersom **alle tre vilkår** er oppfylt:
 
 ## 13. Nøkkelfunn – oppsummert
 
-### Røde flagg – svakheter i planmaterialet
+### 13.1 Røde flagg – svakheter i planmaterialet
 
-1. **FFNFA-forbudet:** Sørlig lokasjon ligger i FFNFA hvor oppdrett av anadrome fiskearter ikke er tillatt
-2. **Villaks:** Altavassdraget har moderat tilstand – 16 % av laksen vandrer gjennom Rognsundet
-3. **Kunnskapsmangel:** Kjemisk tilstand, kulturminner i sjø, fugl, strømdata – alt mangler
-4. **Vannforskriften:** God økologisk status i dag – nytt oppdrett kan true måloppnåelse
-5. **Hvit lyktesektor:** Kystverket må godkjenne – kan være absolutt hinder
-6. **Metodeuenighet:** Kommune og planrådgiver uenige om KU-metodikk
-7. **Skredfare:** Snøskred kan utløse flodbølger – registrert skred i 2010
-8. **"Samme biomasse" ikke garantert:** Ingen juridisk bindende mekanisme
+| # | Flagg | Detaljer | Alvorlighet |
+|---|-------|----------|:-----------:|
+| 1 | **FFNFA-forbudet** | Sørlig lokasjon ligger i FFNFA hvor oppdrett av anadrome fiskearter ikke er tillatt (KPA §6.2.2). Planinitiativet er merket "STRIDER med overordnet plan" | **Kritisk** |
+| 2 | **Villaks** | Altavassdraget har moderat tilstand (under kvalitetsnormen). 16 % av laksen vandrer gjennom Rognsundet. Tiltaket ligger i buffersonen | **Kritisk** |
+| 3 | **Kunnskapsmangel** | Kjemisk tilstand (ukjent), kulturminner i sjø (ukjent), fuglekartlegging (mangler), strømdata (kun modellering), truede arter på land (mangelfull kartlegging) | **Kritisk** |
+| 4 | **Vannforskriften** | God økologisk status i dag. Kjemisk tilstand ukjent. §12 kan ikke dokumenteres oppfylt | **Kritisk** |
+| 5 | **Hvit lyktesektor** | Mjånes fyr – Kystverket må godkjenne. Kan være absolutt hinder for plassering | **Høy** |
+| 6 | **Metodeuenighet** | Kommune og planrådgiver uenige om KU-metodikk (M-1941 vs. V712) for tradisjonelt fiske og befolkning/samfunn | **Høy** |
+| 7 | **Skredfare** | Snøskred kan utløse flodbølger. Registrert skred i 2010 ved Hestneset/Hestneselva. Steinsprangfare ved sørlig lokasjon | **Høy** |
+| 8 | **"Samme biomasse" ikke garantert** | Ingen juridisk bindende mekanisme i reguleringsplanen. Kun SalMars intensjon | **Middels** |
+| 9 | **Kumulative effekter** | Eksisterende 5 anlegg + Kime Akvas torskeoppdrett + 2 nye anlegg = økt samlet belastning. Ikke utredet samlet | **Høy** |
+| 10 | **Kartleggingsmangler i KPA** | Ingen konsekvensutredning ved siste revisjon av kommuneplanens arealdel – områdene lå inne fra forrige plan | **Middels** |
 
-### Sterke argumenter mot utvidelsen
+### 13.2 Sterke argumenter mot utvidelsen
 
-| Argument | Juridisk grunnlag |
-|----------|-------------------|
-| FFNFA-forbudet | KPA §6.2.2 |
-| Villaks/buffersone | Naturmangfoldloven §13, kvalitetsnorm for villaks |
-| Kunnskapsmangel | Naturmangfoldloven §9 (føre-var) |
-| Vannforskriften | Vannforskriften §§4 og 12 |
-| Samisk konsultasjon | Sameloven §§4-4 og 4-5 |
-| Nasjonalpark | Forskrift om vern av Seiland nasjonalpark |
-| Truede arter | Naturmangfoldloven, artsdatabanken |
+| Argument | Juridisk grunnlag | Styrke |
+|----------|-------------------|:------:|
+| FFNFA-forbudet | KPA §6.2.2 | **Sterk** – direkte bestemmelse |
+| Villaks/buffersone | Naturmangfoldloven §13, kvalitetsnorm for villaks | **Sterk** – nasjonal lakseelv |
+| Kunnskapsmangel | Naturmangfoldloven §9 (føre-var-prinsippet) | **Sterk** – flere mangler |
+| Vannforskriften | Vannforskriften §§4 og 12 | **Sterk** – ukjent kjemisk tilstand |
+| Samisk konsultasjon | Sameloven §§4-4 og 4-5 | **Sterk** – kan forsinke/stanse |
+| Nasjonalpark | Forskrift om vern av Seiland nasjonalpark | **Middels** – synlighet |
+| Truede arter | Naturmangfoldloven, artsdatabanken | **Middels** – flere rødlistede |
+| Hvit lyktesektor | Havne- og farvannsloven | **Potensielt absolutt** |
+
+### 13.3 Hvem kan stoppe planen – vurdering av innsigelsesmyndighet
+
+| Aktør | Innsigelsesgrunnlag | Sannsynlighet |
+|-------|--------------------|:-------------:|
+| **Statsforvalteren** | Miljø- og samfunnshensyn – villaks, naturmangfold, vannforskriften | **Høy** |
+| **Sametinget** | Samiske rettigheter, kulturminner, konsultasjonsplikt | **Middels-Høy** |
+| **Kystverket** | Hvit lyktesektor, farled, sikkerhet | **Middels** |
+| **Fiskeridirektoratet** | Gyteområder, fiskeinteresser | **Middels** |
+| **NVE** | Skredfare, flodbølgerisiko | **Middels** |
+| **Mattilsynet** | Fiskehelse, lakselus | **Middels** |
+| **Finnmark fylkeskommune** | Kulturminner, regionale interesser | **Lav-Middels** |
+
+### 13.4 Tidslinje for påvirkning
+
+| Frist | Hva | Handling |
+|:----:|-----|----------|
+| **01.07.2026** | Høring planprogram | Send skriftlig innspill til Rambøll |
+| Q3 2026 | Folkemøter | Møt opp og si din mening |
+| Q4 2026 | Fastsetting planprogram | Følg med – krev endringer |
+| Q4 2026–Q1 2027 | KU-arbeid | Meld deg som informant |
+| Q3 2027 | Høring planforslag | Nytt innspill |
+| Q1 2028 | Planvedtak | Klagefrist 3 uker |
 
 ---
 
@@ -641,7 +669,7 @@ Ny aktivitet kan tillates dersom **alle tre vilkår** er oppfylt:
 
 ## 15. Tilgjengelig bildemateriale
 
-Følgende bilder og figurer følger planmaterialet og er tilgjengelig i `Salmar_2026/`-mappen:
+Følgende bilder og figurer følger planmaterialet og er tilgjengelig i `underlag/`-mappen:
 
 | Fil | Innhold |
 |-----|---------|
@@ -672,7 +700,80 @@ Følgende bilder og figurer følger planmaterialet og er tilgjengelig i `Salmar_
 
 
 
-## 16. Kilder
+## 16. Vurdering av planinitiativets §10-vurdering
+
+Planinitiativet inneholder en vurdering etter forskrift om konsekvensutredninger §10 (kriterier for vesentlige virkninger). Her er en kritisk gjennomgang:
+
+### 16.1 §10 a) – Verneområder, nasjonale laksefjorder m.m.
+
+**Planinitiativets vurdering:** "Seiland nasjonalpark og dens hensikt påvirkes ikke negativt."
+
+**Kritikk:** Dette er en **forhåndskonklusjon** uten utredning. Nasjonalparkens verneformål (alpin landsform) kan påvirkes av synlige industrielle anlegg. Vurderingen burde vært: "Kan ikke utelukkes før KU er gjennomført."
+
+### 16.2 §10 b) – Truede arter, samiske interesser, friluftsliv
+
+**Planinitiativets vurdering:** Erkjenner kartleggingsmangler og truede arter, men konkluderer likevel med KU-plikt.
+
+**Kritikk:** Riktig konklusjon (KU kreves), men vurderingen undervurderer potensielle virkninger for truede fuglearter og sjøsamisk fiske.
+
+### 16.3 §10 e) – Miljøkvalitetsstandarder
+
+**Planinitiativets vurdering:** "Fastsatte mål for vannkvalitet er ikke overskredet" – men erkjenner at kjemisk tilstand er **ukjent**.
+
+**Kritikk:** Dette er en **selvmotsigelse**. Man kan ikke si at mål ikke er overskredet når kjemisk tilstand ikke er dokumentert. Korrekt vurdering: "Kan ikke vurderes før kjemisk tilstand er kartlagt."
+
+### 16.4 §10 h) – Naturfarer
+
+**Planinitiativets vurdering:** Erkjenner skredfare og registrert skred i 2010.
+
+**Kritikk:** Riktig identifisert, men vurderer ikke konsekvenser for bebyggelse og infrastruktur på land dersom flodbølge oppstår.
+
+### 16.5 Oppsummering – svakheter i §10-vurderingen
+
+1. **Forhåndskonklusjoner** om nasjonalpark og naturtyper uten utredning
+2. **Selvmotsigelse** om vannkvalitet (ukjent = ikke overskredet)
+3. **Undervurdering** av kumulative effekter
+4. **Manglende vurdering** av konsekvenser for lokalsamfunn ved flodbølge
+
+---
+
+## 17. Anbefalte innspillspunkter til planprogrammet
+
+Basert på gjennomgangen av alt planmateriale, anbefales følgende punkter for innspill til planprogrammet (frist 01.07.2026):
+
+### 17.1 Krav om bedre kunnskapsgrunnlag
+
+1. **Kjemisk tilstand** må kartlegges før planprogrammet fastsettes – ikke etter
+2. **Fuglekartlegging** må gjennomføres i hekkesesong før KU
+3. **Strømmålinger** må være reelle (ikke kun modellering)
+4. **Marinarkeologisk befaring** må gjennomføres før planvedtak
+5. **Kartlegging av truede arter** må oppdateres – store hvite flekker
+
+### 17.2 Krav om metode
+
+6. **M-1941** må brukes for ALLE KU-tema – ikke V712 (som åpner for mindre feltarbeid)
+7. **Kumulative effekter** må utredes samlet for alle anlegg i Rognsundet
+8. **Nullalternativet** må utredes like grundig som planalternativene
+9. **Vannforskriften §12** må vurderes før planprogrammet fastsettes
+
+### 17.3 Krav om prosess
+
+10. **Konsultasjon etter sameloven §4-4** må gjennomføres før planprogrammet fastsettes
+11. **Folkemøter** må avholdes før høringsfristen (ikke etter)
+12. **Kystverket** må gi innledende vurdering av hvit lyktesektor
+13. **FFNFA-forbudet** må avklares juridisk før planarbeidet fortsetter
+
+### 17.4 Krav om utredningsinnhold
+
+14. **Lakselusmodellering** for villaks i hele influensområdet
+15. **Rømningsrisiko** vurdert opp mot klimaframskrivninger (ekstremvær)
+16. **Synlighet fra Seiland nasjonalpark** må visualiseres med 3D-modell
+17. **Sjøsamisk fiske** må utredes som eget tema (ikke bare som del av tradisjonelt fiske)
+18. **Biomassegaranti** – krav om juridisk bindende rekkefølgebestemmelse
+
+---
+
+## 18. Kilder
 
 - [Alta kommune – Varsel om oppstart](https://www.alta.kommune.no/nyhetsarkiv/nyheter/2026-05-29-varsel-om-oppstart-av--detaljregulering-for-akvakultur-i-rognsund)
 - [Rambøll – Kunngjøring Rognsund akvakultur](https://www.ramboll.com/no-no/kunngjoring-rognsund-akvakultur)
@@ -685,3 +786,6 @@ Følgende bilder og figurer følger planmaterialet og er tilgjengelig i `Salmar_
 - Artsdatabanken: registreringer i Rognsundet
 - Kystinfo.no: farled, lyktesektorer
 - Lakseaklyngan/Havforskningsinstituttet (2018): laksevandring Altaelva
+- Miljødirektoratet: Veileder M-1941 for konsekvensutredning av klima og miljø
+- Statens vegvesen: Håndbok V712 for konsekvensutredning
+- DSB: Veileder for samfunnssikkerhet i arealplanlegging (2017)

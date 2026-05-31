@@ -18,9 +18,12 @@ Prosjektet inneholder:
 
 ## Innhold
 
-| Mappe | Innhold |
-|-------|---------|
-| `docs/Salmar_2026/` | **All dokumentasjon spesifikt for SalMars plan om utvidelse i Rognsund** – planprogram, planinitiativ, møtereferater, strategisk analyse og argumentasjonsgrunnlag |
+| Mappe / Fil | Innhold |
+|-------------|---------|
+| `docs/Salmar_2026/` | **All dokumentasjon spesifikt for SalMars plan om utvidelse i Rognsund** |
+| `docs/Salmar_2026/README.md` | Handlingsplan, 10 argumenter, innspillsmal, tidslinje |
+| `docs/Salmar_2026/PLAN-SAMMENSTILLING.md` | **Utvidet analyse** – 18 kapitler med full gjennomgang av alt planmateriale |
+| `docs/Salmar_2026/underlag/` | **7 underlagsdokumenter** i markdown-format + 20+ kart/figurer |
 
 Se [docs/Salmar_2026/README.md](docs/Salmar_2026/README.md) for fullstendig dokumentasjon og handlingsplan.
 
