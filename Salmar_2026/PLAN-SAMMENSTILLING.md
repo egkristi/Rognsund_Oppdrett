@@ -1,4 +1,4 @@
-# 📋 Plan-sammenstilling: Detaljregulering for akvakultur i Rognsund
+# Plan-sammenstilling: Detaljregulering for akvakultur i Rognsund
 
 > **Formål:** Dette dokumentet samler ALL offentlig informasjon fra planmaterialet for detaljregulering for akvakultur i Rognsundet, Alta kommune. Basert på gjennomgang av varslingsbrev, planinitiativ, oppstartsmøtereferat, planprogram, personvernerklæring og offentlige kunngjøringer.
 >
@@ -91,9 +91,9 @@ Vannforekomsten Rognsundet (ID 0420031000-C) har i dag **god økologisk tilstand
 |------|--------|----------|
 | **Kommuneplanens arealdel (KPA) 2021–2040** | PlanID 20170001, vedtatt 15.02.2021 | **Nordlig areal:** Avsatt til fiske. **Sørlig areal:** FFNFA |
 | **KPA §6.2.2** | Gjeldende bestemmelse | **"I områder avsatt til fellesområde FFNFA er oppdrett av anadrome fiskearter (laks og ørret) ikke tillatt"** |
-| **Planinitiativet STRIDER med overordnet plan** | Avkrysset i oppstartsmøtereferat | ✅ Dokumentert |
+| **Planinitiativet STRIDER med overordnet plan** | Avkrysset i oppstartsmøtereferat | Dokumentert |
 
-> **⚠️ Dette er et sentralt juridisk problem:** Sørlig lokasjon ligger i FFNFA-område hvor oppdrett av laks ikke er tillatt. Planen krever derfor reguleringsendring.
+> **Dette er et sentralt juridisk problem:** Sørlig lokasjon ligger i FFNFA-område hvor oppdrett av laks ikke er tillatt. Planen krever derfor reguleringsendring.
 
 ### 3.2 Statlige retningslinjer og føringer
 
@@ -127,13 +127,13 @@ Vannforekomsten Rognsundet (ID 0420031000-C) har i dag **god økologisk tilstand
 
 | # | Tema | KU? | Metode | Feltarbeid? |
 |---|------|:---:|--------|:-----------:|
-| 1 | **Naturmangfold og vannmiljø** | ✅ Ja | M-1941 | ✅ Fuglekartlegging, ROV-kartlegging av havbunn |
-| 2 | **Landskapsbilde** | ✅ Ja | M-1941 | Vurderes – spesielt siktlinjer fra Seiland nasjonalpark |
-| 3 | **Kulturmiljø** | ✅ Ja | M-1941 | Vurderes – både land og sjø |
-| 4 | **Friluftsliv** | ✅ Ja | M-1941 | Dialog med bygdelag, idrettslag |
-| 5 | **Reindrift** | ✅ Ja | V712 | Dialogmøter med reinbeitedistrikter |
-| 6 | **Tradisjonelt fiske** (inkl. sjøsamisk fiske/matauk/fritidsfiske med kvote) | ✅ Ja | M-1941 | Dialog med fiskarlag, bygdelag, fiskere |
-| 7 | **Befolkning og samfunn** | ✅ Ja | V712 / temanotat | Folkemøter, dialog med bygdelag |
+| 1 | **Naturmangfold og vannmiljø** | Ja | M-1941 | Fuglekartlegging, ROV-kartlegging av havbunn |
+| 2 | **Landskapsbilde** | Ja | M-1941 | Vurderes – spesielt siktlinjer fra Seiland nasjonalpark |
+| 3 | **Kulturmiljø** | Ja | M-1941 | Vurderes – både land og sjø |
+| 4 | **Friluftsliv** | Ja | M-1941 | Dialog med bygdelag, idrettslag |
+| 5 | **Reindrift** | Ja | V712 | Dialogmøter med reinbeitedistrikter |
+| 6 | **Tradisjonelt fiske** (inkl. sjøsamisk fiske/matauk/fritidsfiske med kvote) | Ja | M-1941 | Dialog med fiskarlag, bygdelag, fiskere |
+| 7 | **Befolkning og samfunn** | Ja | V712 / temanotat | Folkemøter, dialog med bygdelag |
 
 ### 4.2 Fagutredninger (ikke KU)
 
@@ -152,7 +152,7 @@ Planprogrammet har gjort en tidlig vurdering av risiko og sårbarhet. Følgende 
 | **Støy fra anlegg** | Støyutredning iht. T-1442 kreves |
 | **Flodbølge som følge av skred** | Skred fra land og ut i sjø kan utløse flodbølger – skredfareutredning kreves |
 
-> **⚠️ Merk:** ROS-analysen er ikke et krav i KU-forskriften, men et krav i plan- og bygningsloven. Den innledende vurderingen i planprogrammet er kun en tidlig identifisering av tema.
+> **Merk:** ROS-analysen er ikke et krav i KU-forskriften, men et krav i plan- og bygningsloven. Den innledende vurderingen i planprogrammet er kun en tidlig identifisering av tema.
 
 ### 4.4 Tema som håndteres i planbeskrivelsen
 
@@ -164,7 +164,7 @@ Planprogrammet har gjort en tidlig vurdering av risiko og sårbarhet. Følgende 
 
 ### 4.5 Metodikk – uenighet mellom kommune og planrådgiver
 
-> **⚠️ Viktig:** Det er dokumentert **uenighet** om hvilken metodikk som skal brukes for KU.
+> **Viktig:** Det er dokumentert **uenighet** om hvilken metodikk som skal brukes for KU.
 
 | Tema | Kommunens ønske | Planrådgivers forslag |
 |------|-----------------|----------------------|
@@ -258,7 +258,7 @@ Påvirkning: Fysisk ikke beiteområder, men støy fra anlegg kan påvirke rein p
 | **Hvem skal konsulteres** | Reindrift, sjøsamiske interesser, samiske organisasjoner |
 | **Konsekvens** | Uenighet kan løftes til Kommunal- og distriktsdepartementet |
 
-> **⚠️ Viktig:** Varselet sier: *"Representanter for samiske interesser bes melde inn behov for konsultasjon iht. sameloven kapittel 4 så snart som mulig, gjerne i forbindelse med dette varselet om oppstart av planarbeid. Dette gjelder både reindrift og andre samiske og sjøsamiske interesser."*
+> **Viktig:** Varselet sier: *"Representanter for samiske interesser bes melde inn behov for konsultasjon iht. sameloven kapittel 4 så snart som mulig, gjerne i forbindelse med dette varselet om oppstart av planarbeid. Dette gjelder både reindrift og andre samiske og sjøsamiske interesser."*
 
 ### 6.4 Sametingets planveileder
 
@@ -311,8 +311,8 @@ Påvirkning: Fysisk ikke beiteområder, men støy fra anlegg kan påvirke rein p
 
 | Aktivitet | Tidsrom |
 |-----------|---------|
-| **1. Varsel oppstart** | Q2 2026 ✅ (11.05.2026) |
-| **2. Høring av planprogram** | Q2 2026 – **frist 01.07.2026** ⛔ |
+| **1. Varsel oppstart** | Q2 2026 (11.05.2026) |
+| **2. Høring av planprogram** | Q2 2026 – **frist 01.07.2026** |
 | **3. Medvirkningsmøter/folkemøter** | Q3 2026 |
 | **4. Fastsetting av planprogram** | Q4 2026 |
 | **5. Datainnsamling og utredninger** | Q4 2026 – Q1 2027 |
@@ -406,7 +406,7 @@ I henhold til KPA §1.11.1 skal følgende vurderes/utredes:
 | **Marin kartlegging** | **Mangelfull** | ROV-kartlegging planlagt, ikke utført |
 | **Faktisk påvirkning på villaks** | **Ikke utredet** | Skal inngå i KU |
 
-> **⚠️ Naturmangfoldloven §9 (føre-var-prinsippet):** *"Når det treffes en beslutning uten at det foreligger tilstrekkelig kunnskap om hvilke virkninger den kan ha for naturmiljøet, skal det tas sikte på å unngå mulig vesentlig skade på naturmangfoldet."*
+> **Naturmangfoldloven §9 (føre-var-prinsippet):** *"Når det treffes en beslutning uten at det foreligger tilstrekkelig kunnskap om hvilke virkninger den kan ha for naturmiljøet, skal det tas sikte på å unngå mulig vesentlig skade på naturmangfoldet."*
 
 ---
 
@@ -425,7 +425,7 @@ I henhold til KPA §1.11.1 skal følgende vurderes/utredes:
 2. Samfunnsnytten er større enn tapet av miljøkvalitet
 3. Formålet ikke kan nås med andre, miljømessig bedre alternativer
 
-> **⚠️ Vurdering:** Siden kjemisk tilstand er ukjent, kan man ikke dokumentere at vannforskriften §12 er oppfylt.
+> **Vurdering:** Siden kjemisk tilstand er ukjent, kan man ikke dokumentere at vannforskriften §12 er oppfylt.
 
 ---
 
@@ -445,7 +445,7 @@ I henhold til KPA §1.11.1 skal følgende vurderes/utredes:
 
 ## 13. Nøkkelfunn – oppsummert
 
-### 🚩 Røde flagg – svakheter i planmaterialet
+### Røde flagg – svakheter i planmaterialet
 
 1. **FFNFA-forbudet:** Sørlig lokasjon ligger i FFNFA hvor oppdrett av anadrome fiskearter ikke er tillatt
 2. **Villaks:** Altavassdraget har moderat tilstand – 16 % av laksen vandrer gjennom Rognsundet
@@ -456,7 +456,7 @@ I henhold til KPA §1.11.1 skal følgende vurderes/utredes:
 7. **Skredfare:** Snøskred kan utløse flodbølger – registrert skred i 2010
 8. **"Samme biomasse" ikke garantert:** Ingen juridisk bindende mekanisme
 
-### 🛡️ Sterke argumenter mot utvidelsen
+### Sterke argumenter mot utvidelsen
 
 | Argument | Juridisk grunnlag |
 |----------|-------------------|

@@ -1,4 +1,4 @@
-# 🚫 Nei til mer oppdrett i Rognsund
+# Nei til mer oppdrett i Rognsund
 
 **Dette repositoriet dokumenterer hvorfor SalMar Farming AS ikke bør få utvide oppdrettsvirksomheten i Rognsundet, Alta kommune.**
 
@@ -9,10 +9,10 @@
 Dette er et **dokumentasjons- og argumentsamlingsprosjekt** for alle som ønsker å forstå, påvirke eller stoppe SalMars planer om å erstatte fem eksisterende oppdrettslokaliteter med to nye i Rognsundet.
 
 Prosjektet inneholder:
-- 📄 **Offentlige dokumenter** i markdown-format (planinitiativ, planprogram, møtereferater m.m.)
-- 🔍 **Analyser** av svakheter i planmaterialet
-- 📝 **Argumenter og maler** for innspill til høringsprosesser
-- 🗺️ **Kartlegging** av juridiske og prosessuelle muligheter til å påvirke
+- **Offentlige dokumenter** i markdown-format (planinitiativ, planprogram, møtereferater m.m.)
+- **Analyser** av svakheter i planmaterialet
+- **Argumenter og maler** for innspill til høringsprosesser
+- **Kartlegging** av juridiske og prosessuelle muligheter til å påvirke
 
 ---
 
@@ -22,7 +22,7 @@ Prosjektet inneholder:
 |-------|---------|
 | `Salmar_2026/` | **All dokumentasjon spesifikt for SalMars plan om utvidelse i Rognsund** – planprogram, planinitiativ, møtereferater, strategisk analyse og argumentasjonsgrunnlag |
 
-Se `Salmar_2026/README.md` for fullstendig dokumentasjon og handlingsplan.
+Se [Salmar_2026/README.md](Salmar_2026/README.md) for fullstendig dokumentasjon og handlingsplan.
 
 ---
 

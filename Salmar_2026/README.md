@@ -1,9 +1,9 @@
-# 🚫 NEI til mer oppdrett i Rognsund!
+# NEI til mer oppdrett i Rognsund
 
 **Dette prosjektet dokumenterer hvorfor SalMar Farming AS ikke bør få utvide oppdrettsvirksomheten i Rognsundet, Alta kommune.**
 
-> ⚠️ **Høringsfrist: 01.07.2026** – Send innspill til marie.mcdougall@ramboll.no  
-> ⏳ **Kun 4 uker igjen!** Nedenfor finner du alt du trenger for å skrive et effektivt innspill.
+> **Høringsfrist: 01.07.2026** – Send innspill til marie.mcdougall@ramboll.no  
+> **Kun 4 uker igjen!** Nedenfor finner du alt du trenger for å skrive et effektivt innspill.
 
 ---
 
@@ -15,15 +15,15 @@ Dette prosjektet samler alle offentlige dokumenter og analyserer svakhetene i pl
 
 ---
 
-## ⚡ De 8 viktigste grunnene til å si NEI
+## De 8 viktigste grunnene til å si NEI
 
-### 1. 🐟 Villaksen – Altaelva er Norges viktigste lakseelv
+### 1. Villaksen – Altaelva er Norges viktigste lakseelv
 Altavassdraget er en **nasjonal lakseelv** med **moderat tilstand** – under kvalitetsnormen. Hele **16 % av laksen** vandrer gjennom Rognsundet. Nye anlegg i vandringsruten vil øke lakseluspresset og svekke bestanden ytterligere. Dette er kanskje **det sterkeste argumentet mot utvidelsen**.
 
-### 2. ⚖️ FFNFA-forbudet – planen strider med overordnet plan
+### 2. FFNFA-forbudet – planen strider med overordnet plan
 Kommuneplanens arealdel §6.2.2 slår fast: **Oppdrett av anadrome fiskearter er ikke tillatt i FFNFA**. Sørlig lokasjon ligger i FFNFA-område. Planinitiativet er merket: *«STRIDER med overordnet/gjeldende plan»*. Dette er et **grunnleggende juridisk problem** for SalMar.
 
-### 3. ❓ Kunnskapsgrunnlaget er for dårlig
+### 3. Kunnskapsgrunnlaget er for dårlig
 Flere sentrale forhold er ikke kartlagt:
 - Kjemisk tilstand i Rognsundet er **ukjent**
 - Kulturminner i sjø er **ukjent/lavt**
@@ -31,24 +31,24 @@ Flere sentrale forhold er ikke kartlagt:
 - **Strømdata** finnes ikke – kun modellering
 - Naturmangfoldloven §9 krever at **føre-var-prinsippet** legges til grunn
 
-### 4. 🌊 Vannforskriften §12 – kan forhindre utbygging
+### 4. Vannforskriften §12 – kan forhindre utbygging
 Rognsundet har i dag **god økologisk status**. Nytt oppdrett kan forverre tilstanden og true måloppnåelse etter vannforskriften. Utslipp fra eksisterende oppdrett er allerede en påvirkningsfaktor.
 
-### 5. 🏔️ Seiland nasjonalpark
+### 5. Seiland nasjonalpark
 Anleggene vil være **synlige fra topper og høyder i nasjonalparken**. Et industrielt oppdrettsanlegg i synlig avstand fra et vernet alpint område svekker opplevelsesverdien og strider mot verneformålet.
 
-### 6. 🦅 Truede arter
+### 6. Truede arter
 Området har flere **truede fuglearter**: storskarv, gråmåke, tyvjo, ærfugl, krykkje og lunde. I tillegg er det **gyteområder for torsk** ved Sanden, Nordbukta og Store Kufjord.
 
-### 7. 👥 Samiske rettigheter og reindrift
+### 7. Samiske rettigheter og reindrift
 To reinbeitedistrikter berøres (24A Oarje-Sievju og 25 Stierdná). **Konsultasjonsplikt** etter sameloven §4-4. Sjøsamisk bosetting og tradisjonelt fiske må utredes særskilt. Sametingets planveileder gjelder ut til 1 nautisk mil.
 
-### 8. 🚢 Hvit lyktesektor – kan blokkere plassering
+### 8. Hvit lyktesektor – kan blokkere plassering
 Mjånes fyrlykt har hvite sektorer som **i utgangspunktet ikke tillater anlegg**. Rambølls vurdering er foreløpig – Kystverket må gi endelig svar. Dette kan være et **absolutt hinder**.
 
 ---
 
-## 📋 Dokumenter i prosjektet
+## Dokumenter i prosjektet
 
 | # | Fil | Beskrivelse |
 |---|-----|-------------|
@@ -61,15 +61,15 @@ Mjånes fyrlykt har hvite sektorer som **i utgangspunktet ikke tillater anlegg**
 | 7 | `Vedlegg 4 - Personvernerklæring.md` | Personvernerklæring Rambøll |
 | 8 | `Oversiktskart2-9.png`, `Beligenhet.png`, `Farleder.png` m.fl. | 20+ kartutsnitt og figurer fra planmaterialet |
 
-> 📸 **Bildemateriale:** Mappen inneholder 20+ PNG-filer med kart, figurer og tabeller fra planprogrammet. Se `PLAN-SAMMENSTILLING.md` kapittel 15 for full oversikt.
+> **Bildemateriale:** Mappen inneholder 20+ PNG-filer med kart, figurer og tabeller fra planprogrammet. Se `PLAN-SAMMENSTILLING.md` kapittel 15 for full oversikt.
 
 ---
 
-## 📅 Tidslinje – slik kan du påvirke prosessen
+## Tidslinje – slik kan du påvirke prosessen
 
 | Dato | Hva skjer? | Hva du bør gjøre |
 |------|------------|------------------|
-| **01.07.2026** ⛔ | **Frist for innspill til planprogram** | Send skriftlig protest – se mal nedenfor |
+| **01.07.2026** | **Frist for innspill til planprogram** | Send skriftlig protest – se mal nedenfor |
 | Q3 2026 | Folkemøter i Rognsund | Møt opp og si din mening |
 | Q4 2026 | Planprogram fastsettes | Følg med – krev endringer |
 | Q4 2026–Q1 2027 | Konsekvensutredninger | Meld deg som informant for fiske, friluftsliv, reindrift |
@@ -78,26 +78,26 @@ Mjånes fyrlykt har hvite sektorer som **i utgangspunktet ikke tillater anlegg**
 
 ---
 
-## 📝 Mal for innspill til planprogrammet (frist 01.07.2026)
+## Mal for innspill til planprogrammet (frist 01.07.2026)
 
 Send e-post til **marie.mcdougall@ramboll.no** med følgende punkter:
 
 **Krever at følgende utredes før planvedtak:**
 
-1. ✅ Full konsekvensutredning for villaks i hele influensområdet, inkludert Altaelva
-2. ✅ Kartlegging av kjemisk tilstand i Rognsundet + vurdering etter vannforskriften §12
-3. ✅ Sjøfuglkartlegging i hekkesesong (spesielt truede arter)
-4. ✅ Marinarkeologisk befaring
-5. ✅ Faktiske strømmålinger (ikke bare modellering)
-6. ✅ Konsultasjon etter sameloven §4-4 før planprogrammet fastsettes
-7. ✅ Nullalternativet utredes like grundig som planalternativene
-8. ✅ Kumulative effekter fra alle anlegg i Rognsundet vurderes samlet
-9. ✅ Lakselusmodellering for villaks
-10. ✅ Rømningsrisiko vurdert opp mot klimaframskrivninger
+1. Full konsekvensutredning for villaks i hele influensområdet, inkludert Altaelva
+2. Kartlegging av kjemisk tilstand i Rognsundet + vurdering etter vannforskriften §12
+3. Sjøfuglkartlegging i hekkesesong (spesielt truede arter)
+4. Marinarkeologisk befaring
+5. Faktiske strømmålinger (ikke bare modellering)
+6. Konsultasjon etter sameloven §4-4 før planprogrammet fastsettes
+7. Nullalternativet utredes like grundig som planalternativene
+8. Kumulative effekter fra alle anlegg i Rognsundet vurderes samlet
+9. Lakselusmodellering for villaks
+10. Rømningsrisiko vurdert opp mot klimaframskrivninger
 
 ---
 
-## 🏛️ Hvem kan stoppe planen?
+## Hvem kan stoppe planen?
 
 | Aktør | Hva de kan gjøre |
 |-------|------------------|
@@ -114,7 +114,7 @@ Send e-post til **marie.mcdougall@ramboll.no** med følgende punkter:
 
 ---
 
-## 🔑 Nøkkelargumenter på én side
+## Nøkkelargumenter på én side
 
 | Argument | Hvorfor det betyr noe |
 |----------|----------------------|
