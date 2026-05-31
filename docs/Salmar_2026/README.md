@@ -24,7 +24,9 @@ Dette prosjektet samler offentlige dokumenter og presenterer en faglig gjennomga
 ## Sentrale problemstillinger i planen
 
 ### 1. Villaks – Altaelva er Norges viktigste lakseelv
-Altavassdraget er en **nasjonal lakseelv** med **moderat tilstand** – under kvalitetsnormen for laksebestander. Ifølge Havforskningsinstituttet (Lakseaklyngan, 2018) vandrer **16 % av laksen** gjennom Rognsundet. Nye anlegg i vandringsruten kan øke lakseluspresset og påvirke bestanden negativt. Også Repparfjordelva ligger innenfor 60 km influensområde.
+Altavassdraget er en **nasjonal lakseelv** med **moderat tilstand** – under kvalitetsnormen for laksebestander. Ifølge Havforskningsinstituttet (Lakseaklyngan, 2018) vandrer **16 % av laksen** gjennom Rognsundet, som er én av tre hovedruter for utvandrende smolt fra Altaelva (de øvrige er Stjernsundet og Vargsundet).
+
+**Viktig presisering:** Altafjorden er definert som nasjonal laksefjord *innenfor* Stjernsundet – Rognsundet ligger **utenfor** denne sonen. HI-data viser at lakseluspresset på vill postsmolt i Altafjorden hittil har vært **lavt** (2–12 % prevalens, 1–2 lus/fisk). Historisk lave nivåer er imidlertid ingen garanti for fremtiden, særlig ved endrede strømforhold eller økt produksjon i området. Mattilsynet har tidligere stoppet akvakulturprosjekter *inne i* nasjonale laksefjorder (bl.a. landbasert settefiskanlegg ved Alta), men Rognsundet ligger utenfor denne sonen. Også Repparfjordelva ligger innenfor 60 km influensområde.
 
 ### 2. FFNFA – forholdet til kommuneplanens arealdel
 Kommuneplanens arealdel §6.2.2 angir at oppdrett av anadrome fiskearter ikke er tillatt i FFNFA (fjord- og kystområder med særlige naturverdier). Den sørlige lokasjonen ligger i FFNFA-område. Planinitiativet er merket: *"STRIDER med overordnet/gjeldende plan"*. Dette reiser spørsmål om forholdet til overordnet plan.
@@ -57,7 +59,11 @@ To reinbeitedistrikter berøres (24A Oarje-Sievju og 25 Stierdná). Konsultasjon
 Mjånes fyrlykt har hvite sektorer som i utgangspunktet ikke tillater faste installasjoner. Rambølls vurdering er foreløpig – Kystverket må gi endelig uttalelse. Dette kan påvirke plassering av anleggene.
 
 ### 10. Biomasse og kumulative effekter
-Det er per i dag ikke foreslått juridisk bindende mekanismer som sikrer at total biomasse ikke øker utover dagens 15 300 tonn. Reguleringsplanen åpner for etablering – fremtidige endringer av kapasitet følger ordinære prosesser. Kumulative effekter fra alle lokaliteter i Rognsundet, inkludert Kime Akvas torskeoppdrett, er ikke samlet utredet.
+Det er per i dag ikke foreslått juridisk bindende mekanismer som sikrer at total biomasse ikke øker utover dagens 15 300 tonn. Reguleringsplanen åpner for etablering – fremtidige endringer av kapasitet følger ordinære prosesser.
+
+**Grønn konsesjon:** NRS Finnmark (SalMar) har i tillegg søkt om grønn konsesjon som kan øke MTB med 36 %. Dette innebærer at selv om reguleringsplanen i seg selv ikke øker biomassen, kan totalproduksjonen i området likevel vokse gjennom andre tillatelsesløp. Sammenkoblingen mellom disse prosessene bør belyses i konsekvensutredningen.
+
+Kumulative effekter fra alle lokaliteter i Rognsundet, inkludert Kime Akvas torskeoppdrett, er ikke samlet utredet.
 
 ---
 
@@ -100,8 +106,10 @@ Det er per i dag ikke foreslått juridisk bindende mekanismer som sikrer at tota
 | Q3 2026 | Folkemøter i Rognsund | Delta og gi innspill muntlig |
 | Q4 2026 | Planprogram fastsettes av Alta kommune | Følg med på politisk behandling |
 | Q4 2026–Q1 2027 | Konsekvensutredninger gjennomføres | Meld interesse som informant for fiske, friluftsliv, reindrift |
-| Q3 2027 | Høring av planforslag (6 uker) | Ny høringsrunde – anledning til å kommentere hele planen |
-| Q1 2028 | Planvedtak i Alta kommune | Klagefrist 3 uker etter vedtak |
+| Q1–Q3 2027 | Høring av planforslag (6 uker) | Ny høringsrunde – anledning til å kommentere hele planen |
+| Q2 2027 | Mattilsynets behandling av konsesjonssøknad | Mulighet for innspill til konsesjonsprosessen |
+| Q2 2028 | Endelig planvedtak i Alta kommune | Klagefrist 3 uker etter vedtak til Statsforvalteren |
+| Q3 2028 | Klagefrist konsesjon (Mattilsynet) | Klage til Landbruks- og matdepartementet |
 
 ---
 
@@ -145,6 +153,14 @@ Et innspill kan ta opp ett eller flere temaer. Listen nedenfor gir forslag til t
 10. **Rømningsrisiko** – Bør vurderes opp mot klimaframskrivninger med økt frekvens av ekstremvær.
 11. **Rekkefølgebestemmelse for biomasse** – Dersom planen skal sikre at total biomasse ikke overstiger dagens nivå, bør dette sikres gjennom en juridisk bindende rekkefølgebestemmelse.
 12. **Nullalternativet** – Bør utredes like grundig som planalternativene, for å gi et reelt sammenligningsgrunnlag.
+
+#### Innsynsbegjæringer – en annen måte å bidra på
+
+Uavhengig av høringsinnspill kan du også be om innsyn i dokumenter etter **offentleglova §25**. Slike begjæringer bidrar til å sikre at all relevant informasjon kommer frem i lyset. Eksempel på formulering:
+
+> *«I henhold til offentleglova §25 ber vi om innsyn i alle dokumenter knyttet til «Planinitiativ akvakultur Rognsund» i Alta kommune. Vi ber om elektronisk kopi av planinitiativ, planprogram, innrapporterte miljøundersøkelser og statistikkgrunnlag som er brukt i planarbeidet.»*
+
+Send gjerne innsynsbegjæringen til Alta kommune (postmottak@alta.kommune.no) og/eller Mattilsynet.
 
 #### Eksempel på hvordan et innspill kan formuleres
 
@@ -200,7 +216,7 @@ Flere offentlige instanser har roller i planprosessen og kan fremme innsigelse d
 
 | Argument | Hvorfor det betyr noe | Juridisk grunnlag |
 |----------|----------------------|-------------------|
-| **Villaks** | Altaelva = nasjonal lakseelv. 16 % vandrer gjennom Rognsundet. Allerede moderat tilstand. | Nat.mangfoldloven §13, kvalitetsnorm |
+| **Villaks** | Altaelva = nasjonal lakseelv. 16 % vandrer gjennom Rognsundet (én av tre hovedruter). Allerede moderat tilstand. HI-data viser lavt lusetrykk, men historikk er ingen garanti. Rognsundet ligger *utenfor* nasjonal laksefjord. | Nat.mangfoldloven §13, kvalitetsnorm |
 | **FFNFA-forbud** | KPA §6.2.2: Oppdrett av anadrome fiskearter er ikke tillatt i FFNFA. | KPA §6.2.2 |
 | **Kunnskapsmangel** | Kjemisk tilstand, fugl, kulturminner, strømdata – alt mangler. | Nat.mangfoldloven §9 (føre-var) |
 | **Vannforskriften** | God okologisk status i dag. Kjemisk tilstand ukjent. §12 kan ikke dokumenteres. | Vannforskriften §§4 og 12 |
@@ -211,6 +227,7 @@ Flere offentlige instanser har roller i planprosessen og kan fremme innsigelse d
 | **Hvit lyktesektor** | Mjånes fyr – kan være absolutt hinder for plassering. | Havne- og farvannsloven |
 | **Skredfare** | Snøskred kan utløse flodbølger. Registrert skred i 2010. | Pbl (ROS-analyse) |
 | **"Samme biomasse"** | Ingen juridisk garanti. Reguleringsplanen åpner bare for etablering. | Mangler rekkefølgebestemmelse |
+| **Grønn konsesjon** | NRS Finnmark (SalMar) søker grønn konsesjon som kan øke MTB med 36 % – kan gi reell vekst utenom reguleringsplanen. | Akvakulturloven |
 | **Kumulative effekter** | 5+2 anlegg + torskeoppdrett = okt samlet belastning. Ikke utredet. | Nat.mangfoldloven §10 |
 
 ---
@@ -265,4 +282,6 @@ Kontaktperson: **Marie Dølør McDougall** – tlf. +47 975 87 006
 
 - [Rambøll – Kunngjøring Rognsund akvakultur](https://www.ramboll.com/no-no/kunngjoring-rognsund-akvakultur)
 - [Alta kommune – Varsel om oppstart](https://www.alta.kommune.no/nyhetsarkiv/nyheter/2026-05-29-varsel-om-oppstart-av--detaljregulering-for-akvakultur-i-rognsund)
+- [Havforskningsinstituttet – NALO-overvåking av lakselus på vill fisk](https://www.hi.no/hi/temasider/lakselus)
+- [Mattilsynet – Tidligere vedtak om avslag for settefiskanlegg ved Alta (nasjonal laksefjord)](https://www.mattilsynet.no/)
 - [GitHub-repository](https://github.com/egkristi/Rognsund_Oppdrett)
