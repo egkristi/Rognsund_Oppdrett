@@ -61,16 +61,19 @@ Det finnes **ingen juridisk bindende mekanisme** som sikrer at total biomasse ik
 
 | # | Fil | Beskrivelse |
 |---|-----|-------------|
-| 1 | `underlag/D-bre-001 Varsel om oppstart Rognsund.md` | Formelt varsel om oppstart |
-| 2 | `underlag/Kunngjøring_ Rognsund akvakultur - Ramboll - [www.ramboll.com].md` | Rambølls kunngjøring |
-| 3 | `underlag/Varsel om oppstart av detaljregulering for akvakultur i Rognsund - [www.alta.kommune.no].md` | Alta kommunes kunngjøring |
-| 4 | `underlag/Vedlegg 1 - Planinitiativ.md` | Planinitiativ (OCR) – 13 sider |
-| 5 | `underlag/Vedlegg 2 - Oppstartsmøtereferat.md` | Møtereferat 22.01.2026 – 11 sider |
-| 6 | `underlag/Vedlegg 3 - Planprogram.md` | **Hoveddokument** – Planprogram – 23 sider |
-| 7 | `underlag/Vedlegg 4 - Personvernerklæring.md` | Personvernerklæring Rambøll |
-| 8 | `underlag/Oversiktskart2-9.png`, `Beligenhet.png`, `Farleder.png` m.fl. | 20+ kartutsnitt og figurer fra planmaterialet |
+| # | Fil | Beskrivelse |
+|---|-----|-------------|
+| 1 | `underlag_konvertert/D-bre-001 Varsel om oppstart Rognsund.md` | Formelt varsel om oppstart |
+| 2 | `underlag_konvertert/Kunngjøring_ Rognsund akvakultur - Ramboll - [www.ramboll.com].md` | Rambølls kunngjøring |
+| 3 | `underlag_konvertert/Varsel om oppstart av detaljregulering for akvakultur i Rognsund - [www.alta.kommune.no].md` | Alta kommunes kunngjøring |
+| 4 | `underlag_konvertert/Vedlegg 1 - Planinitiativ.md` | Planinitiativ (OCR) – 13 sider |
+| 5 | `underlag_konvertert/Vedlegg 2 - Oppstartsmøtereferat.md` | Møtereferat 22.01.2026 – 11 sider |
+| 6 | `underlag_konvertert/Vedlegg 3 - Planprogram.md` | **Hoveddokument** – Planprogram – 23 sider |
+| 7 | `underlag_konvertert/Vedlegg 4 - Personvernerklæring.md` | Personvernerklæring Rambøll |
+| 8 | `underlag_bilder/*.png`, `*.jpg` | 20+ kartutsnitt og figurer fra planmaterialet |
 
-> **Bildemateriale:** Mappen `underlag/` inneholder 20+ PNG-filer med kart, figurer og tabeller fra planprogrammet. Se `PLAN-SAMMENSTILLING.md` kapittel 15 for full oversikt.
+> **Bildemateriale:** Mappen `underlag_bilder/` inneholder 20+ PNG/JPG-filer med kart, figurer og tabeller fra planprogrammet. Se `PLAN-SAMMENSTILLING.md` kapittel 15 for full oversikt.
+> **PDF-originaler:** Mappen `underlag/` inneholder de originale PDF-dokumentene.
 
 ---
 
@@ -187,14 +190,6 @@ Send til:
 > E-post: marie.mcdougall@ramboll.no
 
 Kontaktperson: **Marie Dølør McDougall** – tlf. +47 975 87 006
-
----
-
-## Teknisk miljø
-
-- **Python 3.9.6** med virtuelle miljø (uv 0.11.16)
-- **Pdfminer-six**, **pypdf**, **pdf2image**, **pytesseract**, **Pillow** for PDF-prosessering og OCR
-- Markdown-konvertering for enklere tekstanalyse
 
 ---
 

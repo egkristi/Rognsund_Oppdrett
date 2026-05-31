@@ -669,7 +669,11 @@ Ny aktivitet kan tillates dersom **alle tre vilkår** er oppfylt:
 
 ## 15. Tilgjengelig bildemateriale
 
-Følgende bilder og figurer følger planmaterialet og er tilgjengelig i `underlag/`-mappen:
+Følgende bilder og figurer følger planmaterialet og er tilgjengelig i `underlag_bilder/`-mappen:
+
+| Fil | Innhold |
+|-----|---------|
+> **Merk:** Bildene ligger i `underlag_bilder/`-mappen. PDF-originalene ligger i `underlag/`-mappen.
 
 | Fil | Innhold |
 |-----|---------|

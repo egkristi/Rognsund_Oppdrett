@@ -23,7 +23,7 @@ Prosjektet inneholder:
 | `docs/Salmar_2026/` | **All dokumentasjon spesifikt for SalMars plan om utvidelse i Rognsund** |
 | `docs/Salmar_2026/README.md` | Handlingsplan, 10 argumenter, innspillsmal, tidslinje |
 | `docs/Salmar_2026/PLAN-SAMMENSTILLING.md` | **Utvidet analyse** – 18 kapitler med full gjennomgang av alt planmateriale |
-| `docs/Salmar_2026/underlag/` | **7 underlagsdokumenter** i markdown-format + 20+ kart/figurer |
+| `docs/Salmar_2026/underlag/` | **Originale PDF-dokumenter** (7 stk) |\n| `docs/Salmar_2026/underlag_konvertert/` | **Konverterte markdown-filer** (7 stk) |\n| `docs/Salmar_2026/underlag_bilder/` | **Kart og figurer** (20+ PNG/JPG) |
 
 Se [docs/Salmar_2026/README.md](docs/Salmar_2026/README.md) for fullstendig dokumentasjon og handlingsplan.
 
