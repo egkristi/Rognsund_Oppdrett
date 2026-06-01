@@ -349,6 +349,29 @@ Planinitiativet inneholder en vurdering etter forskrift om konsekvensutredninger
 
 ## Tidslinje for planprosessen
 
+```mermaid
+gantt
+    title Tidslinje for planprosessen – Rognsund
+    dateFormat  YYYY-MM
+    axisFormat  %b %Y
+
+    section Høring og medvirkning
+    Høring planprogram (frist 01.07.2026)     :milestone, 2026-07-01, 0d
+    Folkemøter i Rognsund                     :2026-08, 2026-10
+    Fastsetting av planprogram                :milestone, 2026-12, 0d
+
+    section Utredning
+    Konsekvensutredninger gjennomføres        :2026-12, 2027-03
+    Høring av planforslag (6 uker)            :2027-03, 2027-09
+
+    section Vedtak og klage
+    Mattilsynet – konsesjonssøknad            :2027-04, 2027-06
+    Endelig planvedtak Alta kommune           :milestone, 2028-04, 0d
+    Klagefrist reguleringsplan (3 uker)       :2028-04, 2028-05
+    Klagefrist konsesjon (Mattilsynet)        :2028-07, 2028-09
+    Sivilombudsmannen (saksbehandlingsfeil)   :2028-09, 2029-01
+```
+
 | Dato | Aktivitet | Mulighet for påvirkning |
 |------|-----------|------------------------|
 | **01.07.2026** | **Frist for innspill til planprogram** | Send skriftlige innspill – se momentliste over |
