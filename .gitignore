@@ -16,8 +16,7 @@ __pycache__/
 .venv/
 venv/
 
-# MkDocs build output
-_site/
+
 
 # Symlink to Salmar_2026 inside docs/
 docs/Salmar_2026
