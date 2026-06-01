@@ -20,12 +20,14 @@ Prosjektet inneholder:
 
 | Mappe / Fil | Innhold |
 |-------------|---------|
-| `docs/Salmar_2026/` | **All dokumentasjon spesifikt for SalMars plan om utvidelse i Rognsund** |
-| `docs/Salmar_2026/README.md` | Handlingsplan, 10 argumenter, innspillsmal, tidslinje |
-| `docs/Salmar_2026/PLAN-SAMMENSTILLING.md` | **Utvidet analyse** – 18 kapitler med full gjennomgang av alt planmateriale |
-| `docs/Salmar_2026/underlag/` | **Originale PDF-dokumenter** (7 stk) |\n| `docs/Salmar_2026/underlag_konvertert/` | **Konverterte markdown-filer** (7 stk) |\n| `docs/Salmar_2026/underlag_bilder/` | **Kart og figurer** (20+ PNG/JPG) |
+| `Salmar_2026/` | **All dokumentasjon spesifikt for SalMars plan om utvidelse i Rognsund** |
+| `Salmar_2026/README.md` | Handlingsplan, 10 argumenter, innspillsmal, tidslinje |
+| `Salmar_2026/PLAN-SAMMENSTILLING.md` | **Utvidet analyse** – 18 kapitler med full gjennomgang av alt planmateriale |
+| `Salmar_2026/underlag/` | **Originale PDF-dokumenter** (7 stk) |
+| `Salmar_2026/underlag_konvertert/` | **Konverterte markdown-filer** (7 stk) |
+| `Salmar_2026/underlag_bilder/` | **Kart og figurer** (20+ PNG/JPG) |
 
-Se [docs/Salmar_2026/README.md](docs/Salmar_2026/README.md) for fullstendig dokumentasjon og handlingsplan.
+Se [Salmar_2026/README.md](Salmar_2026/README.md) for fullstendig dokumentasjon og handlingsplan.
 
 > Nettside (GitHub Pages): [https://egkristi.github.io/Rognsund_Oppdrett/](https://egkristi.github.io/Rognsund_Oppdrett/)
 
@@ -46,7 +48,7 @@ Området har nasjonale og internasjonale verneinteresser:
 
 ## Hvordan bidra
 
-1. **Les dokumentene** i `docs/Salmar_2026/` for å sette deg inn i saken
+1. **Les dokumentene** i `Salmar_2026/` for å sette deg inn i saken
 2. **Bruk argumentene** i README-en til å skrive innspill
 3. **Frist for innspill til planprogram: 01.07.2026**
 4. **Spred ordet** – del kunnskapen med andre som er opptatt av Rognsund

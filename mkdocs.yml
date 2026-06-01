@@ -1,0 +1,45 @@
+site_name: Rognsundet – Dokumentasjon og faglig gjennomgang
+site_description: Åpen, faglig gjennomgang av SalMar Farming AS' planer om ny akvakulturvirksomhet i Rognsundet, Alta kommune
+site_url: https://egkristi.github.io/Rognsund_Oppdrett/
+repo_url: https://github.com/egkristi/Rognsund_Oppdrett
+repo_name: egkristi/Rognsund_Oppdrett
+edit_uri: blob/main/
+
+theme:
+  name: material
+  language: nb
+  palette:
+    primary: indigo
+    accent: deep orange
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - toc:
+      permalink: true
+  - attr_list
+  - def_list
+  - footnotes
+
+nav:
+  - Hjem: index.md
+  - Hoveddokumentasjon: Salmar_2026/README.md
+  - Plan-sammenstilling: Salmar_2026/PLAN-SAMMENSTILLING.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/egkristi/Rognsund_Oppdrett
+
+copyright: >
+  Dette prosjektet er fritt tilgjengelig for alle som ønsker å bruke dokumentasjonen i arbeidet med å bevare Rognsundet.
