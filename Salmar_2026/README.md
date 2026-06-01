@@ -95,7 +95,6 @@ Rognsundet er en del av Altafjordsystemet, og hval som beiter på sildestimene k
 ### 11. Biomasse og kumulative effekter
 Det er per i dag ikke foreslått juridisk bindende mekanismer som sikrer at total biomasse ikke øker utover dagens 15 300 tonn. Reguleringsplanen åpner for etablering – fremtidige endringer av kapasitet følger ordinære prosesser.
 
-**Grønn konsesjon:** NRS Finnmark (SalMar) har i tillegg søkt om grønn konsesjon som kan øke MTB med 36 %. Dette innebærer at selv om reguleringsplanen i seg selv ikke øker biomassen, kan totalproduksjonen i området likevel vokse gjennom andre tillatelsesløp. Sammenkoblingen mellom disse prosessene bør belyses i konsekvensutredningen.
 
 Kumulative effekter fra alle lokaliteter i Rognsundet, inkludert Kime Akvas torskeoppdrett, er ikke samlet utredet.
 
@@ -351,7 +350,6 @@ Flere offentlige instanser har roller i planprosessen og kan fremme innsigelse d
 | **Skredfare** | Snøskred kan utløse flodbølger. Registrert skred ved Hestneset i 2010. Steinsprangfare ved sørlig lokasjon. | Pbl (ROS-analyse) |
 | **§10-vurdering** | Planinitiativet har forhåndskonklusjoner og selvmotsigelser (ukjent = ikke overskredet). | KU-forskriften §10 |
 | **"Samme biomasse"** | Ingen juridisk garanti. Reguleringsplanen åpner bare for etablering. | Mangler rekkefølgebestemmelse |
-| **Grønn konsesjon** | NRS Finnmark (SalMar) søker grønn konsesjon som kan øke MTB med 36 % – kan gi reell vekst utenom reguleringsplanen. | Akvakulturloven |
 | **Kumulative effekter** | 5+2 anlegg + torskeoppdrett = økt samlet belastning. Ikke utredet samlet. HI-data viser «meget god» bunntilstand ved eksisterende anlegg, men nye lokaliteter på hardbunn kan gi andre effekter. | Nat.mangfoldloven §10 |
 | **Fiskefelt for kystflåten** | Nordlige områder i Rognsund er mye brukte fiskefelt. Anlegg kan fortrenge tradisjonelt fiske og hindre tilgang. | KPA, Fiskeridirektoratet |
 | **Hval og sjøpattedyr** | Altafjorden er internasjonalt kjent hvalområde (spekkhogger, knølhval, finnhval). I tillegg store mengder kvitnos og nise i Rognsund – mer stedbundne og til stede hele året. Undervannsstøy og økt aktivitet kan påvirke atferd og beiting. | Nat.mangfoldloven §§8–10, CMS-konvensjonen |

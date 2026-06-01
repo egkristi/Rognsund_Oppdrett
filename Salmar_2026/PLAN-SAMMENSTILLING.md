@@ -94,15 +94,6 @@ Dagens situasjon: Beholde fem eksisterende lokaliteter. Planstatus forblir:
 
 Vannforekomsten Rognsundet (ID 0420031000-C) har i dag **god økologisk tilstand** og **ukjent kjemisk tilstand**. Vannforekomstene Store Kufjorden (042003100-C) og Innerpollen (0420031100-C) har også god økologisk og ukjent kjemisk tilstand.
 
-### 2.5 Grønn konsesjon – NRS Finnmarks MTB-økning
-
-Parallelt med SalMars planarbeid har **NRS Finnmark AS** søkt om en **grønn konsesjon** i Finnmark (område 11) med en MTB på 6.112 tonn. Dette er en egen konsesjonsprosess som behandles av Nærings- og fiskeridepartementet, men som har direkte relevans for Rognsundet:
-
-- Den viser at **samlet belastning** i regionen er i ferd med å øke, ikke bare fra SalMar
-- Grønne konsesjoner har særlige miljøvilkår knyttet til arealbruk og utslipp
-- SalMar selv har nylig gjennomført konvertering av utviklingslisenser i samme område
-- Understreker behovet for å vurdere **kumulative effekter** samlet for hele Rognsundet og tilstøtende fjordsystemer, ikke bare SalMars egne lokaliteter isolert
-
 ---
 
 ## 3. Planstatus og overordnede planer
@@ -644,7 +635,7 @@ Ny aktivitet kan tillates dersom **alle tre vilkår** er oppfylt:
 | 8 | **"Samme biomasse" ikke garantert** | Ingen juridisk bindende mekanisme i reguleringsplanen. Kun SalMars intensjon | **Middels** |
 | 9 | **Kumulative effekter** | Eksisterende 5 anlegg + Kime Akvas torskeoppdrett + 2 nye anlegg = økt samlet belastning. Ikke utredet samlet | **Høy** |
 | 10 | **Kartleggingsmangler i KPA** | Ingen konsekvensutredning ved siste revisjon av kommuneplanens arealdel – områdene lå inne fra forrige plan | **Middels** |
-| 11 | **Grønn konsesjon i samme område** | NRS Finnmark har søkt om 6.112 tonn MTB i område 11 – øker samlet belastning i regionen | **Middels** |
+
 
 ### 13.2 Sterke argumenter mot utvidelsen
 
@@ -873,6 +864,5 @@ Basert på gjennomgangen av alt planmateriale, anbefales følgende punkter for i
 - Statens vegvesen: Håndbok V712 for konsekvensutredning
 - DSB: Veileder for samfunnssikkerhet i arealplanlegging (2017)
 - Havforskningsinstituttet: Lakselusdata for Altafjorden (prevalens 2–12 %)
-- Nærings- og fiskeridepartementet: Grønne konsesjoner – NRS Finnmark
 - Sameloven kapittel 4: Konsultasjonsplikt (§§4-4 og 4-5)
 - Offentleglova §25: Innsynsrett i saksdokumenter
