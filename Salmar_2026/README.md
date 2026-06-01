@@ -68,7 +68,31 @@ To reinbeitedistrikter berøres (24A Oarje-Sievju og 25 Stierdná). Konsultasjon
 ### 9. Hvit lyktesektor – farled og sikkerhet
 Mjånes fyrlykt har hvite sektorer som i utgangspunktet ikke tillater faste installasjoner. Rambølls vurdering er foreløpig – Kystverket må gi endelig uttalelse. Dette kan påvirke plassering av anleggene.
 
-### 10. Biomasse og kumulative effekter
+### 10. Hval og småhval i Altafjorden og Rognsund
+
+Altafjorden er et internasjonalt kjent hvalområde, særlig i vinterhalvåret (slutten av oktober til slutten av januar) når store mengder sild trekker inn i fjordene. I tillegg til de store hvalartene finnes det **flere mindre, mer stedbundne småhvalarter** som oppholder seg i Rognsundet året rundt – noe som gjør dem særlig sårbare for lokal påvirkning.
+
+**Store hvalarter (sesongbasert, følger sild):**
+- **Spekkhogger** (*Orcinus orca*) – regelmessig observert i Altafjorden
+- **Knølhval** (*Megaptera novaeangliae*) – regelmessig observert
+- **Finnhval** (*Balaenoptera physalus*) – oftere i nærliggende områder som Kvænangsfjorden
+
+**Småhvalarter (mer stedbundne, til stede hele året):**
+- **Kvitnos** (*Lagenorhynchus albirostris*) – store mengder i Rognsund. En sosial delfinart som lever i grupper og er avhengig av gode lydforhold for kommunikasjon.
+- **Nise** (*Phocoena phocoena*) – Norges minste hvalart, også til stede i Rognsund. Nise er særlig følsom for undervannsstøy og bruker ekkolokalisering til navigasjon og jakt.
+
+Rognsundet er en del av Altafjordsystemet, og hval som beiter på sildestimene kan bevege seg gjennom eller oppholde seg i sundet. Flere lokale turoperatører (bl.a. Icecube of Aurora, Finnmark Moods, Holmen Husky, MS Kautokeino/Sami Experience) tilbyr hvalsafari fra Alta havn i vintersesongen.
+
+**Relevans for planen:**
+- **Undervannsstøy** fra akvakulturanlegg (fôrflåter, fortøyninger, båttrafikk) kan påvirke hvalenes atferd, kommunikasjon og beiting. Særlig nise er svært følsom for støy da den bruker ekkolokalisering. Støy fra anlegg bør utredes i KU, gjerne med sertifiserte akustikere.
+- **Kumulative effekter** av økt aktivitet i Rognsundet (båttrafikk, anleggsaktivitet) kan påvirke hvalenes bruk av området.
+- **Kollisjonsrisiko** mellom båttrafikk til/fra anlegg og hval bør vurderes.
+- Fordi kvitnos og nise er **mer stedbundne** enn de store hvalartene, vil de kunne påvirkes gjennom hele året – ikke bare i vintersesongen. Dette bør tillegges vekt i vurderingen av kumulative effekter.
+- Hval er langtrekkende arter som nyter særlig beskyttelse gjennom naturmangfoldloven og internasjonale avtaler (bl.a. CMS/Konvensjonen om trekkende arter). Nise er i tillegg oppført på IUCNs rødliste og omfattet av EUs habitatdirektiv.
+
+> **Innspillstips:** Be om at undervannsstøy og påvirkning på sjøpattedyr (inkludert hval, kvitnos og nise) utredes i konsekvensutredningen, med henvisning til naturmangfoldloven §§8–10.
+
+### 11. Biomasse og kumulative effekter
 Det er per i dag ikke foreslått juridisk bindende mekanismer som sikrer at total biomasse ikke øker utover dagens 15 300 tonn. Reguleringsplanen åpner for etablering – fremtidige endringer av kapasitet følger ordinære prosesser.
 
 **Grønn konsesjon:** NRS Finnmark (SalMar) har i tillegg søkt om grønn konsesjon som kan øke MTB med 36 %. Dette innebærer at selv om reguleringsplanen i seg selv ikke øker biomassen, kan totalproduksjonen i området likevel vokse gjennom andre tillatelsesløp. Sammenkoblingen mellom disse prosessene bør belyses i konsekvensutredningen.
@@ -240,7 +264,7 @@ Et innspill kan ta opp ett eller flere temaer. Listen nedenfor gir forslag til t
 13. **FFNFA-forholdet** – Den sørlige lokasjonen ligger i FFNFA-område hvor oppdrett av anadrome fiskearter ikke er tillatt (KPA §6.2.2). Be om at dette avklares juridisk før planarbeidet fortsetter.
 14. **Skredfare og flodbølge** – Registrert skred ved Hestneset/Hestneselva (2010). Be om at ROS-analysen vurderer konsekvenser for bebyggelse på land ved flodbølge.
 15. **Eksisterende påvirkning** – Utslipp fra dagens fiskeoppdrett er vurdert til "liten grad" (2024), men kumulative effekter av eksisterende + nye anlegg er ikke vurdert. Be om oppdatert vurdering.
-16. **Undervannsstøy** – Støy fra anlegg (fôrflåter, fortøyninger, båttrafikk) kan påvirke sjøpattedyr og fisk. Be om at undervannsstøy utredes i KU.
+16. **Undervannsstøy og sjøpattedyr (hval)** – Støy fra anlegg (fôrflåter, fortøyninger, båttrafikk) kan påvirke hval og andre sjøpattedyr. Altafjorden er et internasjonalt kjent hvalområde med spekkhogger, knølhval og finnhval. Be om at undervannsstøy og påvirkning på sjøpattedyr utredes i KU, jf. naturmangfoldloven §§8–10.
 17. **Bunntilstand og baseline-målinger** – HI-data viser «meget god» bunntilstand ved eksisterende anlegg, men nye lokaliteter på hardbunn kan gi andre effekter. Be om baseline-målinger etter NS 9410 før oppstart.
 18. **DNA-overvåking av rømt fisk** – Be om at det etableres DNA-overvåkingsprogram ved Altaelvas innløp for å dokumentere omfang av rømt oppdrettsfisk.
 
@@ -326,6 +350,7 @@ Flere offentlige instanser har roller i planprosessen og kan fremme innsigelse d
 | **"Samme biomasse"** | Ingen juridisk garanti. Reguleringsplanen åpner bare for etablering. | Mangler rekkefølgebestemmelse |
 | **Grønn konsesjon** | NRS Finnmark (SalMar) søker grønn konsesjon som kan øke MTB med 36 % – kan gi reell vekst utenom reguleringsplanen. | Akvakulturloven |
 | **Kumulative effekter** | 5+2 anlegg + torskeoppdrett = økt samlet belastning. Ikke utredet samlet. HI-data viser «meget god» bunntilstand ved eksisterende anlegg, men nye lokaliteter på hardbunn kan gi andre effekter. | Nat.mangfoldloven §10 |
+| **Hval og sjøpattedyr** | Altafjorden er internasjonalt kjent hvalområde (spekkhogger, knølhval, finnhval). I tillegg store mengder kvitnos og nise i Rognsund – mer stedbundne og til stede hele året. Undervannsstøy og økt aktivitet kan påvirke atferd og beiting. | Nat.mangfoldloven §§8–10, CMS-konvensjonen |
 | **18 utredningstema** | KPA §1.11.1 stiller krav om 18 temaer – flere kan bli nedprioritert uten innspill. | KPA §1.11.1 |
 | **Akvakulturloven** | §3-1 krever «miljømessig forsvarlig drift». Konsesjonsbehandling hos Mattilsynet er en egen prosess i tillegg til reguleringsplanen. | Akvakulturloven §3-1 |
 | **Kulturminneloven** | Automatisk fredete kulturminner i sjø må kartlegges. Riksantikvaren/Tromsø Museum forvalter kulturminner i sjø. | Kulturminneloven |
