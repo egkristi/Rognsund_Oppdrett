@@ -368,17 +368,76 @@ De ønsker å erstatte 2–3 av disse med to nye, bedre plasserte lokaliteter.
 
 ## Kontaktinfo
 
+### Hovedkontakt for høringsinnspill
+
 **Høringsfrist: 01.07.2026**
 
 Innspill til planprogrammet sendes til:
-> Rambøll Norge AS  
+> **Rambøll Norge AS**  
 > Postboks 1077, 9503 Alta  
 > E-post: marie.mcdougall@ramboll.no
 
 Kontaktperson: **Marie Dølør McDougall** – tlf. +47 975 87 006
 
-**Alta kommune** (planmyndighet):
-> postmottak@alta.kommune.no
+### Nøkkelpersoner i planprosessen
+
+| Navn | Rolle | Kontakt |
+|------|-------|---------|
+| **Jens-Vidar Viken** | Kontaktperson SalMar Farming AS | jens-vidar.viken@salmar.no / 970 16 848 |
+| **Marie Dølør McDougall** | Planfaglig konsulent, Rambøll | marie.mcdougall@ramboll.no / 975 87 006 |
+| **Ingrid Holtan Fredriksen** | Saksbehandler, Alta kommune | postmottak@alta.kommune.no |
+| **Veslemøy Grindvik** | Avdelingsleder plan, Alta kommune | postmottak@alta.kommune.no |
+| **Synøve Jahr** | Arealplanlegger, Henning Larsen/Rambøll | – |
+
+### Offentlige instanser – kontaktinfo
+
+| Instans | Rolle | E-post | Telefon | Postadresse |
+|---------|-------|--------|:-------:|-------------|
+| **Alta kommune** | Planmyndighet | postmottak@alta.kommune.no | 78 45 50 00 | Postboks 1403, 9506 Alta |
+| **Statsforvalteren i Troms og Finnmark** | Innsigelsesmyndighet (miljø, naturmangfold) | sfotapost@statsforvalteren.no | – | – |
+| **Sametinget** | Samiske interesser, konsultasjon | sametinget@sametinget.no | – | – |
+| **Kystverket** | Farleder, sikkerhet, Mjånes fyr | post@kystverket.no | – | – |
+| **Fiskeridirektoratet** | Gyteområder, fiskeinteresser | post@fiskeridir.no | – | – |
+| **Mattilsynet** | Fiskehelse, lakselus, konsesjon | postmottak@mattilsynet.no | – | – |
+| **NVE** | Skredfare, flodbølgerisiko | nve@nve.no | – | – |
+| **Miljødirektoratet** | KU-veileder M-1941, klage på utslipp | post@miljodir.no | – | – |
+| **Riksantikvaren / Tromsø Museum** | Kulturminner i sjø | – | – | – |
+| **Finnmark fylkeskommune** | Kulturminner, regionale interesser | post@ffk.no | – | – |
+| **Landbruks- og matdepartementet (LMD)** | Klageinstans konsesjon (Mattilsynet) | postmottak@lmd.dep.no | – | – |
+| **Kommunal- og distriktsdepartementet (KDD)** | Klageinstans konsultasjon (sameloven) | postmottak@kdd.dep.no | – | – |
+| **Sivilombudsmannen** | Saksbehandlingsfeil | postmottak@sivilombudsmannen.no | – | – |
+| **Datatilsynet** | Personvernklager | postkasse@datatilsynet.no | – | – |
+
+### Organisasjoner og medier
+
+| Organisasjon | Rolle | Kontakt |
+|-------------|-------|---------|
+| **Naturvernforbundet i Finnmark** | Miljøorganisasjon | finnmark@naturvernforbundet.no |
+| **Norges Jeger- og Fiskerforbund (NJFF) Finnmark** | Fiskeinteresser | finnmark@njff.no |
+| **WWF Norge** | Miljøorganisasjon | wwf@wwf.no |
+| **FNF Finnmark** (Forum for Natur og Friluftsliv) | Samarbeidsforum for friluftsliv | finnmark@fnf-nett.no |
+| **Altaposten** | Lokalavis | redaksjonen@altaposten.no |
+| **iFinnmark** | Lokalavis | redaksjonen@ifinnmark.no |
+| **NRK Troms og Finnmark** | Riksdekkende distriktskontor | tromsfinnmark@nrk.no |
+
+### Fagmiljøer for uavhengig kvalitetssikring
+
+| Miljø | Fagområde | Kontakt |
+|-------|-----------|---------|
+| **NINA** (Norsk institutt for naturforskning) | Lakselus, villaks, økologi | post@nina.no |
+| **Havforskningsinstituttet** | Marine effekter, lakselusovervåking | post@hi.no |
+| **NIBIO** (Norsk institutt for bioøkonomi) | Bunntilstand, algetoksiner | post@nibio.no |
+| **UiT Norges arktiske universitet** | Marin økologi, undervannsstøy | post@uit.no |
+| **Alta Høgskole (HIOA)** | Regionaløkologi | – |
+
+### Reinbeitedistrikter
+
+| Distrikt | Område |
+|----------|--------|
+| **24A Oarje-Sievju** | Berørt reinbeitedistrikt |
+| **25 Stierdná** | Berørt reinbeitedistrikt |
+
+> **Merk:** Kontaktinfo til reinbeitedistrikter formidles via Sametinget eller Statsforvalteren.
 
 ---
 
