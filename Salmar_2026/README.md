@@ -607,6 +607,8 @@ Kontaktperson: **Marie Dølør McDougall** – tlf. +47 975 87 006
 | **Mattilsynet** | Fiskehelse, lakselus, konsesjon | postmottak@mattilsynet.no | – | – |
 | **NVE** | Skredfare, flodbølgerisiko | nve@nve.no | – | – |
 | **Miljødirektoratet** | KU-veileder M-1941, klage på utslipp | post@miljodir.no | – | – |
+| **Nærings- og fiskeridepartementet (NFD)** | Havbruks- og konsesjonspolitikk, akvakulturloven | postmottak@nfd.dep.no | – | – |
+| **Klima- og miljødepartementet (KLD)** | Overordnet miljø- og naturpolitikk | postmottak@kld.dep.no | – | – |
 | **Riksantikvaren / Tromsø Museum** | Kulturminner i sjø | – | – | – |
 | **Finnmark fylkeskommune** | Kulturminner, regionale interesser | post@ffk.no | – | – |
 | **Landbruks- og matdepartementet (LMD)** | Klageinstans konsesjon (Mattilsynet) | postmottak@lmd.dep.no | – | – |
@@ -633,7 +635,18 @@ Reguleringsplanen avgjøres til slutt med **politisk flertall i Alta kommunestyr
 | **Kristelig Folkeparti** | Knut Klevstad | knut@klevstad.no · 917 50 647 |
 | **Konservativt** | Inger Svendsen | inger@gsas.no · 951 81 710 |
 
+*Alta kommune oppgir at 11 partier er representert i perioden; de ti partigruppene med oppførte gruppeledere står over. Se [kommunens oppdaterte oversikt](https://www.alta.kommune.no/politikk/politiske-partier-i-kommunestyret) for den fullstendige listen (bl.a. om Pasientfokus, en stor lokal kraft i Alta, har representanter).*
+
 > På nasjonalt nivå har særlig **SV og MDG** tatt til orde for strenge miljøkrav og lukket teknologi i havbruk, og **Rødt** er kritisk til åpne merder – men alle partigruppene bør kontaktes uavhengig av ståsted. Et bredt engasjement teller mest politisk.
+
+**Finnmark fylkeskommune – politisk ledelse**
+
+Fylkeskommunen er høringspart for regionale interesser og kulturminner, og den politiske ledelsen kan løfte saken regionalt.
+
+| Rolle | Navn | Kontakt |
+|-------|------|---------|
+| **Fylkesordfører** | Hans-Jacob Bønå (H) | postmottak@ffk.no · 78 96 30 00 |
+| **Fylkesvaraordfører** | Heidi Holmgren (Sp) | postmottak@ffk.no |
 
 **Samiske og regionale politiske partier**
 
@@ -646,6 +659,19 @@ Hele Rognsundet er sjøsamisk område, og samiske politiske aktører er derfor s
 | Nordkalottfolket – Finnmark fylkesting | Gruppeleder Magne Ek | tlf. 908 24 844 |
 | **Norske Samers Riksforbund (NSR)** | Samepolitisk liste og organisasjon | [nsr.no](https://nsr.no/) |
 | **Sametinget** | Konsultasjonsmyndighet (se «Offentlige instanser» over) | sametinget@sametinget.no |
+
+**Folkevalgte på Stortinget (Finnmark valgdistrikt, 2025–2029)**
+
+Finnmark har fire stortingsrepresentanter. De er relevante for den nasjonale linjen, for havbruks- og konsesjonspolitikken (NFD) og for å løfte saken i riksmediene.
+
+| Representant | Parti | Kontakt / merknad |
+|--------------|-------|-------------------|
+| **Siren Julianne Jensen** | MDG | [profil hos Stortinget](https://www.stortinget.no/no/Representanter-og-komiteer/Representantene/Representant/?perid=SIRJEN) – særlig engasjert i marine miljøsaker i Finnmark (bl.a. Repparfjorden) |
+| **Sigurd Kvammen Rafaelsen** | Ap | [profil hos Stortinget](https://www.stortinget.no/no/Representanter-og-komiteer/Representantene/Representant/?perid=SIGRAF) |
+| **Bengt Rune Strifeldt** | FrP | [profil hos Stortinget](https://www.stortinget.no/no/Representanter-og-komiteer/Representantene/Representant/?perid=BERST) |
+| **Monica Nielsen** | Ap | [profil hos Stortinget](https://www.stortinget.no/no/Representanter-og-komiteer/Representantene/Representant/?perid=MONNIE) – fast møtende; også ordfører i Alta |
+
+> E-post til representantene følger normalt mønsteret fornavn.etternavn@stortinget.no, og kontaktinfo står på hver representants side. Generell vei inn: postmottak@stortinget.no · sentralbord 23 31 30 50.
 
 ### Medier
 
@@ -690,6 +716,8 @@ Disse kan sende egne høringsinnspill, mobilisere medlemmer og gi saken faglig o
 | **Naturvernforbundet (nasjonalt)** | Natur og miljø | naturvernforbundet@naturvernforbundet.no |
 | **Bellona** | Miljøstiftelse – utslipp og lukket teknologi | [bellona.no](https://bellona.no/) |
 | **WWF Norge** | Miljøorganisasjon | wwf@wwf.no |
+| **Greenpeace Norge** | Miljøorganisasjon – hav og oppdrett | info.no@greenpeace.org |
+| **Norges Miljøvernforbund (NMF)** | Miljøorganisasjon – kritisk til åpent oppdrett | nmf@nmf.no |
 | **Natur og Ungdom** | Ungdomsmiljøorganisasjon | [nu.no](https://nu.no/) |
 | **Sabima** | Biologisk mangfold | [sabima.no](https://www.sabima.no/) |
 | **Framtiden i våre hender** | Forbruk og bærekraft | [framtiden.no](https://www.framtiden.no/) |
@@ -719,7 +747,17 @@ Disse kan sende egne høringsinnspill, mobilisere medlemmer og gi saken faglig o
 | **Dyrevernalliansen** | Fiskevelferd i oppdrett | [dyrevern.no](https://www.dyrevern.no/) |
 | **NOAH – for dyrs rettigheter** | Dyrs rettigheter | [dyrsrettigheter.no](https://www.dyrsrettigheter.no/) |
 
-> **Merk:** Tips- og kontaktadresser kan endres over tid. Verifiser på mediets/organisasjonens eget nettsted før du sender, og tilpass budskapet til mottakeren.
+**Lokale lag og foreninger** (viktige for lokal forankring og mobilisering)
+
+| Lag/forening | Rolle | Kontakt |
+|--------------|-------|---------|
+| **Hakkstabben og Altneset bygdelag** | Lokalsamfunn i Rognsund | via Alta kommune / Facebook |
+| **Kvalfjord bygdelag** | Lokalsamfunn i Rognsund | via Alta kommune / Facebook |
+| **Fiskarlaget Nord** | Yrkesfiske i nord | [fiskarlaget.no](https://www.fiskarlaget.no/) |
+| **Storekorsnes Fiskarlag** | Lokalt fiskarlag | via Fiskarlaget Nord |
+| **Finnmarkseiendommen (FeFo)** | Grunneier i Finnmark | post@fefo.no · [fefo.no](https://www.fefo.no/) |
+
+> **Merk:** Tips- og kontaktadresser kan endres over tid. Verifiser på mediets/organisasjonens eget nettsted før du sender, og tilpass budskapet til mottakeren. Personlige, konkrete innspill teller mer enn mange identiske masseutsendelser.
 
 ### Fagmiljøer for uavhengig kvalitetssikring
 
@@ -729,7 +767,9 @@ Disse kan sende egne høringsinnspill, mobilisere medlemmer og gi saken faglig o
 | **Havforskningsinstituttet** | Marine effekter, lakselusovervåking | post@hi.no |
 | **NIBIO** (Norsk institutt for bioøkonomi) | Bunntilstand, algetoksiner | post@nibio.no |
 | **UiT Norges arktiske universitet** | Marin økologi, undervannsstøy | post@uit.no |
-| **Alta Høgskole (HIOA)** | Regionaløkologi | – |
+| **Veterinærinstituttet** | Fiskehelse og -velferd, lukket teknologi | post@vetinst.no |
+| **Akvaplan-niva** (Tromsø) | Marin miljøovervåking og resipientundersøkelser | [akvaplan.niva.no](https://www.akvaplan.niva.no/) |
+| **UiT Campus Alta** (tidl. Høgskolen i Finnmark) | Regionaløkologi og samfunn | post@uit.no |
 
 ### Reinbeitedistrikter
 
