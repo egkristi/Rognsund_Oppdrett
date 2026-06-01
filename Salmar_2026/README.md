@@ -1,45 +1,123 @@
-# Rognsundet – Dokumentasjon, faglig gjennomgang og veivalg
+# Ta vare på Rognsund – langsiktig bærekraft for fjorden
 
-> *«Vi arver ikke Rognsundet av våre foreldre, vi låner det av våre barn. Den arven plikter vi å levere tilbake i minst like god – og helst enda bedre – forfatning. SalMars planlagte utvidelse truer villaksen, blokkerer nasjonalparken, og privatiserer fellesarealer. Alta kommune må vise at de setter fremtidige generasjoners rett til ren natur og trygge fjorder foran kortsiktig industriell profitt.»*
+> *«Vi arver ikke Rognsundet av våre foreldre, vi låner det av våre barn. Den arven plikter vi å levere tilbake i minst like god – og helst enda bedre – forfatning. Målet er ikke å stoppe noen, men å sikre fjordens langsiktige bærekraft: en levende villaksstamme, en uberørt nasjonalpark, rene fellesarealer og en trygg sjøsamisk fremtid. Alt som skal skje i Rognsundet, må gjøre fjorden bedre – ikke fattigere.»*
 
-**Dette prosjektet gir en åpen, faglig gjennomgang av SalMar Farming AS' planer om ny akvakulturvirksomhet i Rognsundet, Alta kommune. Alt materiale er basert på offentlig tilgjengelige dokumenter og oppdaterte, etterprøvbare kilder. Målet er ett: å bidra til et bærekraftig Rognsund over tid.**
+**Den overordnede målsetningen er langsiktig bærekraft for Rognsund – økologisk, kulturelt og økonomisk, på kort og lang sikt. Dette dokumentet er en respons på SalMar Farming AS' kunngjøring om utvidet akvakultur i Rognsundet (Alta kommune): det forklarer saken, måler planen mot bærekraftmålet, og viser hvordan man kan påvirke prosessen slik at utfallet blir positivt for fjorden. Målet er ikke å stoppe SalMar for enhver pris – men intet bør gjennomføres som ikke gjør Rognsund bedre. Alt bygger på offentlig tilgjengelige dokumenter og etterprøvbare kilder.**
 
 > **Høringsfrist: 01.07.2026** – Innspill sendes til marie.mcdougall@ramboll.no  
 > Seksjonen nedenfor inneholder bakgrunnsinformasjon og forslag til momenter som kan tas med i et høringsinnspill.
 
 ---
 
-## Om dette prosjektet
+## Om dette dokumentet
 
-SalMar Farming AS har varslet oppstart av detaljregulering for å erstatte flere eksisterende lokaliteter i Rognsundet med to nye – samlet biomasse 15 300 tonn. Planen omtales som en omstrukturering av eksisterende virksomhet. Planutvalget i Alta kommune vedtok **enstemmig** oppstart av planarbeidet 4. desember 2025 (sak 50/2025).
+Den **overordnede målsetningen er langsiktig bærekraft for Rognsund** – for villaksen, naturmangfoldet, den sjøsamiske kulturen, fisket, friluftslivet og lokalsamfunnet, både på kort og lang sikt. Å stoppe SalMars utvidelse er ikke et mål i seg selv; det er én mulig konsekvens dersom planen ikke tjener denne bærekraften.
 
-SalMar understreker at de er i en **tidlig fase** og ønsker spesifikke innspill på plassering. De har utarbeidet kart med sektorinndeling (10 sektorer) for å få mest mulig konkrete tilbakemeldinger fra berørte parter.
+Dette dokumentet er en **respons på SalMars kunngjøring om detaljregulering for akvakultur i Rognsund** ([Rambøll, 11.05.2026](https://www.ramboll.com/no-no/kunngjoring-rognsund-akvakultur)) og det tilhørende underlaget i `underlag/` (varslingsbrev, planinitiativ, oppstartsmøtereferat og planprogram). Det er ment som en **forklaring og en oppskrift**: hvordan planen måles mot bærekraftmålet, hvordan man påvirker prosessen – og dersom noe skal gjennomføres, hvordan man sikrer at det faktisk blir **positivt for Rognsund**, ikke bare skadefritt.
 
-Dette prosjektet samler offentlige dokumenter og presenterer en faglig gjennomgang av planmaterialet, med særlig vekt på:
-- Forholdet til overordnede planer og regelverk
-- Kunnskapsgrunnlagets tilstrekkelighet
-- Miljømessige og samiske interesser
-- Prosessuelle forhold
-- Svakheter i planinitiativets §10-vurdering
+SalMar Farming AS har varslet oppstart av detaljregulering (pbl. §12-8) for å erstatte flere eksisterende lokaliteter i Rognsundet med to nye, samlet biomasse 15 300 tonn. Planutvalget i Alta kommune vedtok **enstemmig oppstart** av planarbeidet 04.12.2025 (sak 50/2025) – men *oppstart* er ikke det samme som *godkjenning*. Det endelige vedtaket er politisk, og prosessen kan påvirkes – og stoppes – på flere punkter.
 
-> **Se `PLAN-SAMMENSTILLING.md` for fullstendig gjennomgang (22 kapitler), inkludert egne kapitler om driftsform og utslipp, teknologiske alternativer, nasjonalt regelverk i endring (Havbruksmeldingen 2025) og en samlet vurdering av veien til et bærekraftig Rognsund.**  
-> Denne README-en er også informert av en ekstern deep-research-rapport som vurderer juridisk rammeverk, klageveier og vitenskapelig dokumentasjon.
+> **Se `PLAN-SAMMENSTILLING.md` for den fullstendige faglige gjennomgangen (22 kapitler).** Denne README-en er handlingsdelen: argumentene satt i system, med konkrete steg, frister og mottakere.
 
 ---
 
-## Målet: et bærekraftig Rognsund over tid
+## Målet: bærekraft for Rognsund – og hva det betyr for planen
 
-Dette prosjektet har ett overordnet mål: **et bærekraftig Rognsund over tid.** Ikke et Rognsund uten næringsaktivitet, men et fjordsystem der havbruk, villaks, sjøsamisk kultur, tradisjonelt fiske, reiseliv og friluftsliv kan eksistere side om side – også for kommende generasjoner.
+Den overordnede målsetningen er **langsiktig bærekraft for Rognsund på alle områder** – økologisk, sosialt/kulturelt og økonomisk, på kort og lang sikt. SalMars plan måles mot dette målet, ikke mot et ønske om å være mot næringen.
 
-Da er spørsmålet ikke bare *hvor* nye anlegg plasseres, men *hvordan* de drives, *hvor mye* de slipper ut, og om driftsformen er forenlig med fjordens tålegrense på lang sikt. Et godt utfall kjennetegnes av:
+| Dimensjon | Hva som må sikres over tid |
+|-----------|----------------------------|
+| **Økologisk** | Villaks (Altavassdraget), vannkvalitet, bunn, truede arter, hval/sjøpattedyr, verneområder |
+| **Sosialt/kulturelt** | Sjøsamisk kultur og fiske, lokalsamfunn (butikk, skole, ferge), friluftsliv |
+| **Økonomisk** | Levedyktig verdiskaping og arbeidsplasser – innenfor naturens tålegrense |
 
-- **Ingen netto økning** i samlet miljøbelastning (lus, utslipp, rømming) i Rognsundet
-- **Dokumentert kunnskapsgrunnlag før vedtak** – ikke etter
-- **Reell vurdering av driftsform og teknologi**, ikke bare plassering
-- **Respekt for nasjonale og internasjonale verneinteresser** (villaks, Seiland nasjonalpark, Lopphavet, sjøsamisk område)
-- **Juridisk bindende garantier** – ikke intensjoner – for det som loves
+Av dette følger to mulige utfall – og begge tjener det samme målet:
 
-Resten av dokumentet legger fram alternativene, drøfter konsekvensene av hvert, og peker på hva som faktisk kan gjøres for å sikre et slikt utfall.
+**1. Planen tjener ikke bærekraften → den bør ikke gjennomføres slik den foreligger.** Slik den nå er beskrevet (åpne merder, sørlig lokalitet i FFNFA, mangelfullt kunnskapsgrunnlag), trekker planen i feil retning. Da er det legitimt – og mulig – å stoppe den. Verktøyene står i «Oppskrift» nedenfor.
+
+**2. Planen gjøres positiv for Rognsund → da kan den være et gode.** Dersom tiltaket omarbeides slik at fjorden kommer *bedre* ut enn i dag – lukket teknologi, lavere samlet belastning, gamle anlegg fjernet, bindende garantier – kan det forene næring og natur. Vilkårene står i «Dersom noe skal gjennomføres» nedenfor.
+
+Poenget er ikke utfallet for SalMar, men utfallet for Rognsund.
+
+---
+
+## Direkte svar til SalMars kunngjøring
+
+Kunngjøringen er profesjonelt utformet. Målt mot bærekraftmålet er det likevel flere formuleringer som bør møtes med presise motsvar – ikke for å være vanskelig, men for å sikre at planen vurderes på riktig grunnlag:
+
+| SalMar/Rambøll sier | Realiteten – og hva du bør svare |
+|---------------------|----------------------------------|
+| «På bakgrunn av teknologisk utvikling, fiskehelse og fokus på miljøpåvirkning …» | Motivasjonen presenteres som miljøforbedring, men **driftsformen forblir åpne merder**. Ingen lukket teknologi loves. Krev at lukket/semilukket teknologi utredes på lik linje. |
+| «… samtidig som 2-3 mindre egnede lokaliteter **kan** fjernes» | «Kan», ikke «skal». Det finnes **ingen juridisk binding** for at noe faktisk fjernes. Krev rekkefølgebestemmelse: nye lokaliteter kan ikke tas i bruk før de gamle er permanent avviklet. |
+| «Summen av SalMars akvakulturanlegg … skal altså ikke øke» | En **intensjon uten mekanisme**. Gjelder dessuten bare *SalMars* anlegg – ikke Kime Akvas torskeoppdrett – og MTB-taket fases ut nasjonalt (Havbruksmeldingen 2025). Krev et **absolutt, bindende tak** på samlet biomasse i sundet. |
+| «… ønsker innspill … på en **mer nøyaktig plassering** … innenfor sirklene» | Dette forsøker å snevre debatten til *hvor*. Du står fritt til å gi innspill på **om** planen bør gjennomføres og **hvordan** (driftsform, FFNFA-forbudet, KU-omfang) – ikke bare hvor innenfor sirklene. |
+| «… ble oppstart av planarbeidet **enstemmig vedtatt**» | Dette gjaldt kun **oppstart**, ikke godkjenning. Det endelige vedtaket er politisk og kan stemmes ned; statlige myndigheter og Sametinget kan fremme **innsigelse**. |
+| Sørlig lokalitet (planinitiativet) | Merket **«STRIDER med overordnet/gjeldende plan»** – sør ligger i FFNFA der oppdrett av laks ikke er tillatt (KPA §6.2.2). Dette er sakens sterkeste juridiske angrepspunkt. |
+
+---
+
+## Oppskrift: slik kan vi påvirke prosessen
+
+Dette er kjernen i dokumentet: hvordan du kan påvirke saken slik at utfallet tjener Rognsund – herunder å stoppe planen dersom den ikke gjør fjorden bedre. Stegene er sortert etter gjennomslagskraft.
+
+### Steg 1 (nå – før 01.07.2026): Send høringsinnspill, og løft de tyngste hensynene
+Høringen av planprogrammet er den **viktigste muligheten akkurat nå**. Planprogrammet bestemmer hva som skal utredes; det som ikke tas inn her, blir sjelden utredet senere. Send innspill til Rambøll (marie.mcdougall@ramboll.no) **med kopi** til Alta kommune, Statsforvalteren, Sametinget og Kystverket. Bygg innspillet på de tre tyngste punktene:
+
+1. **FFNFA-forbudet (KPA §6.2.2):** Krev at den sørlige lokaliteten tas ut, og at motstrid med overordnet plan avklares før prosessen fortsetter.
+2. **Kunnskapsmangel + føre-var (nml. §9):** Krev at kjemisk tilstand, reelle strømmålinger, fugl, marinarkeologi og truede arter kartlegges *før* planprogrammet fastsettes.
+3. **Driftsform:** Krev at lukket/semilukket/landbasert teknologi utredes på lik linje med åpne merder.
+
+(Se den detaljerte momentlisten og innspillsmalen lenger ned.)
+
+### Steg 2: Få sektormyndighetene til å fremme innsigelse – det sterkeste virkemidlet
+En **innsigelse** (pbl. §5-4) fra en statlig/regional myndighet eller Sametinget gjør at kommunen ikke kan egengodkjenne planen. Uløst innsigelse går til mekling hos Statsforvalteren og kan til slutt avgjøres av Kommunal- og distriktsdepartementet. De mest aktuelle:
+
+- **Statsforvalteren i Troms og Finnmark** – villaks, naturmangfold, vannforskriften, FFNFA. **Høyest innsigelsespotensial.**
+- **Sametinget** – sjøsamisk område; konsultasjonsplikt og kulturminner.
+- **Kystverket** – hvit lyktesektor (Mjånes fyr) kan være et absolutt hinder.
+- **Fiskeridirektoratet** – gyteområder og kystflåtens fiskefelt.
+- **NVE** – skred- og flodbølgefare.
+
+**Hva du gjør:** Skriv direkte til disse (gjerne kopi av høringsinnspillet) og be dem konkret vurdere innsigelse. Gi dem dokumentasjonen de trenger – pek på FFNFA, villaks, vannforskriften og kunnskapshullene.
+
+### Steg 3: Påvirk det politiske vedtaket i Alta kommune
+Planen krever til slutt **politisk flertall** i kommunestyret. Lokaldemokratiet er derfor avgjørende:
+
+- Kontakt folkevalgte og partigrupper; be om at saken behandles i lys av FFNFA, villaks og føre-var.
+- Møt opp på **folkemøtene** (Q3 2026) og gjør motforestillingene synlige.
+- Bruk **lokale medier** (Altaposten, iFinnmark, NRK) til å løfte saken.
+- Mobiliser **bygdelag, fiskarlag, hytteforeninger og reinbeitedistrikter** – bredde teller politisk.
+
+### Steg 4: Krev reell konsultasjon (sameloven kap. 4)
+Hele Rognsundet er sjøsamisk område. Manglende eller mangelfull konsultasjon er en **saksbehandlingsfeil** som kan stoppe eller forsinke planen. Be om konsultasjon via Alta kommune; uenighet kan løftes til KDD.
+
+### Steg 5: Bruk innsyn og dokumentasjon offensivt
+Be om innsyn (offentleglova §25) i all korrespondanse mellom SalMar, Rambøll og kommunen. Innsyn avdekker forutsetninger og svakheter, og dokumenterer prosessen for en eventuell klage.
+
+### Steg 6: Konsesjonsrunden – en ny mulighet selv om reguleringsplanen vedtas
+Reguleringsplanen gir **ikke** i seg selv rett til drift. Akvakulturkonsesjon (NFD), lokalitetsgodkjenning (Mattilsynet) og utslippstillatelse (Statsforvalteren) er **egne prosesser** med egne innspills- og klagemuligheter. Mattilsynet har tidligere stoppet prosjekter av hensyn til villaks.
+
+### Steg 7: Klage – og om nødvendig rettslig prøving
+Etter vedtak: **klagefrist 3 uker** til Statsforvalteren (reguleringsplan), til LMD (konsesjon) og til Sivilombudsmannen (saksbehandlingsfeil). Organisasjoner som Naturvernforbundet kan vurdere rettslig prøving ved lovbrudd.
+
+> **Den lange linjen:** Et nei i én runde er sjelden endelig, og et ja kan stoppes i neste. Hold dokumentasjonen oppdatert, følg opp vedtak og frister, og hold lokalsamfunnet informert. Regionalt finnes fortilfeller – bl.a. organisert motstand mot oppdrett i Porsangerfjorden (2026).
+
+---
+
+## Dersom noe skal gjennomføres: det må være positivt for Rognsund
+
+Dersom aktivitet skal gjennomføres, er kravet ikke bare at den unngår skade, men at den gjør **Rognsund bedre enn i dag** – et netto gode for fjorden. Følgende vilkår må være oppfylt og **juridisk bindende før vedtak**:
+
+1. **Lukket eller semilukket teknologi** – ny/utvidet drift kun med teknologi som dokumentert reduserer lus, rømming og utslipp vesentlig (oppsamling av slam, vanninntak under lusebeltet). Åpne merder videreføres ikke.
+2. **Rekkefølgebestemmelse** – nye lokaliteter kan ikke tas i bruk før de gamle (Pollen, Lille Kvalfjord, Store Kufjord) er **permanent avviklet**, fortøyninger fjernet og arealet tilbakeført i kommuneplanen.
+3. **Netto lavere belastning enn i dag** – bindende reduksjon i samlet biomasse og utslipp i sundet, ikke bare et tak på dagens nivå, og medregnet Kime Akvas torskeoppdrett (kumulative effekter, nml. §10).
+4. **Kunnskap før vedtak** – kjemisk tilstand, reelle strømmålinger, fugl, marinarkeologi og truede arter kartlagt før planprogrammet fastsettes (føre-var, nml. §9).
+5. **FFNFA respekteres** – ingen anadrom oppdrett i FFNFA-området (sør) uten at motstrid med overordnet plan er reelt avklart.
+6. **Aktiv forbedring av fjorden** – tiltaket bidrar positivt, f.eks. opprydding av eksisterende bunnpåvirkning, restaurering av avviklede lokaliteter og bidrag til overvåking og styrking av villaksen.
+7. **Reell overvåking og åpenhet** – baseline etter NS 9410, lakselus på vill fisk (NALO) og DNA-overvåking av rømt fisk ved Altaelvas innløp, med offentlig rapportering.
+8. **Reversibilitet** – tillatelser tidsbegrenses og kan trekkes ved brudd, slik at fjorden kan tilbakeføres.
+
+> Dette er terskelen for at en utbygging faktisk gjør Rognsund bedre. Blir den ikke møtt, tjener ikke planen bærekraftmålet, og bør ikke vedtas slik den foreligger.
 
 ---
 
@@ -102,9 +180,9 @@ Dagens MTB- og trafikklyssystem videreføres inntil nytt regelverk er vedtatt.
 
 ---
 
-## Hva kan og bør vi gjøre
+## Kort sjekkliste – det du kan gjøre nå
 
-Påvirkning skjer i flere lag og over tid. Her er en handlingsstige – fra det enkle til det mer forpliktende:
+Oppskriften over er den strategiske oversikten. Denne sjekklisten er den personlige versjonen – konkrete ting hver enkelt kan gjøre, fra det enkle til det mer forpliktende:
 
 1. **Sett deg inn i saken og spre kunnskap.** Les dokumentene i dette prosjektet, del dem, og snakk med naboer, bygdelag og foreninger. Jo flere som kjenner saken, desto sterkere står lokalsamfunnet.
 2. **Send høringsinnspill innen 01.07.2026.** Dette er den viktigste muligheten akkurat nå. Et innspill trenger ikke være langt – men jo flere som påpeker de samme manglene, desto større vekt får de. Se den detaljerte momentlisten lenger ned. Send til Rambøll (marie.mcdougall@ramboll.no) med kopi til Alta kommune, Statsforvalteren, Sametinget og Kystverket.
