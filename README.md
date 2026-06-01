@@ -1,6 +1,6 @@
-# Ta vare på Rognsund!
+# Rognsund for kommende generasjoner!
 
-**Dette repositoriet dokumenterer hvorfor SalMar Farming AS ikke bør få utvide oppdrettsvirksomheten i Rognsundet, Alta kommune.**
+**Vi har et ansvar for å overlevere Rognsundet til neste generasjon i minst like god stand som vi selv arvet det.**
 
 ---
 
@@ -22,7 +22,7 @@ Prosjektet inneholder:
 |-------------|---------|
 | `Salmar_2026/` | **All dokumentasjon spesifikt for SalMars plan om utvidelse i Rognsund** |
 | `Salmar_2026/README.md` | Handlingsplan, 10 argumenter, innspillsmal, tidslinje |
-| `Salmar_2026/PLAN-SAMMENSTILLING.md` | **Utvidet analyse** – 18 kapitler med full gjennomgang av alt planmateriale |
+| `Salmar_2026/PLAN-SAMMENSTILLING.md` | **Utvidet analyse** – 22 kapitler med full gjennomgang av alt planmateriale, driftsform/utslipp, teknologiske alternativer og nasjonalt regelverk |
 | `Salmar_2026/underlag/` | **Originale PDF-dokumenter** (7 stk) |
 | `Salmar_2026/underlag_konvertert/` | **Konverterte markdown-filer** (7 stk) |
 | `Salmar_2026/underlag_bilder/` | **Kart og figurer** (20+ PNG/JPG) |
