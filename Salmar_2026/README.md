@@ -614,17 +614,112 @@ Kontaktperson: **Marie Dølør McDougall** – tlf. +47 975 87 006
 | **Sivilombudsmannen** | Saksbehandlingsfeil | postmottak@sivilombudsmannen.no | – | – |
 | **Datatilsynet** | Personvernklager | postkasse@datatilsynet.no | – | – |
 
-### Organisasjoner og medier
+### Politiske partier og folkevalgte
 
-| Organisasjon | Rolle | Kontakt |
-|-------------|-------|---------|
-| **Naturvernforbundet i Finnmark** | Miljøorganisasjon | finnmark@naturvernforbundet.no |
-| **Norges Jeger- og Fiskerforbund (NJFF) Finnmark** | Fiskeinteresser | finnmark@njff.no |
-| **WWF Norge** | Miljøorganisasjon | wwf@wwf.no |
-| **FNF Finnmark** (Forum for Natur og Friluftsliv) | Samarbeidsforum for friluftsliv | finnmark@fnf-nett.no |
+Reguleringsplanen avgjøres til slutt med **politisk flertall i Alta kommunestyre** (35 medlemmer; 11 partier representert i perioden 2023–2027). Posisjonen ledes av **Ap, Sp og Venstre**. Ordfører er Monica Nielsen (Ap); Jan Martin Rishaug (Sp) fungerte som ordfører fra høsten 2025 mens Nielsen møtte på Stortinget. Å nå fram til partigruppene er derfor sentralt (jf. Steg 3 i oppskriften). Henvendelser kan også sendes samlet via postmottak@alta.kommune.no, merket med partigruppe.
+
+**Gruppeledere i Alta kommunestyre** (slik de er oppført hos Alta kommune, oppdatert 27.05.2026)
+
+| Parti | Gruppeleder | Kontakt |
+|-------|-------------|---------|
+| **Arbeiderpartiet** (posisjon) | Ole Steinar Østlyngen | ole@altamotorsenter.no · 900 11 066 |
+| **Senterpartiet** (posisjon) | Jan Martin Rishaug | jamris@alta.kommune.no · 908 66 055 |
+| **Venstre** (posisjon) | Trine Noodt | trine.noodt@gmail.com · 407 29 188 |
+| **Høyre** | Alex Bjørkmann | alex@bjorkmanns.no · 901 26 317 |
+| **Fremskrittspartiet** | Claus Jørstad | claus.jorstad@alta.kommune.no · 977 91 667 |
+| **SV** | Tore Grøtte | aronnes@live.com · 977 43 222 |
+| **Rødt** | Britt Karin Søvik | brittkarinsovik@gmail.com · 416 32 542 |
+| **MDG** | Frode Elias Lindal | frode84@gmail.com · 905 32 955 |
+| **Kristelig Folkeparti** | Knut Klevstad | knut@klevstad.no · 917 50 647 |
+| **Konservativt** | Inger Svendsen | inger@gsas.no · 951 81 710 |
+
+> På nasjonalt nivå har særlig **SV og MDG** tatt til orde for strenge miljøkrav og lukket teknologi i havbruk, og **Rødt** er kritisk til åpne merder – men alle partigruppene bør kontaktes uavhengig av ståsted. Et bredt engasjement teller mest politisk.
+
+**Samiske og regionale politiske partier**
+
+Hele Rognsundet er sjøsamisk område, og samiske politiske aktører er derfor særlig relevante – både direkte og via Sametinget (konsultasjon, jf. Steg 4).
+
+| Parti / liste | Rolle | Kontakt |
+|---------------|-------|---------|
+| **Nordkalottfolket** | Stor på Sametinget og inne i Finnmark fylkesting (7 mandater). Vektlegger kyst, sjøsamiske rettigheter og fiske | heia@nordkalottfolket.no · [nordkalottfolket.no](https://nordkalottfolket.no/kontakt/) |
+| Nordkalottfolket – Sametinget | Parlamentarisk leder Vibeke Larsen | tlf. 941 30 116 |
+| Nordkalottfolket – Finnmark fylkesting | Gruppeleder Magne Ek | tlf. 908 24 844 |
+| **Norske Samers Riksforbund (NSR)** | Samepolitisk liste og organisasjon | [nsr.no](https://nsr.no/) |
+| **Sametinget** | Konsultasjonsmyndighet (se «Offentlige instanser» over) | sametinget@sametinget.no |
+
+### Medier
+
+Mediedekning er avgjørende for at saken når ut. Lokalavisene kjenner Rognsund; riksmediene har løftet de nasjonale utslipps- og bærekraftspørsmålene (bl.a. «17-millioner»-saken i mai 2026); og fagmediene former næringsdebatten.
+
+**Lokale og regionale medier**
+
+| Medium | Rolle | Kontakt |
+|--------|-------|---------|
 | **Altaposten** | Lokalavis | redaksjonen@altaposten.no |
 | **iFinnmark** | Lokalavis | redaksjonen@ifinnmark.no |
-| **NRK Troms og Finnmark** | Riksdekkende distriktskontor | tromsfinnmark@nrk.no |
+| **NRK Troms og Finnmark** | Distriktskontor | tromsfinnmark@nrk.no |
+
+**Riksmedier** (for å løfte saken nasjonalt)
+
+| Medium | Rolle | Kontakt (tips) |
+|--------|-------|----------------|
+| **VG** | Riksdekkende | 2200@vg.no · [vg.no/tips-oss](https://www.vg.no/tips-oss/) |
+| **Aftenposten** | Riksdekkende | tips@aftenposten.no · [aftenposten.no/tips](https://www.aftenposten.no/tips) |
+| **NRK (Dagsrevyen/Brennpunkt)** | Riksdekkende, gravejournalistikk | 03030 · [nrk.no/tips](https://www.nrk.no/03030/) |
+| **Dagbladet** | Riksdekkende | tips@dagbladet.no |
+| **Filter Nyheter** | Gravende nettavis (omtalte Sunstone-tallene) | [filternyheter.no](https://filternyheter.no/) |
+
+**Fag- og bransjemedier (akvakultur)**
+
+| Medium | Rolle | Kontakt |
+|--------|-------|---------|
+| **iLaks** | Oppdrettsnyheter | [ilaks.no](https://ilaks.no/) |
+| **Kyst.no** | Havbruk og teknologi | [kyst.no](https://www.kyst.no/) |
+| **Fiskeribladet** | Fiskeri og havbruk | [fiskeribladet.no](https://www.fiskeribladet.no/) |
+| **Harvest Magazine** | Natur, hav og miljø | [harvest.as](https://harvest.as/) |
+
+### Organisasjoner – mulige allierte
+
+Disse kan sende egne høringsinnspill, mobilisere medlemmer og gi saken faglig og politisk tyngde.
+
+**Miljø- og naturvern**
+
+| Organisasjon | Rolle | Kontakt |
+|--------------|-------|---------|
+| **Naturvernforbundet i Finnmark** | Miljøorganisasjon (lokallag) | finnmark@naturvernforbundet.no |
+| **Naturvernforbundet (nasjonalt)** | Natur og miljø | naturvernforbundet@naturvernforbundet.no |
+| **Bellona** | Miljøstiftelse – utslipp og lukket teknologi | [bellona.no](https://bellona.no/) |
+| **WWF Norge** | Miljøorganisasjon | wwf@wwf.no |
+| **Natur og Ungdom** | Ungdomsmiljøorganisasjon | [nu.no](https://nu.no/) |
+| **Sabima** | Biologisk mangfold | [sabima.no](https://www.sabima.no/) |
+| **Framtiden i våre hender** | Forbruk og bærekraft | [framtiden.no](https://www.framtiden.no/) |
+| **FNF Finnmark** | Forum for Natur og Friluftsliv | finnmark@fnf-nett.no |
+
+**Villaks og fiske**
+
+| Organisasjon | Rolle | Kontakt |
+|--------------|-------|---------|
+| **Norske Lakseelver** | Elveeierlag/villaks – relevant for Altaelva | [lakseelver.no](https://lakseelver.no/) |
+| **NASF Norge / Redd Villaksen** | Villaksvern (North Atlantic Salmon Fund) | [nasf.is](https://nasf.is/) |
+| **Norges Jeger- og Fiskerforbund (NJFF) Finnmark** | Jakt- og fiskeinteresser | finnmark@njff.no |
+| **Norges Kystfiskarlag** | Kystflåten og tradisjonelt fiske | [norgeskystfiskarlag.no](https://www.norgeskystfiskarlag.no/) |
+| **Alta Laksefiskeri Interesselag (ALI)** | Lokalt – Altaelva | via Alta kommune / Sametinget |
+
+**Sjøsamiske interesser**
+
+| Organisasjon | Rolle | Kontakt |
+|--------------|-------|---------|
+| **Bivdu** | Sjøsamisk fiskeriorganisasjon (holder til i Alta) | post@bivdu.no |
+| **Norske Samers Riksforbund (NSR)** | Samiske rettigheter | [nsr.no](https://nsr.no/) |
+
+**Fiskehelse og dyrevelferd**
+
+| Organisasjon | Rolle | Kontakt |
+|--------------|-------|---------|
+| **Dyrevernalliansen** | Fiskevelferd i oppdrett | [dyrevern.no](https://www.dyrevern.no/) |
+| **NOAH – for dyrs rettigheter** | Dyrs rettigheter | [dyrsrettigheter.no](https://www.dyrsrettigheter.no/) |
+
+> **Merk:** Tips- og kontaktadresser kan endres over tid. Verifiser på mediets/organisasjonens eget nettsted før du sender, og tilpass budskapet til mottakeren.
 
 ### Fagmiljøer for uavhengig kvalitetssikring
 
