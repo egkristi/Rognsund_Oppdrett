@@ -37,7 +37,7 @@ Av dette følger to mulige utfall – og begge tjener det samme målet:
 
 **1. Planen gjøres positiv for Rognsund → da kan den være et gode.** Dersom tiltaket omarbeides slik at fjorden kommer *bedre* ut enn i dag – lukket teknologi, lavere samlet belastning, gamle anlegg fjernet, bindende garantier – kan utvidelsen forene næring og natur. Vilkårene står i «Dersom noe skal gjennomføres» nedenfor.
 
-**2. Planen tjener ikke bærekraften → den bør ikke gjennomføres slik den foreligger.** Slik den nå er beskrevet (åpne merder, sørlig lokalitet i FFNFA (Fellesområde for fiske, ferdsel, natur, friluftsliv og akvakultur), mangelfullt kunnskapsgrunnlag), trekker planen i feil retning. Da er det legitimt – og nødvendig – å stoppe den. Verktøyene står i «Oppskrift» nedenfor.
+**2. Planen tjener ikke bærekraften → den bør ikke gjennomføres slik den foreligger.** Slik den nå er beskrevet (åpne merder, sørlig lokalitet i FFNFA (fjord- og kystområder med særlige naturverdier), mangelfullt kunnskapsgrunnlag), trekker planen i feil retning. Da er det legitimt – og nødvendig – å stoppe den. Verktøyene står i «Oppskrift» nedenfor.
 
 Forskjellen ligger i **SalMars intensjon**: er viljen til stede for å gjøre dette på den riktige måten – med teknologi og bindende garantier som gjør fjorden bedre – kan utvidelsen bli et gode for Rognsund. **Er den viljen ikke til stede, er det viktig at prosjektet stoppes.** Poenget er ikke utfallet for SalMar, men utfallet for Rognsund.
 
@@ -870,3 +870,56 @@ Disse kan sende egne høringsinnspill, mobilisere medlemmer og gi saken faglig o
 44. **Naturvernforbundet i Finnmark (2026):** «Massiv motstand mot etablering av oppdrettsvirksomhet i Porsangerfjorden» (regionalt fortilfelle). [naturvernforbundet.no](https://naturvernforbundet.no/finnmark/fiske-og-oppdrett/)
 
 > **Verifiseringsstatus:** Alle lovhenvisninger (kilder 8–22) er verifisert mot lovdata.no per mai 2025. HI Risikorapport 2025 (kilde 23) er verifisert mot hi.no. Påstanden om 16 % laksevandring gjennom Rognsundet (kilde 24) er ikke uavhengig bekreftet og bør kryssjekkes mot originalkilden før bruk i formelle sammenhenger. Utslippstallene (kilder 36–38) stammer fra en analyse fra Sunstone Institute omtalt i riksdekkende medier i mai 2026; «17 millioner mennesker» er en omregnet nitrogenekvivalent for hele Norge, og metodikk/lokal relevans kan bestrides – tallene bør brukes som nasjonal kontekst, ikke som måling for Rognsund. Regelverkskilder (39–41) gjengir Havbruksmeldingen og Stortingets behandling per 2025. Øvrige kilder er oppgitt fra planmaterialet og åpne fagkilder, og er ikke uttømmende uavhengig verifisert i denne gjennomgangen.
+
+---
+
+## Ordliste
+
+| Forkortelse | Forklaring |
+|-------------|------------|
+| **ALI** | Alta Laksefiskeri Interesselag |
+| **Ap** | Arbeiderpartiet |
+| **CMS** | Convention on Migratory Species (Konvensjonen om trekkende arter) |
+| **DNA** | Deoksyribonuklein |
+| **DSB** | Direktoratet for samfunnssikkerhet og beredskap |
+| **EU** | Den europeiske union |
+| **FeFo** | Finnmarkseiendommen |
+| **FFNFA** | Fjord- og kystområder med særlige naturverdier |
+| **FN** | De forente nasjoner |
+| **FNF** | Forum for Natur og Friluftsliv |
+| **FrP** | Fremskrittspartiet |
+| **HI** | Havforskningsinstituttet |
+| **Høyre** | Partiet Høyre |
+| **IUCN** | International Union for Conservation of Nature |
+| **KDD** | Kommunal- og distriktsdepartementet |
+| **KLD** | Klima- og miljødepartementet |
+| **KPA** | Kommuneplanens arealdel |
+| **KrF** | Kristelig Folkeparti |
+| **KU** | Konsekvensutredning |
+| **LMD** | Landbruks- og matdepartementet |
+| **LNF** | Landbruk-, natur- og friluftsområde |
+| **M-1941** | Miljødirektoratets veileder for konsekvensutredning av klima og miljø |
+| **MDG** | Miljøpartiet De Grønne |
+| **MTB** | Maksimal tillatt biomasse |
+| **NALO** | Nærings- og fiskeridepartementets arealverktøy for havbruk |
+| **NFD** | Nærings- og fiskeridepartementet |
+| **NIBIO** | Norsk institutt for bioøkonomi |
+| **NINA** | Norsk institutt for naturforskning |
+| **NJFF** | Norges Jeger- og Fiskerforbund |
+| **NMF** | Norges Miljøvernforbund |
+| **nml.** | Naturmangfoldloven |
+| **NRK** | Norsk rikskringkasting |
+| **NS 9410** | Norsk Standard for miljøovervåking av marine matfiskanlegg |
+| **NSR** | Norske Samers Riksforbund |
+| **NVE** | Norges vassdrags- og energidirektorat |
+| **pbl.** | Plan- og bygningsloven |
+| **PO12** | Produksjonsområde 12 (Vest-Finnmark/Altafjorden) |
+| **RAS** | Recirculating Aquaculture System (resirkulerende akvakultursystem) |
+| **ROS** | Risiko- og sårbarhetsanalyse |
+| **Rødt** | Partiet Rødt |
+| **Sp** | Senterpartiet |
+| **SV** | Sosialistisk Venstreparti |
+| **UiT** | UiT Norges arktiske universitet |
+| **V712** | Statens vegvesens håndbok for konsekvensutredning |
+| **Venstre** | Partiet Venstre |
+| **WWF** | World Wide Fund for Nature |
