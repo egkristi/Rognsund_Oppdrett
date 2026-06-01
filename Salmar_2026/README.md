@@ -21,9 +21,11 @@ SalMar Farming AS har varslet oppstart av detaljregulering (pbl. §12-8) for å 
 
 ---
 
-## Målet: bærekraft for Rognsund – og hva det betyr for planen
+## Målet: et bærekraftig Rognsund over tid
 
-Den overordnede målsetningen er **langsiktig bærekraft for Rognsund på alle områder** – økologisk, sosialt/kulturelt og økonomisk, på kort og lang sikt. SalMars plan måles mot dette målet, ikke mot et ønske om å være mot næringen.
+Dette prosjektet har ett overordnet mål: **et bærekraftig Rognsund over tid.** Ikke et Rognsund uten næringsaktivitet, men et fjordsystem der havbruk, villaks, sjøsamisk kultur, tradisjonelt fiske, reiseliv og friluftsliv kan eksistere side om side – også for kommende generasjoner.
+
+Da er spørsmålet ikke bare *hvor* nye anlegg plasseres, men *hvordan* de drives, *hvor mye* de slipper ut, og om driftsformen er forenlig med Rognsunds tålegrense på lang sikt. SalMars plan måles mot dette – ikke mot et ønske om å være mot næringen.
 
 | Dimensjon | Hva som må sikres over tid |
 |-----------|----------------------------|
@@ -33,11 +35,11 @@ Den overordnede målsetningen er **langsiktig bærekraft for Rognsund på alle o
 
 Av dette følger to mulige utfall – og begge tjener det samme målet:
 
-**1. Planen tjener ikke bærekraften → den bør ikke gjennomføres slik den foreligger.** Slik den nå er beskrevet (åpne merder, sørlig lokalitet i FFNFA, mangelfullt kunnskapsgrunnlag), trekker planen i feil retning. Da er det legitimt – og mulig – å stoppe den. Verktøyene står i «Oppskrift» nedenfor.
+**1. Planen gjøres positiv for Rognsund → da kan den være et gode.** Dersom tiltaket omarbeides slik at fjorden kommer *bedre* ut enn i dag – lukket teknologi, lavere samlet belastning, gamle anlegg fjernet, bindende garantier – kan utvidelsen forene næring og natur. Vilkårene står i «Dersom noe skal gjennomføres» nedenfor.
 
-**2. Planen gjøres positiv for Rognsund → da kan den være et gode.** Dersom tiltaket omarbeides slik at fjorden kommer *bedre* ut enn i dag – lukket teknologi, lavere samlet belastning, gamle anlegg fjernet, bindende garantier – kan det forene næring og natur. Vilkårene står i «Dersom noe skal gjennomføres» nedenfor.
+**2. Planen tjener ikke bærekraften → den bør ikke gjennomføres slik den foreligger.** Slik den nå er beskrevet (åpne merder, sørlig lokalitet i FFNFA, mangelfullt kunnskapsgrunnlag), trekker planen i feil retning. Da er det legitimt – og nødvendig – å stoppe den. Verktøyene står i «Oppskrift» nedenfor.
 
-Poenget er ikke utfallet for SalMar, men utfallet for Rognsund.
+Forskjellen ligger i **SalMars intensjon**: er viljen til stede for å gjøre dette på den riktige måten – med teknologi og bindende garantier som gjør fjorden bedre – kan utvidelsen bli et gode for Rognsund. **Er den viljen ikke til stede, er det viktig at prosjektet stoppes.** Poenget er ikke utfallet for SalMar, men utfallet for Rognsund.
 
 ---
 
