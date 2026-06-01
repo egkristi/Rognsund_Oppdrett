@@ -141,15 +141,22 @@ Ingen av disse har påvirkning for reguleringsarbeidet for akvakultur i sjøomr�
 
 ### 3.5 Lovverk som legges til grunn
 
-- Plan- og bygningsloven
-- Naturmangfoldloven (spesielt §§8–12 og §13 om kvalitetsnormer)
-- Vannforskriften (spesielt §4 og §12)
-- Kvalitetsnorm for villaks
-- Forskrift om vern av Seiland nasjonalpark
-- Lopphavet marine verneområde
-- Sameloven kapittel 4 (konsultasjonsplikt, §§4-4 og 4-5)
-- Akvakulturloven
-- Forurensningsregelverket
+| Lov/forskrift | Sentrale bestemmelser | Referanse |
+|---------------|----------------------|-----------|
+| **Plan- og bygningsloven** | §4-1 (planprogram), §4-2 (planbeskrivelse og KU), §4-3 (ROS-analyse), kapittel 12 (reguleringsplan, §§12-1–12-18), kapittel 14 (konsekvensutredninger, §§14-1–14-6) | [LOV-2008-06-27-71](https://lovdata.no/dokument/NL/lov/2008-06-27-71) |
+| **Naturmangfoldloven** | §8 (kunnskapsgrunnlaget), §9 (føre-var-prinsippet), §10 (økosystemtilnærming/samlet belastning), §11 (kostnader ved miljøforringelse), §12 (miljøforsvarlige teknikker), §13 (kvalitetsnormer for naturmangfold) | [LOV-2009-06-19-100](https://lovdata.no/dokument/NL/lov/2009-06-19-100) |
+| **Vannforskriften** | §4 (miljømål), §5 (forringelse av tilstand), §12 (ny aktivitet/tiltak) | [FOR-2006-12-15-1446](https://lovdata.no/dokument/SF/forskrift/2006-12-15-1446) |
+| **Kvalitetsnorm for villaks** | Fastsetter kvalitetsmål for laksebestander; Altavassdraget har moderat tilstand | [FOR-2013-09-20-1069](https://lovdata.no/dokument/SF/forskrift/2013-09-20-1069) |
+| **Forskrift om vern av Seiland nasjonalpark** | Vern av alpint landskap, plante- og dyreliv | [FOR-2006-12-08-1286](https://lovdata.no/dokument/LF/forskrift/2006-12-08-1286) |
+| **Lopphavet marine verneområde** | Vern av marint biologisk mangfold | [FOR-2023-06-23-1042](https://lovdata.no/dokument/LF/forskrift/2023-06-23-1042) |
+| **Sameloven kapittel 4** | §4-4 (konsultasjonsplikt), §4-5 (varslingsplikt) | [LOV-1987-06-12-56](https://lovdata.no/dokument/NL/lov/1987-06-12-56) |
+| **Akvakulturloven** | §13 (tiltakshavers ansvar), §14 (omsorgsplikt), §3-1 (miljømessig forsvarlig drift) | [LOV-2005-06-17-79](https://lovdata.no/dokument/NL/lov/2005-06-17-79) |
+| **Forurensningsloven** | §7 (plikt til å unngå forurensning), §38 (akutt forurensning), §39 (varslingsplikt), §40 (beredskapsplikt) | [LOV-1981-03-13-6](https://lovdata.no/dokument/NL/lov/1981-03-13-6) |
+| **Matloven** | §1 (formål), §5 (etterlevelsesplikt), §16 (næringsmiddeltrygghet), §19 (dyrehelse) | [LOV-2003-12-19-124](https://lovdata.no/dokument/NL/lov/2003-12-19-124) |
+| **Dyrevelferdsloven** | §1 (formål), §2 (virkeområde – omfatter fisk), §3 (egenverdi), §22 (generelle vilkår), §23 (dyrs levemiljø), §24 (tilsyn og stell) | [LOV-2009-06-19-97](https://lovdata.no/dokument/NL/lov/2009-06-19-97) |
+| **Havne- og farvannsloven** | §6 (sjøveisregler), §7 (hensyn til fremkommelighet), §8 (tiltak i farvann) | [LOV-2019-06-21-70](https://lovdata.no/dokument/NL/lov/2019-06-21-70) |
+
+> **Merk:** Alle lovhenvisninger er verifisert mot lovdata.no (per mai 2025). Vannforskriften er en forskrift (FOR), ikke en lov (NL), og finnes på lovdata.no under SF/forskrift/2006-12-15-1446.
 
 ---
 
@@ -270,18 +277,22 @@ Planprogrammet har gjort en tidlig vurdering av risiko og sårbarhet. Følgende 
 
 | Faktor | Status | Kilde |
 |--------|--------|-------|
-| **Altavassdraget** | Nasjonal lakseelv | Stortinget |
+| **Altavassdraget** | Nasjonal lakseelv | Stortinget, jf. kvalitetsnorm for villaks |
 | **Altafjorden** | Nasjonal laksefjord | Stortinget |
 | **Kvalitetsnorm for villaks** | **Moderat tilstand** – under kvalitetsnormen | Vitenskapelig råd for lakseforvaltning |
 | **Andel laks som bruker Rognsundet** | **16 %** av migrerende laks | Lakseaklyngan, Havforskningsinstituttet, 2018 |
 | **Buffersone** | Tiltaket ligger innenfor buffersonen til nasjonal lakseelv | Planprogrammet |
 | **Sjølakseplasser** | Registrert langs land på begge sider av sundet | Artsdatabanken |
-| **Naturmangfoldloven §13** | Kvalitetsnorm for naturmangfold må håndheves | Lovdata |
+| **Naturmangfoldloven §13** | Kvalitetsnorm for naturmangfold må håndheves | [LOV-2009-06-19-100](https://lovdata.no/dokument/NL/lov/2009-06-19-100) |
 | **Influensområde villaks** | Både Altavassdraget og Repparfjordelva er innenfor 60 km | Planinitiativet |
 
 > **Kritisk:** Altavassdraget har **moderat tilstand** – allerede under kvalitetsnormen. 16 % av laksen vandrer gjennom Rognsundet. Nye anlegg i vandringsruten vil øke lakseluspresset og svekke bestanden ytterligere. Både Altavassdraget og Repparfjordelva er innenfor 60 km fra begge alternativer.
 
 > **Presisering – lakseluspress:** HI-data viser at lakseluspresset på vill postsmolt i Altafjorden hittil har vært **lavt** (2–12 % prevalens, 1–2 lus/fisk). Rognsundet ligger **utenfor** den definerte nasjonale laksefjorden (Altafjorden innenfor Stjernsundet). Historisk lave nivåer er imidlertid ingen garanti for fremtiden, særlig ved endrede strømforhold eller økt produksjon i området. Mattilsynet har tidligere stoppet akvakulturprosjekter inne i nasjonale laksefjorder (bl.a. landbasert settefiskanlegg ved Alta), men Rognsundet ligger utenfor denne sonen.
+
+> **HI Risikorapport 2025 – lakselus:** Havforskningsinstituttets risikorapport for 2025 (Rapport fra havforskningen 2025-14) slår fast at **over 97 % av lakselusa i norske oppdrettsområder stammer fra akvakultur**. Lakselus og genetisk innkryssing fra rømt oppdrettsfisk er de største truslene mot villaks. Rapporten viser at lakselusindusert dødelighet på utvandrende postsmolt varierer mellom produksjonsområdene, og at negativ påvirkning har **forverret seg betydelig i 2024** sammenlignet med tidligere år. En marin hetebølge i 2024 førte til økt utslipp av lakseluslarver. For produksjonsområde 12 (Finnmark/Altafjorden) er lakselusrelatert påvirkning på villaks vurdert som **lav**, men usikkerheten er stor og overvåking anbefales. Rapporten anbefaler overvåking av lakselus på vill fisk, bl.a. gjennom NALO-programmet. [HI Risikorapport 2025](https://www.hi.no/hi/nettrapporter/rapport-fra-havforskningen-2025-14)
+
+> **Presisering om 16 %-andelen:** Kilden for påstanden om at 16 % av laksen vandrer gjennom Rognsundet er "Lakseaklyngan, Havforskningsinstituttet, 2018". Denne spesifikke rapporten er ikke funnet i HI 2025-risikorapporten, og den eksakte andelen for Rognsundet er ikke bekreftet i nyere HI-publikasjoner. **Påstanden er ikke uavhengig verifisert i denne gjennomgangen** og bør kryssjekkes mot originalkilden (Lakseaklyngan/HI 2018) før den brukes i formelle sammenhenger. Alternativt kan det vises til at Rognsundet er én av tre hovedruter for utvandrende smolt fra Altaelva (de øvrige er Stjernsundet og Vargsundet), uten å tallfeste andelen.
 
 ### 5.2 Truede arter registrert i området
 
@@ -564,9 +575,11 @@ NALO (Nærings- og fiskeridepartementets arealverktøy for havbruk) er et nasjon
 | **Kumulative effekter** | **Ikke utredet** | Eksisterende 5 anlegg + Kime Akvas torskeoppdrett + 2 nye anlegg = økt samlet belastning | Naturmangfoldloven §10 |
 | **Strømningsmønster og resipientkapasitet** | **Kun modellert** | Ingen faktiske målinger av strøm på de aktuelle lokalitetene | Kan feilvurdere spredning av avfall |
 
-> **Naturmangfoldloven §9 (føre-var-prinsippet):** *"Når det treffes en beslutning uten at det foreligger tilstrekkelig kunnskap om hvilke virkninger den kan ha for naturmiljøet, skal det tas sikte på å unngå mulig vesentlig skade på naturmangfoldet."*
+> **Naturmangfoldloven §9 (føre-var-prinsippet):** *"Når det treffes en beslutning uten at det foreligger tilstrekkelig kunnskap om hvilke virkninger den kan ha for naturmiljøet, skal det tas sikte på å unngå mulig vesentlig skade på naturmangfoldet."* ([LOV-2009-06-19-100 §9](https://lovdata.no/dokument/NL/lov/2009-06-19-100))
 
-> **Naturmangfoldloven §10 (økosystemtilnærming):** *"En påvirkning av et økosystem skal vurderes ut fra den samlede belastning som økosystemet er eller vil bli utsatt for."*
+> **Naturmangfoldloven §10 (økosystemtilnærming):** *"En påvirkning av et økosystem skal vurderes ut fra den samlede belastning som økosystemet er eller vil bli utsatt for."* ([LOV-2009-06-19-100 §10](https://lovdata.no/dokument/NL/lov/2009-06-19-100))
+
+> **HI Risikorapport 2025:** Rapporten bekrefter at lakselus fra akvakultur (>97 % av all lakselus) og genetisk innkryssing fra rømt oppdrettsfisk er de største truslene mot villaks. Kumulative effekter av flere anlegg i samme fjordsystem er et sentralt tema. ([HI 2025](https://www.hi.no/hi/nettrapporter/rapport-fra-havforskningen-2025-14))
 
 ---
 
@@ -582,17 +595,17 @@ NALO (Nærings- og fiskeridepartementets arealverktøy for havbruk) er et nasjon
 
 ### 11.2 Vannforskriften §4 – miljømål
 
-Miljømål om **god økologisk og kjemisk tilstand** skal nås. Rognsundet har i dag god økologisk tilstand, men kjemisk tilstand er ukjent. Det er et nasjonalt mål å arbeide for at alle norske vannforekomster skal oppnå god økologisk og kjemisk tilstand.
+Miljømål om **god økologisk og kjemisk tilstand** skal nås. Rognsundet har i dag god økologisk tilstand, men kjemisk tilstand er ukjent. Det er et nasjonalt mål å arbeide for at alle norske vannforekomster skal oppnå god økologisk og kjemisk tilstand. ([Vannforskriften §4](https://lovdata.no/dokument/SF/forskrift/2006-12-15-1446))
 
 ### 11.3 Vannforskriften §12 – ny aktivitet
 
-Ny aktivitet kan tillates dersom **alle tre vilkår** er oppfylt:
+Ny aktivitet kan tillates dersom **alle tre vilkår** er oppfylt ([Vannforskriften §12](https://lovdata.no/dokument/SF/forskrift/2006-12-15-1446)):
 
 1. **Alle praktisk gjennomførbare tiltak** settes inn for å begrense negativ utvikling
 2. **Samfunnsnytten er større** enn tapet av miljøkvalitet
 3. **Formålet kan ikke nås** med andre, miljømessig bedre alternativer
 
-> **KRITISK VURDERING:** Siden kjemisk tilstand er **ukjent**, kan man ikke dokumentere at vannforskriften §12 er oppfylt. Man vet ikke om miljøstandarden allerede er overskredet, eller om tiltaket vil hindre oppfyllelse av miljømål.
+> **KRITISK VURDERING:** Siden kjemisk tilstand er **ukjent**, kan man ikke dokumentere at vannforskriften §12 er oppfylt. Man vet ikke om miljøstandarden allerede er overskredet, eller om tiltaket vil hindre oppfyllelse av miljømål. Dette er i tråd med føre-var-prinsippet i naturmangfoldloven §9.
 
 ### 11.4 Eksisterende påvirkning
 
@@ -849,20 +862,50 @@ Basert på gjennomgangen av alt planmateriale, anbefales følgende punkter for i
 
 ## 18. Kilder
 
-- [Alta kommune – Varsel om oppstart](https://www.alta.kommune.no/nyhetsarkiv/nyheter/2026-05-29-varsel-om-oppstart-av--detaljregulering-for-akvakultur-i-rognsund)
-- [Rambøll – Kunngjøring Rognsund akvakultur](https://www.ramboll.com/no-no/kunngjoring-rognsund-akvakultur)
-- [Varslingsbrev (Rambøll brandcentral)](https://brandcentral.ramboll.com/share/a1MhVaBr1JcaREoNSuxz/assets/126401)
-- [Planinitiativ (Rambøll brandcentral)](https://brandcentral.ramboll.com/share/uTkxXKDA6m4RzEVxS3Sn/assets/126403)
-- [Oppstartsmøtereferat (Rambøll brandcentral)](https://brandcentral.ramboll.com/share/Lc2sgm4WduYdC7VsjDC3/assets/126402)
-- [Planprogram (Rambøll brandcentral)](https://brandcentral.ramboll.com/share/7XJkxqovRpGjQJzs3C48/assets/126404)
-- [Personvernerklæring (Rambøll brandcentral)](https://brandcentral.ramboll.com/share/3ub21Y8BgkekLoobhALt/assets/126405)
-- Vann-Nett (Miljødirektoratet): vannforekomst 0420031000-C
-- Artsdatabanken: registreringer i Rognsundet
-- Kystinfo.no: farled, lyktesektorer
-- Lakseaklyngan/Havforskningsinstituttet (2018): laksevandring Altaelva
-- Miljødirektoratet: Veileder M-1941 for konsekvensutredning av klima og miljø
-- Statens vegvesen: Håndbok V712 for konsekvensutredning
-- DSB: Veileder for samfunnssikkerhet i arealplanlegging (2017)
-- Havforskningsinstituttet: Lakselusdata for Altafjorden (prevalens 2–12 %)
-- Sameloven kapittel 4: Konsultasjonsplikt (§§4-4 og 4-5)
-- Offentleglova §25: Innsynsrett i saksdokumenter
+### Planmateriale (primærkilder)
+
+1. [Alta kommune – Varsel om oppstart av detaljregulering for akvakultur i Rognsund](https://www.alta.kommune.no/nyhetsarkiv/nyheter/2026-05-29-varsel-om-oppstart-av--detaljregulering-for-akvakultur-i-rognsund) (29.05.2026)
+2. [Rambøll – Kunngjøring Rognsund akvakultur](https://www.ramboll.com/no-no/kunngjoring-rognsund-akvakultur) (11.05.2026)
+3. [Varslingsbrev – D-bre-001 Varsel om oppstart Rognsund (Rambøll brandcentral)](https://brandcentral.ramboll.com/share/a1MhVaBr1JcaREoNSuxz/assets/126401) (11.05.2026)
+4. [Vedlegg 1 – Planinitiativ (Rambøll brandcentral)](https://brandcentral.ramboll.com/share/uTkxXKDA6m4RzEVxS3Sn/assets/126403) (sept. 2025)
+5. [Vedlegg 2 – Oppstartsmøtereferat (Rambøll brandcentral)](https://brandcentral.ramboll.com/share/Lc2sgm4WduYdC7VsjDC3/assets/126402) (22.01.2026)
+6. [Vedlegg 3 – Planprogram (Rambøll brandcentral)](https://brandcentral.ramboll.com/share/7XJkxqovRpGjQJzs3C48/assets/126404) (11.05.2026)
+7. [Vedlegg 4 – Personvernerklæring (Rambøll brandcentral)](https://brandcentral.ramboll.com/share/3ub21Y8BgkekLoobhALt/assets/126405) (11.05.2026)
+
+### Lovverk (verifisert mot lovdata.no)
+
+8. **Plan- og bygningsloven** (LOV-2008-06-27-71): [lovdata.no](https://lovdata.no/dokument/NL/lov/2008-06-27-71)
+9. **Naturmangfoldloven** (LOV-2009-06-19-100): [lovdata.no](https://lovdata.no/dokument/NL/lov/2009-06-19-100)
+10. **Vannforskriften** (FOR-2006-12-15-1446): [lovdata.no](https://lovdata.no/dokument/SF/forskrift/2006-12-15-1446)
+11. **Akvakulturloven** (LOV-2005-06-17-79): [lovdata.no](https://lovdata.no/dokument/NL/lov/2005-06-17-79)
+12. **Forurensningsloven** (LOV-1981-03-13-6): [lovdata.no](https://lovdata.no/dokument/NL/lov/1981-03-13-6)
+13. **Matloven** (LOV-2003-12-19-124): [lovdata.no](https://lovdata.no/dokument/NL/lov/2003-12-19-124)
+14. **Dyrevelferdsloven** (LOV-2009-06-19-97): [lovdata.no](https://lovdata.no/dokument/NL/lov/2009-06-19-97)
+15. **Havne- og farvannsloven** (LOV-2019-06-21-70): [lovdata.no](https://lovdata.no/dokument/NL/lov/2019-06-21-70)
+16. **Sameloven** (LOV-1987-06-12-56): [lovdata.no](https://lovdata.no/dokument/NL/lov/1987-06-12-56)
+17. **Kvalitetsnorm for villaks** (FOR-2013-09-20-1069): [lovdata.no](https://lovdata.no/dokument/SF/forskrift/2013-09-20-1069)
+18. **Forskrift om vern av Seiland nasjonalpark** (FOR-2006-12-08-1286): [lovdata.no](https://lovdata.no/dokument/LF/forskrift/2006-12-08-1286)
+19. **Forskrift om Lopphavet marine verneområde** (FOR-2023-06-23-1042): [lovdata.no](https://lovdata.no/dokument/LF/forskrift/2023-06-23-1042)
+
+### Vitenskapelige kilder
+
+20. **Havforskningsinstituttet (2025):** Risikorapport norsk fiskeoppdrett 2025. Rapport fra havforskningen 2025-14. [hi.no](https://www.hi.no/hi/nettrapporter/rapport-fra-havforskningen-2025-14)
+21. **Lakseaklyngan/Havforskningsinstituttet (2018):** Laksevandring Altaelva – andel laks som vandrer gjennom Rognsundet. (Kilde for 16 %-andelen; ikke uavhengig verifisert i denne gjennomgangen)
+22. **Vitenskapelig råd for lakseforvaltning:** Kvalitetsnorm for villaks – status for Altavassdraget. [vitenskapeligrad.no](https://www.vitenskapeligrad.no/)
+23. **Miljødirektoratet:** Veileder M-1941 for konsekvensutredning av klima og miljø. [miljødirektoratet.no](https://www.miljodirektoratet.no/)
+24. **Statens vegvesen:** Håndbok V712 for konsekvensutredning. [vegvesen.no](https://www.vegvesen.no/)
+25. **DSB (2017):** Veileder for samfunnssikkerhet i arealplanlegging. [dsb.no](https://www.dsb.no/)
+
+### Databaser og karttjenester
+
+26. **Vann-Nett (Miljødirektoratet):** Vannforekomst Rognsundet (0420031000-C), Store Kufjorden (042003100-C), Innerpollen (0420031100-C). [vann-nett.no](https://vann-nett.no/)
+27. **Artsdatabanken:** Registreringer av truede arter i Rognsundet. [artsdatabanken.no](https://www.artsdatabanken.no/)
+28. **Kystinfo.no:** Farleder, lyktesektorer, Mjånes fyr. [kystinfo.no](https://kystinfo.no/)
+
+### Annet
+
+29. **Offentleglova §25:** Innsynsrett i saksdokumenter. [lovdata.no](https://lovdata.no/dokument/NL/lov/2006-05-19-16)
+30. **NALO-programmet:** Nærings- og fiskeridepartementets arealverktøy for havbruk. [nalo.no](https://www.nalo.no/)
+31. **FNs bærekraftsmål:** Mål 2, 3, 8, 9, 11, 12, 14, 15. [fn.no](https://www.fn.no/om-fn/fns-baerekraftsmaal)
+
+> **Verifiseringsstatus:** Alle lovhenvisninger (kilder 8–19) er verifisert mot lovdata.no per mai 2025. HI Risikorapport 2025 (kilde 20) er verifisert mot hi.no. Øvrige kilder er oppgitt fra planmaterialet og er ikke uavhengig verifisert i denne gjennomgangen. Påstanden om 16 % laksevandring gjennom Rognsundet (kilde 21) er ikke uavhengig bekreftet og bør kryssjekkes mot originalkilden før bruk i formelle sammenhenger.
