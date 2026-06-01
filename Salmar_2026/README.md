@@ -115,6 +115,8 @@ Planen omfatter **tre alternativer** for plassering av to nye lokaliteter. To av
 
 SalMar er også åpen for **to anlegg i nord og ingen i sør**. Plasseringen er foreløpig kun basert på hvit lyktesektor fra Mjånes fyr – øvrige hensyn skal innarbeides gjennom konsekvensutredningene. Det er utarbeidet kart med **10 sektorer** for å få konkrete tilbakemeldinger.
 
+> **Merk:** De nordlige områdene i Rognsund er mye brukte fiskefelt for kystflåten. Etablering av akvakulturanlegg i disse områdene kan komme i konflikt med tradisjonelt fiske og kystflåtens tilgang til fiskefeltene. Dette må utredes i konsekvensutredningen, og Fiskeridirektoratet bør gi uttalelse.
+
 ### Nullalternativet
 Dersom planen ikke realiseres, beholdes dagens fem lokaliteter. Da forblir planstatus:
 - **Nord:** Avsatt til fiske
@@ -255,18 +257,19 @@ Et innspill kan ta opp ett eller flere temaer. Listen nedenfor gir forslag til t
 4. **Marinarkeologi** – Kunnskapsgrunnlaget for kulturminner i sjø er i dag ukjent/lavt. Marinarkeologisk befaring bør gjennomføres før planvedtak.
 5. **Strømforhold** – Det foreligger kun modellerte strømdata, ikke faktiske målinger. Strømmen har betydning for spredning av partikler og lakselus. Krev reelle strømmålinger.
 6. **Kumulative effekter** – Samlet belastning fra alle lokaliteter i Rognsundet (5 eksisterende + 2 nye + Kime Akvas torskeoppdrett) bør utredes samlet, jf. naturmangfoldloven §10.
-7. **Seiland nasjonalpark** – Visuell påvirkning bør dokumenteres med 3D-modell og visualiseringer, slik kommunen har bedt om.
-8. **Samiske interesser** – Konsultasjon etter sameloven §4-4 bør gjennomføres før planprogrammet fastsettes. Sjøsamisk fiske og reindrift (distrikter 24A og 25) må utredes særskilt.
-9. **Metode for konsekvensutredning** – Alta kommune har anbefalt M-1941 (med feltarbeid) for flere tema, mens planrådgiver har foreslått V712. Krev at M-1941 brukes for **alle** KU-tema.
-10. **Rømningsrisiko** – Bør vurderes opp mot klimaframskrivninger med økt frekvens av ekstremvær.
-11. **Rekkefølgebestemmelse for biomasse** – Dersom planen skal sikre at total biomasse ikke overstiger dagens nivå, bør dette sikres gjennom en juridisk bindende rekkefølgebestemmelse.
-12. **Nullalternativet** – Bør utredes like grundig som planalternativene, for å gi et reelt sammenligningsgrunnlag.
-13. **FFNFA-forholdet** – Den sørlige lokasjonen ligger i FFNFA-område hvor oppdrett av anadrome fiskearter ikke er tillatt (KPA §6.2.2). Be om at dette avklares juridisk før planarbeidet fortsetter.
-14. **Skredfare og flodbølge** – Registrert skred ved Hestneset/Hestneselva (2010). Be om at ROS-analysen vurderer konsekvenser for bebyggelse på land ved flodbølge.
-15. **Eksisterende påvirkning** – Utslipp fra dagens fiskeoppdrett er vurdert til "liten grad" (2024), men kumulative effekter av eksisterende + nye anlegg er ikke vurdert. Be om oppdatert vurdering.
-16. **Undervannsstøy og sjøpattedyr (hval)** – Støy fra anlegg (fôrflåter, fortøyninger, båttrafikk) kan påvirke hval og andre sjøpattedyr. Altafjorden er et internasjonalt kjent hvalområde med spekkhogger, knølhval og finnhval. Be om at undervannsstøy og påvirkning på sjøpattedyr utredes i KU, jf. naturmangfoldloven §§8–10.
-17. **Bunntilstand og baseline-målinger** – HI-data viser «meget god» bunntilstand ved eksisterende anlegg, men nye lokaliteter på hardbunn kan gi andre effekter. Be om baseline-målinger etter NS 9410 før oppstart.
-18. **DNA-overvåking av rømt fisk** – Be om at det etableres DNA-overvåkingsprogram ved Altaelvas innløp for å dokumentere omfang av rømt oppdrettsfisk.
+7. **Fiskefelt for kystflåten** – De nordlige områdene i Rognsund er mye brukte fiskefelt for kystflåten. Etablering av anlegg kan fortrenge tradisjonelt fiske og hindre tilgang til viktige fiskefelt. Be om at konsekvenser for kystflåtens fiskefelt utredes, og at Fiskeridirektoratet gis anledning til å uttale seg.
+8. **Seiland nasjonalpark** – Visuell påvirkning bør dokumenteres med 3D-modell og visualiseringer, slik kommunen har bedt om.
+9. **Samiske interesser** – Konsultasjon etter sameloven §4-4 bør gjennomføres før planprogrammet fastsettes. Sjøsamisk fiske og reindrift (distrikter 24A og 25) må utredes særskilt.
+10. **Metode for konsekvensutredning** – Alta kommune har anbefalt M-1941 (med feltarbeid) for flere tema, mens planrådgiver har foreslått V712. Krev at M-1941 brukes for **alle** KU-tema.
+11. **Rømningsrisiko** – Bør vurderes opp mot klimaframskrivninger med økt frekvens av ekstremvær.
+12. **Rekkefølgebestemmelse for biomasse** – Dersom planen skal sikre at total biomasse ikke overstiger dagens nivå, bør dette sikres gjennom en juridisk bindende rekkefølgebestemmelse.
+13. **Nullalternativet** – Bør utredes like grundig som planalternativene, for å gi et reelt sammenligningsgrunnlag.
+14. **FFNFA-forholdet** – Den sørlige lokasjonen ligger i FFNFA-område hvor oppdrett av anadrome fiskearter ikke er tillatt (KPA §6.2.2). Be om at dette avklares juridisk før planarbeidet fortsetter.
+15. **Skredfare og flodbølge** – Registrert skred ved Hestneset/Hestneselva (2010). Be om at ROS-analysen vurderer konsekvenser for bebyggelse på land ved flodbølge.
+16. **Eksisterende påvirkning** – Utslipp fra dagens fiskeoppdrett er vurdert til "liten grad" (2024), men kumulative effekter av eksisterende + nye anlegg er ikke vurdert. Be om oppdatert vurdering.
+17. **Undervannsstøy og sjøpattedyr (hval, kvitnos, nise)** – Støy fra anlegg (fôrflåter, fortøyninger, båttrafikk) kan påvirke hval og andre sjøpattedyr. Altafjorden er et internasjonalt kjent hvalområde med spekkhogger, knølhval og finnhval, og Rognsund har store mengder kvitnos og nise. Be om at undervannsstøy og påvirkning på sjøpattedyr utredes i KU, jf. naturmangfoldloven §§8–10.
+18. **Bunntilstand og baseline-målinger** – HI-data viser «meget god» bunntilstand ved eksisterende anlegg, men nye lokaliteter på hardbunn kan gi andre effekter. Be om baseline-målinger etter NS 9410 før oppstart.
+19. **DNA-overvåking av rømt fisk** – Be om at det etableres DNA-overvåkingsprogram ved Altaelvas innløp for å dokumentere omfang av rømt oppdrettsfisk.
 
 #### Innsynsbegjæringer – en annen måte å bidra på
 
@@ -350,6 +353,7 @@ Flere offentlige instanser har roller i planprosessen og kan fremme innsigelse d
 | **"Samme biomasse"** | Ingen juridisk garanti. Reguleringsplanen åpner bare for etablering. | Mangler rekkefølgebestemmelse |
 | **Grønn konsesjon** | NRS Finnmark (SalMar) søker grønn konsesjon som kan øke MTB med 36 % – kan gi reell vekst utenom reguleringsplanen. | Akvakulturloven |
 | **Kumulative effekter** | 5+2 anlegg + torskeoppdrett = økt samlet belastning. Ikke utredet samlet. HI-data viser «meget god» bunntilstand ved eksisterende anlegg, men nye lokaliteter på hardbunn kan gi andre effekter. | Nat.mangfoldloven §10 |
+| **Fiskefelt for kystflåten** | Nordlige områder i Rognsund er mye brukte fiskefelt. Anlegg kan fortrenge tradisjonelt fiske og hindre tilgang. | KPA, Fiskeridirektoratet |
 | **Hval og sjøpattedyr** | Altafjorden er internasjonalt kjent hvalområde (spekkhogger, knølhval, finnhval). I tillegg store mengder kvitnos og nise i Rognsund – mer stedbundne og til stede hele året. Undervannsstøy og økt aktivitet kan påvirke atferd og beiting. | Nat.mangfoldloven §§8–10, CMS-konvensjonen |
 | **18 utredningstema** | KPA §1.11.1 stiller krav om 18 temaer – flere kan bli nedprioritert uten innspill. | KPA §1.11.1 |
 | **Akvakulturloven** | §3-1 krever «miljømessig forsvarlig drift». Konsesjonsbehandling hos Mattilsynet er en egen prosess i tillegg til reguleringsplanen. | Akvakulturloven §3-1 |
