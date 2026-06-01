@@ -7,6 +7,9 @@
 ehthumbs.db
 Thumbs.db
 
+# Build output
+_site/
+
 # Python
 __pycache__/
 *.py[cod]
