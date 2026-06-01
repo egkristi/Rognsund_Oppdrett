@@ -434,7 +434,7 @@ Planprogrammet behandler sjøsamisk fiske som en del av temaet "tradisjonelt fis
 - Anleggene er flytende og fortøyd i havbunnen – **ingen direkte kontakt med land**
 - Består av: Én flåte med fôring og fiskehelseanlegg, merder koblet til denne
 
-> **Sammenligning:** Arealbeslaget på 2,4 km² tilsvarer omtrent **340 fotballbaner** eller **halvparten av sjøarealet i Rognsundet** (avhengig av definisjon). Til sammenligning er Alta kommunes tettsted på ca. 1,5 km².
+> **Sammenligning:** Arealbeslaget på 2,4 km² tilsvarer omtrent **340 fotballbaner** (standard 105 × 68 m).
 
 ### 7.5 Andre tekniske forhold
 
@@ -542,7 +542,7 @@ I henhold til KPA §1.11.1 skal følgende vurderes/utredes i det videre planarbe
 | 11 | **Naturressurser** | Biologisk mangfold, fiske, råstoffutvinning (stein, sand, grus, mineraler) | Sibelco Nordic driver nefelingruve i Lillebukt |
 | 12 | **Risiko og sårbarhet** | Støy, skred, rømming, farled. Rømming vurdert opp mot klimaframskrivninger | ROS-analyse + fagutredninger |
 | 13 | **Samiske interesser** | Sjøsamisk kultur, fiske, laksesetteplasser, reindrift, driftsperiode | Delutredning om samiske interesser finnes |
-| 14 | **Teknisk infrastruktur** | VA-norm, veinorm | Landstrøm, nodehytte |
+| 14 | **Teknisk infrastruktur** | VA-norm (vann- og avløpsnorm), veinorm | Landstrøm, nodehytte |
 | 15 | **Universell utforming** | Pbl §29-3, TEK17 (Byggteknisk forskrift 2017) | |
 | 16 | **Verneverdier** | Natur- og kulturverdier | |
 | 17 | **Gjennomføring/utbyggingsavtale** | Finansiering og fremdrift. Jf. kommunestyresak 74/06 | |
@@ -1085,3 +1085,33 @@ Saken handler til syvende og sist ikke om å være «for» eller «mot» oppdret
 40. **Naturvernforbundet i Finnmark (2026):** «Massiv motstand mot etablering av oppdrettsvirksomhet i Porsangerfjorden» (regionalt fortilfelle). [naturvernforbundet.no](https://naturvernforbundet.no/finnmark/fiske-og-oppdrett/)
 
 > **Verifiseringsstatus:** Alle lovhenvisninger (kilder 8–19) er verifisert mot lovdata.no per mai 2025. HI Risikorapport 2025 (kilde 20) er verifisert mot hi.no. Påstanden om 16 % laksevandring gjennom Rognsundet (kilde 21) er ikke uavhengig bekreftet og bør kryssjekkes mot originalkilden før bruk i formelle sammenhenger. Utslippstallene (kilder 32–34) stammer fra en analyse fra Sunstone Institute omtalt i riksdekkende medier i mai 2026; «17 millioner mennesker» er en omregnet nitrogenekvivalent for hele Norge, og metodikk/lokal relevans kan bestrides – tallene bør brukes som nasjonal kontekst, ikke som måling for Rognsund. Regelverkskilder (35–37) gjengir Havbruksmeldingen og Stortingets behandling per 2025. Øvrige kilder er oppgitt fra planmaterialet og åpne fagkilder, og er ikke uttømmende uavhengig verifisert i denne gjennomgangen.
+
+---
+
+## 23. Ordliste
+
+| Forkortelse | Forklaring |
+|-------------|------------|
+| **DSB** | Direktoratet for samfunnssikkerhet og beredskap |
+| **FeFo** | Finnmarkseiendommen |
+| **FFNFA** | Fellesområde for fiske, ferdsel, natur, friluft og akvakultur |
+| **GDPR** | General Data Protection Regulation (personvernforordningen) |
+| **HI** | Havforskningsinstituttet |
+| **KPA** | Kommuneplanens arealdel |
+| **KU** | Konsekvensutredning |
+| **M-1941** | Miljødirektoratets veileder for KU av klima og miljø |
+| **MTB** | Maksimal tillatt biomasse |
+| **NALO** | Nærings- og fiskeridepartementets arealverktøy for havbruk |
+| **NFD** | Nærings- og fiskeridepartementet |
+| **nml.** | Naturmangfoldloven |
+| **NS 9410** | Norsk Standard 9410 for miljøovervåking av marine oppdrettsanlegg |
+| **NVE** | Norges vassdrags- og energidirektorat |
+| **pbl.** | Plan- og bygningsloven |
+| **RAS** | Recirculating aquaculture system (resirkuleringsanlegg) |
+| **ROS** | Risiko- og sårbarhet |
+| **ROV** | Remotely operated vehicle (fjernstyrt undervannsfarkost) |
+| **T-1442** | Miljødirektoratets retningslinje for støy i arealplanlegging |
+| **TEK17** | Byggteknisk forskrift 2017 |
+| **UiT** | UiT Norges arktiske universitet |
+| **V712** | Statens vegvesens håndbok for konsekvensutredning |
+| **VA-norm** | Vann- og avløpsnorm |
