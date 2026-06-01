@@ -18,7 +18,7 @@
 | **Tiltakshaver** | SalMar Farming AS |
 | **Plankonsulent** | Rambøll Norge AS, avd. Alta (tidligere Henning Larsen Architects AS, Alta) |
 | **Plantype** | Detaljregulering |
-| **KU-krav** | Ja – konsekvensutredning med planprogram (pbl. §4-1) |
+| **KU-krav** | Ja – konsekvensutredning (KU) med planprogram (pbl. (plan- og bygningsloven) §4-1) |
 | **Varsel om oppstart** | 11.05.2026 |
 | **Høringsfrist** | **01.07.2026** |
 | **Planutvalgsvedtak** | 04.12.2025 – enstemmig vedtatt oppstart (sak 50/2025) |
@@ -44,7 +44,7 @@
 
 SalMar Farming AS driver **fem akvakulturlokaliteter** i Rognsundet:
 
-| Lokalitet | Kapasitet (tonn MTB) | Kommentar |
+| Lokalitet | Kapasitet (tonn MTB (maksimal tillatt biomasse)) | Kommentar |
 |-----------|:-------------------:|-----------|
 | Pollen | 1 800 | Innerpollen (sidefjord) |
 | Store Kvalfjord | 3 600 | Landbase for SalMar i Rognsund |
@@ -145,7 +145,7 @@ Ingen av disse har påvirkning for reguleringsarbeidet for akvakultur i sjøomr�
 
 | Lov/forskrift | Sentrale bestemmelser | Referanse |
 |---------------|----------------------|-----------|
-| **Plan- og bygningsloven** | §4-1 (planprogram), §4-2 (planbeskrivelse og KU), §4-3 (ROS-analyse), kapittel 12 (reguleringsplan, §§12-1–12-18), kapittel 14 (konsekvensutredninger, §§14-1–14-6) | [LOV-2008-06-27-71](https://lovdata.no/dokument/NL/lov/2008-06-27-71) |
+| **Plan- og bygningsloven** | §4-1 (planprogram), §4-2 (planbeskrivelse og KU), §4-3 (ROS (risiko- og sårbarhet)-analyse), kapittel 12 (reguleringsplan, §§12-1–12-18), kapittel 14 (konsekvensutredninger, §§14-1–14-6) | [LOV-2008-06-27-71](https://lovdata.no/dokument/NL/lov/2008-06-27-71) |
 | **Naturmangfoldloven** | §8 (kunnskapsgrunnlaget), §9 (føre-var-prinsippet), §10 (økosystemtilnærming/samlet belastning), §11 (kostnader ved miljøforringelse), §12 (miljøforsvarlige teknikker), §13 (kvalitetsnormer for naturmangfold) | [LOV-2009-06-19-100](https://lovdata.no/dokument/NL/lov/2009-06-19-100) |
 | **Vannforskriften** | §4 (miljømål), §5 (forringelse av tilstand), §12 (ny aktivitet/tiltak) | [FOR-2006-12-15-1446](https://lovdata.no/dokument/SF/forskrift/2006-12-15-1446) |
 | **Kvalitetsnorm for villaks** | Fastsetter kvalitetsmål for laksebestander; Altavassdraget har moderat tilstand | [FOR-2013-09-20-1069](https://lovdata.no/dokument/SF/forskrift/2013-09-20-1069) |
@@ -174,11 +174,11 @@ Tiltaket er vurdert opp mot Forskrift om konsekvensutredninger (med endringer gj
 
 | # | Tema | KU? | Metode | Feltarbeid? | Fagmyndighet |
 |---|------|:---:|--------|:-----------:|--------------|
-| 1 | **Naturmangfold og vannmiljø** | Ja | M-1941 | Fuglekartlegging, ROV-kartlegging av havbunn | Statsforvalteren, Miljødirektoratet |
+| 1 | **Naturmangfold og vannmiljø** | Ja | M-1941 (Miljødirektoratets veileder for KU av klima og miljø) | Fuglekartlegging, ROV (remotely operated vehicle – fjernstyrt undervannsfarkost)-kartlegging av havbunn | Statsforvalteren, Miljødirektoratet |
 | 2 | **Landskapsbilde** | Ja | M-1941 | Vurderes – spesielt siktlinjer fra Seiland nasjonalpark | Statsforvalteren |
-| 3 | **Kulturmiljø** | Ja | M-1941 | Vurderes – både land og sjø | Finnmark fylkeskommune, Sametinget, UiT Norges arktiske universitetsmuseum |
+| 3 | **Kulturmiljø** | Ja | M-1941 | Vurderes – både land og sjø | Finnmark fylkeskommune, Sametinget, UiT (UiT Norges arktiske universitet) Norges arktiske universitetsmuseum |
 | 4 | **Friluftsliv** | Ja | M-1941 | Dialog med bygdelag, idrettslag | Statsforvalteren |
-| 5 | **Reindrift** | Ja | V712 | Dialogmøter med reinbeitedistrikter | Statsforvalteren, reinbeitedistrikter |
+| 5 | **Reindrift** | Ja | V712 (Statens vegvesens håndbok for konsekvensutredning) | Dialogmøter med reinbeitedistrikter | Statsforvalteren, reinbeitedistrikter |
 | 6 | **Tradisjonelt fiske** (inkl. sjøsamisk fiske/matauk/fritidsfiske med kvote) | Ja | M-1941 (kommunen) / V712 (planrådgiver) | Dialog med fiskarlag, bygdelag, fiskere | Fiskeridirektoratet |
 | 7 | **Befolkning og samfunn** | Ja | V712 / temanotat (uenighet) | Folkemøter, dialog med bygdelag | Alta kommune |
 
@@ -229,9 +229,9 @@ Tiltaket er vurdert opp mot Forskrift om konsekvensutredninger (med endringer gj
 
 | Tema | Metode | Formål |
 |------|--------|--------|
-| Støy | Støyutredning iht. T-1442 | Avdekke støypåvirkning for omgivelser og rein |
+| Støy | Støyutredning iht. T-1442 (Miljødirektoratets retningslinje for støy i arealplanlegging) | Avdekke støypåvirkning for omgivelser og rein |
 | Skredfare | Skredfareutredning | Vurdere risiko for flodbølge som følge av skred |
-| ROS-analyse | Etter DSBs veileder for samfunnssikkerhet i arealplanlegging (2017) | Kartlegge og forebygge uønskede hendelser |
+| ROS (risiko- og sårbarhet)-analyse | Etter DSBs (Direktoratet for samfunnssikkerhet og beredskap) veileder for samfunnssikkerhet i arealplanlegging (2017) | Kartlegge og forebygge uønskede hendelser |
 
 ### 4.5 ROS-analyse – innledende vurderinger
 
@@ -290,9 +290,9 @@ Planprogrammet har gjort en tidlig vurdering av risiko og sårbarhet. Følgende 
 
 > **Kritisk:** Altavassdraget har **moderat tilstand** – allerede under kvalitetsnormen. 16 % av laksen vandrer gjennom Rognsundet. Nye anlegg i vandringsruten vil øke lakseluspresset og svekke bestanden ytterligere. Både Altavassdraget og Repparfjordelva er innenfor 60 km fra begge alternativer.
 
-> **Presisering – lakseluspress:** HI-data viser at lakseluspresset på vill postsmolt i Altafjorden hittil har vært **lavt** (2–12 % prevalens, 1–2 lus/fisk). Rognsundet ligger **utenfor** den definerte nasjonale laksefjorden (Altafjorden innenfor Stjernsundet). Historisk lave nivåer er imidlertid ingen garanti for fremtiden, særlig ved endrede strømforhold eller økt produksjon i området. Mattilsynet har tidligere stoppet akvakulturprosjekter inne i nasjonale laksefjorder (bl.a. landbasert settefiskanlegg ved Alta), men Rognsundet ligger utenfor denne sonen.
+> **Presisering – lakseluspress:** HI (Havforskningsinstituttet)-data viser at lakseluspresset på vill postsmolt i Altafjorden hittil har vært **lavt** (2–12 % prevalens, 1–2 lus/fisk). Rognsundet ligger **utenfor** den definerte nasjonale laksefjorden (Altafjorden innenfor Stjernsundet). Historisk lave nivåer er imidlertid ingen garanti for fremtiden, særlig ved endrede strømforhold eller økt produksjon i området. Mattilsynet har tidligere stoppet akvakulturprosjekter inne i nasjonale laksefjorder (bl.a. landbasert settefiskanlegg ved Alta), men Rognsundet ligger utenfor denne sonen.
 
-> **HI Risikorapport 2025 – lakselus:** Havforskningsinstituttets risikorapport for 2025 (Rapport fra havforskningen 2025-14) slår fast at **over 97 % av lakselusa i norske oppdrettsområder stammer fra akvakultur**. Lakselus og genetisk innkryssing fra rømt oppdrettsfisk er de største truslene mot villaks. Rapporten viser at lakselusindusert dødelighet på utvandrende postsmolt varierer mellom produksjonsområdene, og at negativ påvirkning har **forverret seg betydelig i 2024** sammenlignet med tidligere år. En marin hetebølge i 2024 førte til økt utslipp av lakseluslarver. For produksjonsområde 12 (Finnmark/Altafjorden) er lakselusrelatert påvirkning på villaks vurdert som **lav**, men usikkerheten er stor og overvåking anbefales. Rapporten anbefaler overvåking av lakselus på vill fisk, bl.a. gjennom NALO-programmet. [HI Risikorapport 2025](https://www.hi.no/hi/nettrapporter/rapport-fra-havforskningen-2025-14)
+> **HI Risikorapport 2025 – lakselus:** Havforskningsinstituttets risikorapport for 2025 (Rapport fra havforskningen 2025-14) slår fast at **over 97 % av lakselusa i norske oppdrettsområder stammer fra akvakultur**. Lakselus og genetisk innkryssing fra rømt oppdrettsfisk er de største truslene mot villaks. Rapporten viser at lakselusindusert dødelighet på utvandrende postsmolt varierer mellom produksjonsområdene, og at negativ påvirkning har **forverret seg betydelig i 2024** sammenlignet med tidligere år. En marin hetebølge i 2024 førte til økt utslipp av lakseluslarver. For produksjonsområde 12 (Finnmark/Altafjorden) er lakselusrelatert påvirkning på villaks vurdert som **lav**, men usikkerheten er stor og overvåking anbefales. Rapporten anbefaler overvåking av lakselus på vill fisk, bl.a. gjennom NALO (Nærings- og fiskeridepartementets arealverktøy for havbruk)-programmet. [HI Risikorapport 2025](https://www.hi.no/hi/nettrapporter/rapport-fra-havforskningen-2025-14)
 
 > **Presisering om 16 %-andelen:** Kilden for påstanden om at 16 % av laksen vandrer gjennom Rognsundet er "Lakseaklyngan, Havforskningsinstituttet, 2018". Denne spesifikke rapporten er ikke funnet i HI 2025-risikorapporten, og den eksakte andelen for Rognsundet er ikke bekreftet i nyere HI-publikasjoner. **Påstanden er ikke uavhengig verifisert i denne gjennomgangen** og bør kryssjekkes mot originalkilden (Lakseaklyngan/HI 2018) før den brukes i formelle sammenhenger. Alternativt kan det vises til at Rognsundet er én av tre hovedruter for utvandrende smolt fra Altaelva (de øvrige er Stjernsundet og Vargsundet), uten å tallfeste andelen.
 
@@ -509,7 +509,7 @@ Fullstendig liste fra planinitiativet, supplert med parter fra oppstartsmøteref
 
 | Kategori | Instans |
 |----------|---------|
-| **Offentlige myndigheter** | Statsforvalteren i Troms og Finnmark, Finnmark fylkeskommune, Kystverket, Fiskeridirektoratet, NVE region nord, Mattilsynet, Statens vegvesen, Forsvarsbygg, Finnmark Politidistrikt |
+| **Offentlige myndigheter** | Statsforvalteren i Troms og Finnmark, Finnmark fylkeskommune, Kystverket, Fiskeridirektoratet, NVE (Norges vassdrags- og energidirektorat) region nord, Mattilsynet, Statens vegvesen, Forsvarsbygg, Finnmark Politidistrikt |
 | **Samiske instanser** | Sametinget, Reinbeitedistrikt 24A Oarje-Sievju/Seiland vest, Reinbeitedistrikt 25 Stierdná/Stjernøya, Bivdu |
 | **Kommunale** | Alta kommune v/ relevante virksomheter, Alta Havn KF |
 | **Fiskeri** | Fiskarlaget Nord, Storekorsnes Fiskarlag, Alta Laksefiskeri Interesseselskap |
@@ -543,7 +543,7 @@ I henhold til KPA §1.11.1 skal følgende vurderes/utredes i det videre planarbe
 | 12 | **Risiko og sårbarhet** | Støy, skred, rømming, farled. Rømming vurdert opp mot klimaframskrivninger | ROS-analyse + fagutredninger |
 | 13 | **Samiske interesser** | Sjøsamisk kultur, fiske, laksesetteplasser, reindrift, driftsperiode | Delutredning om samiske interesser finnes |
 | 14 | **Teknisk infrastruktur** | VA-norm, veinorm | Landstrøm, nodehytte |
-| 15 | **Universell utforming** | Pbl §29-3, TEK17 | |
+| 15 | **Universell utforming** | Pbl §29-3, TEK17 (Byggteknisk forskrift 2017) | |
 | 16 | **Verneverdier** | Natur- og kulturverdier | |
 | 17 | **Gjennomføring/utbyggingsavtale** | Finansiering og fremdrift. Jf. kommunestyresak 74/06 | |
 | 18 | **Felles plan- og byggesak** | | |
@@ -630,7 +630,7 @@ Ny aktivitet kan tillates dersom **alle tre vilkår** er oppfylt ([Vannforskrift
 | 4 | **Vedlegg 1 – Planinitiativ** | Sept. 2025 | 13 | Initiativbeskrivelse, §10-vurdering, kart |
 | 5 | **Vedlegg 2 – Oppstartsmøtereferat** | 22.01.2026 | 11 | Møtereferat, 18 temaer, KU-metodikk |
 | 6 | **Vedlegg 3 – Planprogram** | 11.05.2026 | 23 | Hoveddokument – fullt utredningsprogram |
-| 7 | **Vedlegg 4 – Personvernerklæring** | 11.05.2026 | 1 | GDPR-informasjon |
+| 7 | **Vedlegg 4 – Personvernerklæring** | 11.05.2026 | 1 | GDPR (General Data Protection Regulation – personvernforordningen)-informasjon |
 
 ---
 
@@ -689,7 +689,7 @@ Ny aktivitet kan tillates dersom **alle tre vilkår** er oppfylt ([Vannforskrift
 | Q4 2026–Q1 2027 | KU-arbeid | Meld deg som informant |
 | Q3 2027 | Høring planforslag | Nytt innspill |
 | Q1 2028 | Planvedtak | Klagefrist 3 uker |
-| Etter planvedtak | Konsesjonsbehandling (NFD) | Egen høringsrunde |
+| Etter planvedtak | Konsesjonsbehandling (NFD (Nærings- og fiskeridepartementet)) | Egen høringsrunde |
 | Etter konsesjon | Lokalitetsgodkjenning (Mattilsynet) | Fiskehelse, lakselus, rømming |
 
 ---
@@ -903,7 +903,7 @@ For Rognsund er bildet nyansert: produksjonsområde 12 (Vest-Finnmark/Altafjorde
 |--------|-------------|----------------|
 | Kobber | Impregnering av nøter avgir kobber til vannmasse og sediment | Overvåking av sediment, alternativ notimpregnering |
 | Legemidler | Avlusningsmidler og andre legemidler spres lokalt | Utredning av spredning og effekt på ikke-målarter (reker, skjell) |
-| Organisk belastning | Fôrrester og fekalier akkumuleres på bunnen under/rundt merder | Baseline-måling etter **NS 9410** før oppstart, deretter overvåking |
+| Organisk belastning | Fôrrester og fekalier akkumuleres på bunnen under/rundt merder | Baseline-måling etter **NS 9410 (Norsk Standard 9410 for miljøovervåking av marine oppdrettsanlegg)** før oppstart, deretter overvåking |
 
 ### 18.5 Det prinsipielle spørsmålet
 
@@ -917,7 +917,7 @@ Dette leder direkte over i kapittel 19 om teknologiske alternativer.
 
 ## 19. Teknologiske alternativer og konsekvenser
 
-Plansaken presenterer alternativer for *plassering*, men ingen alternativer for *driftsform*. Havforskningsinstituttet grupperer lovende teknologier i fire hovedkategorier: **lukkede** anlegg med fysisk barriere, **semilukkede** anlegg med kontrollert vanngjennomstrømning, **nedsenkbare** konsepter som holder fisken under lusebeltet, og **eksponerte/offshore**-anlegg i åpnere farvann. I tillegg kommer **landbasert** produksjon (RAS). ([HI – forvaltning av havbruk](https://www.hi.no/hi/temasider/akvakultur/forvaltning-havbruk-hi-kunnskap))
+Plansaken presenterer alternativer for *plassering*, men ingen alternativer for *driftsform*. Havforskningsinstituttet grupperer lovende teknologier i fire hovedkategorier: **lukkede** anlegg med fysisk barriere, **semilukkede** anlegg med kontrollert vanngjennomstrømning, **nedsenkbare** konsepter som holder fisken under lusebeltet, og **eksponerte/offshore**-anlegg i åpnere farvann. I tillegg kommer **landbasert** produksjon (RAS (recirculating aquaculture system – resirkuleringsanlegg)). ([HI – forvaltning av havbruk](https://www.hi.no/hi/temasider/akvakultur/forvaltning-havbruk-hi-kunnskap))
 
 ### 19.1 Sammenligning av driftsformer
 
@@ -1007,10 +1007,10 @@ Et bærekraftig utfall – uavhengig av om planen til slutt vedtas eller ikke �
 1. **Ingen netto økning** i samlet miljøbelastning (lus, utslipp, rømming) i Rognsundet
 2. **Kunnskapsgrunnlaget på plass først:** kjemisk tilstand, reelle strømmålinger, fugl, marinarkeologi, truede arter
 3. **Driftsform reelt utredet:** åpen vs. lukket/semilukket/landbasert sammenlignet (kap. 19)
-4. **Kumulative effekter** vurdert samlet for alle anlegg i sundet (jf. nml. §10)
+4. **Kumulative effekter** vurdert samlet for alle anlegg i sundet (jf. nml. (naturmangfoldloven) §10)
 5. **Juridisk bindende rekkefølgebestemmelser** for fjerning av gamle lokaliteter og tak på biomasse
 6. **Samisk konsultasjon** gjennomført etter sameloven §4-4
-7. **Verneinteresser** (villaks, Seiland, Lopphavet) ivaretatt etter føre-var-prinsippet (nml. §9)
+7. **Verneinteresser** (villaks, Seiland, Lopphavet) ivaretatt etter føre-var-prinsippet (nml. (naturmangfoldloven) §9)
 
 ### 21.3 Anbefalt veivalg
 
