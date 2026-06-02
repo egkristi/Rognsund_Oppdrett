@@ -2,9 +2,11 @@
 
 > **Formål:** Dette dokumentet samler ALL offentlig informasjon fra planmaterialet for detaljregulering for akvakultur i Rognsundet, Alta kommune. Basert på utvidet og svært grundig gjennomgang av varslingsbrev, planinitiativ, oppstartsmøtereferat, planprogram (23 sider), personvernerklæring og offentlige kunngjøringer.
 >
+> **Overordnet mål:** et **bærekraftig Rognsund over tid**. Hensikten er ikke å være mot næringen, men å sikre at det som eventuelt gjennomføres er *positivt* for fjorden – økologisk, kulturelt og økonomisk, på kort og lang sikt. Dette dokumentet er den **faglige sammenstillingen**; `README.md` er den handlingsrettede delen (oppskrift, kontaktliste, innspillsmal).
+>
 > Gjennomgangen er utvidet med egne kapitler om **driftsform og utslipp** (kap. 18), **teknologiske alternativer** (kap. 19), **nasjonalt regelverk i endring** (kap. 20) og en samlet vurdering av veien til et **bærekraftig Rognsund over tid** (kap. 21). Disse kapitlene løfter saken fra «hvor skal anleggene plasseres» til «hvordan bør de drives – og hva tåler fjorden på sikt».
 >
-> **Sist oppdatert:** 01.06.2026
+> **Sist oppdatert:** 02.06.2026
 
 ---
 
@@ -466,6 +468,30 @@ Planprogrammet behandler sjøsamisk fiske som en del av temaet "tradisjonelt fis
 
 > **Merk:** Fremdriftsplanen er tentativ og forutsetter at det ikke oppstår uforutsette utfordringer. Den vil påvirkes av saksbehandlingstid i kommunen og datoer for politiske møter.
 
+Samme tidslinje som diagram (✅ = gjennomført · pågår nå · 🔴 = frist / kritisk milepæl). Diagrammet rendres på GitHub; ved bruk av MkDocs på GitHub Pages kreves en mermaid-utvidelse.
+
+```mermaid
+gantt
+    title Planprosess for akvakultur i Rognsund (per juni 2026)
+    dateFormat YYYY-MM-DD
+    axisFormat %b %Y
+    section Oppstart
+    Planoppstart vedtatt (enstemmig)         :done,    t1, 2025-12-04, 30d
+    Varsel oppstart + høring av planprogram   :active,  t2, 2026-05-11, 2026-07-01
+    Frist for innspill til planprogram        :crit, milestone, t3, 2026-07-01, 0d
+    section Medvirkning og utredning
+    Folkemøter i Rognsund                     :         t4, 2026-08-01, 2026-09-30
+    Fastsetting av planprogram                :         t5, 2026-10-01, 2026-12-15
+    Konsekvensutredninger (KU)                :         t6, 2026-10-01, 2027-03-31
+    section Planforslag og høring
+    Planforslag sendes kommunen               :         t7, 2027-04-01, 2027-06-30
+    Høring og offentlig ettersyn (6 uker)     :crit,    t8, 2027-07-01, 2027-09-30
+    section Vedtak, konsesjon og klage
+    Konsesjonsbehandling (NFD/Mattilsynet)    :         t9, 2027-07-01, 2028-06-30
+    Sluttbehandling og planvedtak             :crit, milestone, t10, 2028-03-31, 0d
+    Klagefrist (3 uker etter vedtak)          :crit, milestone, t11, 2028-04-21, 0d
+```
+
 ### 8.2 Medvirkningsmuligheter – fire anledninger
 
 | Anledning | Tidsrom | Beskrivelse |
@@ -491,7 +517,7 @@ Det er viktig å være klar over at **reguleringsplanen alene ikke gir SalMar re
 
 > **Konsekvens:** Selv om reguleringsplanen vedtas, kan prosjektet stoppes i konsesjonsrunden. Mattilsynet har tidligere stoppet prosjekter av hensyn til villaks (bl.a. landbasert settefiskanlegg ved Alta). Dette er et viktig argument for å sikre at KU-en er grundig nok – svakheter i KU kan også påvirke konsesjonsbehandlingen.
 
-### 8.3 Konsultasjonsplikt etter sameloven
+### 8.4 Konsultasjonsplikt etter sameloven
 
 | Bestemmelse | Innhold |
 |-------------|---------|
@@ -503,7 +529,7 @@ Det er viktig å være klar over at **reguleringsplanen alene ikke gir SalMar re
 
 > **Viktig:** Varselet sier: *"Representanter for samiske interesser bes melde inn behov for konsultasjon iht. sameloven kapittel 4 så snart som mulig, gjerne i forbindelse med dette varselet om oppstart av planarbeid."*
 
-### 8.4 Høringsinstanser og berørte parter
+### 8.5 Høringsinstanser og berørte parter
 
 Fullstendig liste fra planinitiativet, supplert med parter fra oppstartsmøtereferatet:
 
@@ -679,6 +705,8 @@ Ny aktivitet kan tillates dersom **alle tre vilkår** er oppfylt ([Vannforskrift
 | **Mattilsynet** | Fiskehelse, lakselus | **Middels** |
 | **Finnmark fylkeskommune** | Kulturminner, regionale interesser | **Lav-Middels** |
 
+**Slik virker innsigelse (pbl. (plan- og bygningsloven) §§5-4 til 5-6):** En innsigelse fra et statlig/regionalt fagorgan eller Sametinget innebærer at kommunen **ikke kan egengodkjenne** planen. Uløst innsigelse går til **mekling** hos Statsforvalteren; fører ikke meklingen fram, sendes saken til **Kommunal- og distriktsdepartementet (KDD)**, som treffer endelig avgjørelse og kan endre eller stoppe planen. Selv uten innsigelse må planen til slutt vedtas med **politisk flertall i Alta kommunestyre** – også der kan den stoppes. De konkrete påvirkningsmulighetene er beskrevet i `README.md` («Oppskrift: slik kan vi påvirke prosessen»).
+
 ### 13.4 Tidslinje for påvirkning
 
 | Frist | Hva | Handling |
@@ -691,6 +719,20 @@ Ny aktivitet kan tillates dersom **alle tre vilkår** er oppfylt ([Vannforskrift
 | Q1 2028 | Planvedtak | Klagefrist 3 uker |
 | Etter planvedtak | Konsesjonsbehandling (NFD (Nærings- og fiskeridepartementet)) | Egen høringsrunde |
 | Etter konsesjon | Lokalitetsgodkjenning (Mattilsynet) | Fiskehelse, lakselus, rømming |
+
+### 13.5 Direkte svar på kunngjøringens påstander
+
+Kunngjøringen (Rambøll, 11.05.2026) er profesjonelt utformet. Følgende formuleringer bør møtes med presise motsvar i innspillssammenheng:
+
+| Kunngjøringen sier | Realitet / motsvar |
+|--------------------|--------------------|
+| «teknologisk utvikling, fiskehelse og fokus på miljøpåvirkning» | Driftsformen forblir **åpne merder**; ingen lukket teknologi loves. Krev at lukket/semilukket utredes på lik linje (kap. 19). |
+| «2–3 mindre egnede lokaliteter **kan** fjernes» | «Kan», ikke «skal» – ingen juridisk binding. Krev rekkefølgebestemmelse (kap. 17.6). |
+| «Summen av SalMars akvakulturanlegg … skal **ikke øke**» | Intensjon uten mekanisme; gjelder bare SalMars anlegg (ikke Kime Akvas torsk), og MTB-taket (maksimal tillatt biomasse) fases ut nasjonalt (kap. 20). Krev bindende, **netto lavere** tak (kap. 21). |
+| «innspill … på **mer nøyaktig plassering** … innenfor sirklene» | Forsøk på å snevre debatten til *hvor*. Innspill kan også gjelde *om* og *hvordan* (driftsform, FFNFA, KU-omfang). |
+| «**enstemmig vedtatt** oppstart» | Gjaldt kun oppstart, ikke godkjenning. Endelig vedtak er politisk og kan stoppes; innsigelse kan fremmes (jf. 13.3). |
+
+> Den handlingsrettede versjonen med konkrete steg står i `README.md` («Direkte svar til SalMars kunngjøring» og «Oppskrift»).
 
 ---
 
@@ -721,6 +763,10 @@ Ny aktivitet kan tillates dersom **alle tre vilkår** er oppfylt ([Vannforskrift
 | NVE | Skredfare |
 | Finnmark fylkeskommune | Kulturminner, regional utvikling |
 | Mattilsynet | Fiskehelse, lakselus |
+| Nærings- og fiskeridepartementet (NFD) | Havbruks- og konsesjonspolitikk |
+| Klima- og miljødepartementet (KLD) | Overordnet miljø- og naturpolitikk |
+
+> **Fullstendig kontaktliste:** `README.md` inneholder en utvidet liste med politiske partier og folkevalgte (Alta kommunestyre, Finnmark fylkeskommune, Sametinget/Nordkalottfolket, Finnmarks stortingsrepresentanter), riks-, lokal- og fagmedier, miljø- og villaksorganisasjoner, sjøsamiske aktører og lokale lag og foreninger – med kontaktpunkter.
 
 ---
 
@@ -773,43 +819,37 @@ Planinitiativet inneholder en vurdering etter forskrift om konsekvensutredninger
 
 **Kritikk:** Riktig konklusjon (KU kreves), men vurderingen undervurderer potensielle virkninger for truede fuglearter og sjøsamisk fiske.
 
-### 16.3 §10 e) – Miljøkvalitetsstandarder
-
-**Planinitiativets vurdering:** "Fastsatte mål for vannkvalitet er ikke overskredet" – men erkjenner at kjemisk tilstand er **ukjent**.
-
-**Kritikk:** Dette er en **selvmotsigelse**. Man kan ikke si at mål ikke er overskredet når kjemisk tilstand ikke er dokumentert. Korrekt vurdering: "Kan ikke vurderes før kjemisk tilstand er kartlagt."
-
-### 16.4 §10 c) – Tettbygde områder, friluftsliv, samisk kultur
+### 16.3 §10 c) – Tettbygde områder, friluftsliv, samisk kultur
 
 **Planinitiativets vurdering:** Ikke spesifikt vurdert utover generell omtale.
 
 **Kritikk:** §10 c) krever vurdering av virkninger for tettbygde områder, friluftsliv og samisk kultur. Planinitiativet omtaler disse temaene, men foretar ingen reell vurdering av om virkningene er vesentlige. For et område med kontinuerlig sjøsamisk bosetting over flere hundre år, burde dette vært grundigere vurdert.
 
-### 16.5 §10 d) – Kulturminner
+### 16.4 §10 d) – Kulturminner
 
 **Planinitiativets vurdering:** Ikke spesifikt vurdert.
 
 **Kritikk:** Kulturminner i sjø er ukjent/lavt kartlagt. Tre ulike myndigheter er involvert (Finnmark fylkeskommune, Sametinget, UiT). Manglende vurdering av potensielle kulturminner i sjø er en svakhet.
 
-### 16.6 §10 e) – Miljøkvalitetsstandarder
+### 16.5 §10 e) – Miljøkvalitetsstandarder
 
 **Planinitiativets vurdering:** "Fastsatte mål for vannkvalitet er ikke overskredet" – men erkjenner at kjemisk tilstand er **ukjent**.
 
 **Kritikk:** Dette er en **selvmotsigelse**. Man kan ikke si at mål ikke er overskredet når kjemisk tilstand ikke er dokumentert. Korrekt vurdering: "Kan ikke vurderes før kjemisk tilstand er kartlagt."
 
-### 16.7 §10 h) – Naturfarer
+### 16.6 §10 h) – Naturfarer
 
 **Planinitiativets vurdering:** Erkjenner skredfare og registrert skred i 2010.
 
 **Kritikk:** Riktig identifisert, men vurderer ikke konsekvenser for bebyggelse og infrastruktur på land dersom flodbølge oppstår.
 
-### 16.8 §10 i) – Kumulative effekter
+### 16.7 §10 i) – Kumulative effekter
 
 **Planinitiativets vurdering:** Ikke vurdert.
 
 **Kritikk:** Kumulative effekter av eksisterende 5 anlegg + Kime Akvas torskeoppdrett + 2 nye anlegg er ikke vurdert. Dette er et sentralt kriterium i §10 og burde vært omtalt.
 
-### 16.9 Oppsummering – svakheter i §10-vurderingen
+### 16.8 Oppsummering – svakheter i §10-vurderingen
 
 1. **Forhåndskonklusjoner** om nasjonalpark og naturtyper uten utredning
 2. **Selvmotsigelse** om vannkvalitet (ukjent = ikke overskredet)
@@ -1004,7 +1044,7 @@ Målet er ikke et Rognsund uten næring, men et fjordsystem der **havbruk, villa
 
 Et bærekraftig utfall – uavhengig av om planen til slutt vedtas eller ikke – kjennetegnes av at følgende er **dokumentert og bindende før vedtak**:
 
-1. **Ingen netto økning** i samlet miljøbelastning (lus, utslipp, rømming) i Rognsundet
+1. **Netto forbedring – ikke bare uendret:** samlet miljøbelastning (lus, utslipp, rømming) i Rognsundet skal være *lavere* enn i dag
 2. **Kunnskapsgrunnlaget på plass først:** kjemisk tilstand, reelle strømmålinger, fugl, marinarkeologi, truede arter
 3. **Driftsform reelt utredet:** åpen vs. lukket/semilukket/landbasert sammenlignet (kap. 19)
 4. **Kumulative effekter** vurdert samlet for alle anlegg i sundet (jf. nml. (naturmangfoldloven) §10)
@@ -1016,7 +1056,7 @@ Et bærekraftig utfall – uavhengig av om planen til slutt vedtas eller ikke �
 
 Ut fra en faktabasert vurdering peker **veivalg B** seg ut som den beste balansen mellom næring og natur: tillat ny/utvidet drift **kun dersom den skjer med teknologi som dokumentert reduserer lus, rømming og utslipp vesentlig** (lukket/semilukket), kombinert med bindende garantier for at samlet belastning ikke øker. Dette er forenlig med retningen i nasjonalt regelverk (kap. 20) og gir et utfall som kan forsvares overfor kommende generasjoner.
 
-Dersom slik teknologi og slike garantier *ikke* tilbys, taler føre-var-prinsippet og de udokumenterte kunnskapshullene (kap. 10–11) for at planen **ikke bør vedtas slik den nå foreligger**.
+Forskjellen ligger til slutt i tiltakshavers **intensjon**: er viljen til stede for å gjøre dette på den riktige måten – med teknologi og bindende garantier som gjør fjorden *bedre* enn i dag – kan utvidelsen bli et gode for Rognsund. Dersom slik teknologi og slike garantier *ikke* tilbys, taler føre-var-prinsippet og de udokumenterte kunnskapshullene (kap. 10–11) for at planen **ikke bør vedtas slik den nå foreligger**.
 
 ### 21.4 Oppsummering
 
