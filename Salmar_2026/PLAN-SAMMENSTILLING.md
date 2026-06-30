@@ -354,6 +354,56 @@ Planprogrammet har gjort en tidlig vurdering av risiko og sårbarhet. Følgende 
 
 > **Kunnskapsmangel:** Rognsundets sjøareal ligger mellom to markerte områder for **manglende kartlegging** av truede arter på land. Det er nærliggende å tro at det også er kartleggingsmangler for arter i sjøområder.
 
+**Artsdatabankens rødliste – uttrekk for Rognsundområdet** (kilde: Artsdatabanken/Artskart, eksport 17.06.2026; jf. figur F21). Et områdeuttrekk for Rognsund (Alta og Hammerfest kommuner) inneholder **476 registrerte funn av 61 rødlistede arter/taksa** (kategoriene RE–NT, ekskl. «NotRecovered»). Funnmaterialet er dominert av fugler (330 funn) og karplanter (112), i tillegg til fisk, pattedyr, alger og leddorm.
+
+| Kategori | Unike arter | Funn |
+|----------|:-----------:|:----:|
+| **CR – Kritisk truet** | 2 | 2 |
+| **EN – Sterkt truet** | 9 | 69 |
+| **VU – Sårbar** | 16 | 220 |
+| **NT – Nær truet** | 34 | 185 |
+| **Sum** | **61** | **476** |
+
+Fordeling på artsgrupper (unike arter): fugler 25, karplanter 30, pattedyr 3, fisk 1, alger 1, leddorm 1.
+
+**Sjøfugl og kystnære fugler** (direkte knyttet til fjord- og kystmiljøet):
+
+| Art | Kategori | Funn |
+|-----|:--------:|:----:|
+| Hettemåke | **CR** | 1 |
+| Lomvi | **CR** | 1 |
+| Krykkje | **EN** | 11 |
+| Makrellterne | **EN** | 5 |
+| Storspove | **EN** | 4 |
+| Lunde | **EN** | 2 |
+| Ærfugl | VU | 65 |
+| Gråmåke | VU | 63 |
+| Fiskemåke | VU | 28 |
+| Tyvjo | VU | 9 |
+| Alke | VU | 2 |
+| Storskarv | NT | 27 |
+| Tjeld | NT | 27 |
+| Teist | NT | 15 |
+| Rødstilk | NT | 15 |
+| Havelle | NT | 2 |
+| Småspove | NT | 2 |
+| Svømmesnipe | NT | 2 |
+| Steinvender | NT | 1 |
+| Heilo | NT | 1 |
+
+(I tillegg er flere landlevende fuglearter rødlistet i uttrekket: hønsehauk, granmeis og grønnfink (VU), samt gjøk og gråspurv (NT).)
+
+**Sjøpattedyr, fisk, marine virvelløse dyr og alger:**
+
+- **Havert** (*Halichoerus grypus*) og **ringsel** (*Pusa hispida*) – begge **VU (Sårbar)**: marine pattedyr registrert i området.
+- **Villaks** (*Salmo salar*) – **NT (Nær truet)**, 19 funn. Dette knytter rødlista direkte til villakstemaet (kap. 5.1): laksen er selv en rødlistet art, og påvirkning fra lakselus/rømming rammer en allerede truet bestand.
+- **Buttgreinet mergel** (*Phymatolithon calcareum*) – **VU**: en kalkalge som danner mergel-/ruglbunn – en sårbar marin naturtype som er særlig følsom for nedslamming og organisk belastning fra oppdrett.
+- **Cistenides granulata** (leddorm) – **NT**: registrert på havbunn ved Lille Kvalfjord.
+
+**Karplanter (land – Seiland/Stjernøya, jf. hotspots ved Mjånes og Kremmervika):** Tyngdepunktet av sterkt truede arter er fjellplanter, med den lokalt endemiske **stjernøyvalmuen** (*Oreomecon radicata* var. *macrostigma*) – **EN**, 28 funn – som det mest markante. I tillegg fjellvalmue, islandsvalmue, stivsildre og dvergarve (alle **EN**), samt en rekke VU/NT-arter i nasjonalparken og randsonene.
+
+> **Betydning for KU:** Uttrekket dokumenterer at influensområdet rommer flere **kritisk og sterkt truede** arter – sjøfugl (CR/EN), marine pattedyr (VU), villaks (NT) og en sårbar mergel-naturtype (VU). Dette skjerper kravet til kartlegging i hekke- og yngletid og til vurdering etter naturmangfoldloven §§8–10 og føre-var-prinsippet (§9). Funnene bør legges eksplisitt til grunn i KU for naturmangfold. *Merk: et uttrekk viser registrerte funn, ikke fravær – manglende funn betyr ikke at arter ikke finnes (jf. kunnskapsmangelen over).*
+
 ![Artskart – rødlistede arter](underlag_bilder/fiskeridir/Fiskeridir_21_artskart_rodlistede_arter.png)
 *Figur F21: Registrerte rødlistede arter (Artsdatabanken) i og rundt Rognsund – kategoriene RE, CR, EN, VU og NT.*
 
@@ -1222,7 +1272,7 @@ Saken handler til syvende og sist ikke om å være «for» eller «mot» oppdret
 ### Databaser og karttjenester
 
 26. **Vann-Nett (Miljødirektoratet):** Vannforekomst Rognsundet (0420031000-C), Store Kufjorden (042003100-C), Innerpollen (0420031100-C). [vann-nett.no](https://vann-nett.no/)
-27. **Artsdatabanken:** Registreringer av truede arter i Rognsundet. [artsdatabanken.no](https://www.artsdatabanken.no/)
+27. **Artsdatabanken / Artskart:** Områdeuttrekk av rødlistede arter for Rognsund – 476 funn av 61 taksa (kategoriene RE–NT), eksport 17.06.2026; lagret som `RE_...NT_..._no.xlsx`. [artskart.artsdatabanken.no](https://artskart.artsdatabanken.no/) · [Om Norsk rødliste for arter](https://artsdatabanken.no/lister/rodlisteforarter/2021)
 28. **Kystinfo.no:** Farleder, lyktesektorer, Mjånes fyr. [kystinfo.no](https://kystinfo.no/)
 
 ### Annet
