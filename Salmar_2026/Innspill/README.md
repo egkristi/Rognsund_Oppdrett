@@ -25,6 +25,7 @@ Denne mappen inneholder et ferdig **høringsinnspill til planprogrammet** for Sa
 ## Viktig å vite
 
 - Innspillet **krever utredning og dokumentasjon** av alle relevante forhold – det foreslår ikke løsninger. Hensikten er at alle problemstillinger blir belyst, og at negative konsekvenser tillegges vekt.
+- Innspillet inneholder blant annet et **rekkefølgekrav** (kap. 3.14): at det innarbeides rekkefølgebestemmelser slik at nye anlegg ikke kan tas i bruk før de gamle er permanent avviklet, og at «samme biomasse» gjøres juridisk bindende.
 - Representerer du **samiske eller sjøsamiske interesser**, kan du i tillegg be om **konsultasjon etter sameloven § 4-4**. Denne forespørselen sendes til Alta kommune (`postmottak@alta.kommune.no`).
 - Du kan be om **innsyn** i saksdokumenter etter offentleglova § 25.
 

@@ -4,16 +4,19 @@
 
 ---
 
-| Felt | Opplysning |
-|------|-----------|
-| **Til (hovedmottaker)** | Rambøll Norge AS v/ planfaglig konsulent Marie Dølør McDougall – marie.mcdougall@ramboll.no, Postboks 1077, 9503 Alta |
-| **Til / kopi** | Alta kommune, planavdelingen (ved relevante mottakere: saksbehandler Ingrid Holtan Fredriksen, avdelingsleder plan Veslemøy Grindvik) – postmottak@alta.kommune.no |
-| **Kopi** | Statsforvalteren i Troms og Finnmark; Sametinget; Kystverket; Fiskeridirektoratet; NVE; Mattilsynet; Finnmark fylkeskommune; Miljødirektoratet – samt øvrige berørte parter og interessenter |
-| **Sak** | Detaljregulering for akvakultur i Rognsund. PlanID **20260001**, arkivsak **2025/7057** (Rambøll prosjektnr. 378020670). Varsel om oppstart 11.05.2026. |
-| **Gjelder** | Høring av planprogram – **høringsfrist 01.07.2026** |
-| **Avsender** | *[Fyll inn: navn / organisasjon / lag / forening]* |
-| **Adresse / e-post** | *[Fyll inn]* |
-| **Dato** | *[Fyll inn]* |
+**Avsender:** Erling Kristiansen – erling@rognsund.no
+
+**Til:** SalMar Farming AS v/ Rambøll Norge AS, planfaglig konsulent Marie Dølør McDougall – marie.mcdougall@ramboll.no, Postboks 1077, 9503 Alta
+
+**Til:** Alta kommune, planavdelingen (saksbehandler Ingrid Holtan Fredriksen; avdelingsleder plan Veslemøy Grindvik) – postmottak@alta.kommune.no
+
+**Kopi til:** Berørte myndigheter, organisasjoner og parter – bl.a. Statsforvalteren i Troms og Finnmark, Sametinget, Kystverket, Fiskeridirektoratet, NVE, Mattilsynet, Finnmark fylkeskommune og Miljødirektoratet, samt øvrige berørte og interessenter
+
+**Sendt:** 30.06.2026
+
+**Sak:** Detaljregulering for akvakultur i Rognsund – PlanID 20260001, arkivsak 2025/7057 (Rambøll prosjektnr. 378020670). Varsel om oppstart 11.05.2026.
+
+**Gjelder:** Innspill til høring av planprogram – høringsfrist 01.07.2026
 
 ---
 
@@ -23,7 +26,7 @@ Undertegnede viser til varsel om oppstart av detaljregulering med konsekvensutre
 
 Planprogrammet fastsetter hvilke temaer som skal utredes i den videre planprosessen. Temaer som ikke tas inn i planprogrammet, blir erfaringsmessig heller ikke tilstrekkelig utredet før vedtak. Dette innspillet har derfor ett hovedformål: **å sikre at planprogrammet og den påfølgende konsekvensutredningen blir så bred, grundig og etterprøvbar som mulig**, slik at beslutninger fattes på et fullstendig kunnskapsgrunnlag.
 
-Det overordnede hensynet er å **ta vare på Rognsund for fremtiden** – et arktisk fjordsystem med nasjonale og internasjonale naturverdier, sjøsamisk kultur, tradisjonelt fiske, reiseliv og levende lokalsamfunn. Vi tar i dette innspillet ikke stilling til løsninger eller til utfallet av saken. Vi krever at **alle relevante problemstillinger forbundet med oppdrett blir kartlagt, utredet og dokumentert behørig**, og at **eventuelle negative konsekvenser som avdekkes, tillegges vekt** i den videre saksgangen. Vi krever videre at **kravene i dette innspillet følges opp**, besvares og innarbeides i planmaterialet.
+Det overordnede hensynet er å **ta vare på Rognsund for fremtiden** – et arktisk fjordsystem med nasjonale og internasjonale naturverdier, sjøsamisk kultur, tradisjonelt fiske, reiseliv og levende lokalsamfunn. Innspillet tar ikke stilling til løsninger eller til utfallet av saken. Det kreves at **alle relevante problemstillinger forbundet med oppdrett blir kartlagt, utredet og dokumentert behørig**, og at **eventuelle negative konsekvenser som avdekkes, tillegges vekt** i den videre saksgangen. Det kreves videre at **kravene i dette innspillet følges opp**, besvares og innarbeides i planmaterialet.
 
 > **Presisering:** Dette innspillet er et krav om *utredning og dokumentasjon* – ikke et forslag til løsninger. Hensikten er at beslutningstakere skal ha fullstendig oversikt over konsekvensene før det tas stilling til om, og eventuelt hvordan, tiltaket skal gjennomføres.
 
@@ -31,14 +34,14 @@ Det overordnede hensynet er å **ta vare på Rognsund for fremtiden** – et ark
 
 ## 2. Overordnede krav til planprogrammet og konsekvensutredningen
 
-Vi krever at følgende legges til grunn for hele utredningsarbeidet:
+Det kreves at følgende legges til grunn for hele utredningsarbeidet:
 
 1. **Kunnskap før vedtak.** Sentralt kunnskapsgrunnlag (jf. kapittel 3) skal foreligge og være kvalitetssikret *før* planprogrammet fastsettes og senest før planvedtak – ikke utsettes til etter at rammene er låst.
 2. **Føre-var-prinsippet.** Der kunnskap mangler, skal naturmangfoldloven § 9 (føre-var) og § 8 (kunnskapsgrunnlaget) legges til grunn, slik at usikkerhet ikke kommer tiltaket til gode.
 3. **Samlet belastning.** Alle virkninger skal vurderes ut fra økosystemets samlede belastning, jf. naturmangfoldloven § 10 (se kapittel 3.14 om kumulative effekter).
 4. **Reelle data, ikke bare modellering.** Der det er praktisk mulig skal det innhentes faktiske målinger (strøm, vannkjemi, bunn, arter) og ikke utelukkende modellerte verdier.
 5. **Nullalternativet og alternative driftsformer utredes på lik linje.** Konsekvensutredningen skal sammenligne reelle alternativer, ikke bare ulike plasseringer av samme løsning (se kapittel 3.4).
-6. **Anerkjent metodikk.** Vi krever at Miljødirektoratets metodikk **M-1941** (med feltarbeid) benyttes for alle relevante KU-temaer, og at valg av metode begrunnes der annen metode foreslås (se kapittel 4).
+6. **Anerkjent metodikk.** Det kreves at Miljødirektoratets metodikk **M-1941** (med feltarbeid) benyttes for alle relevante KU-temaer, og at valg av metode begrunnes der annen metode foreslås (se kapittel 4).
 7. **Uavhengig fagkvalitetssikring.** Sentrale utredninger bør kvalitetssikres av uavhengige fagmiljøer for å sikre tillit til resultatene.
 8. **Etterprøvbarhet og åpenhet.** Datagrunnlag, metode og forutsetninger skal dokumenteres slik at utredningene kan etterprøves av allmennheten og fagmyndigheter.
 
@@ -46,7 +49,7 @@ Vi krever at følgende legges til grunn for hele utredningsarbeidet:
 
 ## 3. Tematiske krav om utredning og dokumentasjon
 
-For hvert tema under krever vi at forholdet **kartlegges, utredes og dokumenteres**, og at **avdekkede negative konsekvenser tillegges vekt** i saksgangen.
+For hvert tema under kreves det at forholdet **kartlegges, utredes og dokumenteres**, og at **avdekkede negative konsekvenser tillegges vekt** i saksgangen.
 
 ### 3.1 Villaks, lakselus, rømming og genetisk innkryssing
 - Konsekvenser for villaks i **Altavassdraget** (nasjonal lakseelv) og **Repparfjordelva** (begge innenfor influensområdet, 60 km), med vekt på at Altabestanden allerede er vurdert til *moderat tilstand* under kvalitetsnormen for villaks.
@@ -56,20 +59,20 @@ For hvert tema under krever vi at forholdet **kartlegges, utredes og dokumentere
 - At Rognsund vurderes inkludert i overvåkingsprogram for lakselus på vill fisk (f.eks. NALO), og at **DNA-overvåking** av rømt fisk ved Altaelvas innløp utredes som dokumentasjonstiltak.
 
 ### 3.2 Vannmiljø, vannforskriften, resipient og strøm
-- **Kjemisk tilstand** i Rognsundet, Store Kufjorden og Innerpollen er i dag *ukjent*. Vi krever at kjemisk tilstand kartlegges, slik at vannforskriften **§ 12** (vilkår for ny aktivitet) kan vurderes på reelt grunnlag.
+- **Kjemisk tilstand** i Rognsundet, Store Kufjorden og Innerpollen er i dag *ukjent*. Det kreves at kjemisk tilstand kartlegges, slik at vannforskriften **§ 12** (vilkår for ny aktivitet) kan vurderes på reelt grunnlag.
 - **Reelle strømmålinger** på de aktuelle lokalitetene (ikke kun modellering), som grunnlag for å vurdere spredning av partikler, næringssalter og lakselus.
 - **Resipientkapasitet** og vannutskifting, herunder at deler av fjordsystemet er registrert som **fjorder med sjelden utskifting av bassengvann** – et forhold som er kritisk for fjordens evne til å tåle organisk belastning.
 
 ### 3.3 Utslipp, bunnpåvirkning og marine naturtyper
 - **Utslipp av næringssalter og organisk materiale** fra anleggene (fôrrester, fekalier), og virkning på fjordens vannkvalitet og bunn.
-- **Bunntilstand** under og rundt anleggene, med **baseline-måling etter NS 9410** før eventuell oppstart og overvåking deretter, særlig på hardbunn med liten tidligere tilførsel.
+- **Bunntilstand** under og rundt anleggene, med **baseline-måling etter NS 9410** før eventuell oppstart og overvåking deretter. Utredningen må omfatte **alle bunntyper og områder** – ikke bare hardbunn – og særlig **dybdegroper og forsenkninger** der organisk slam, avhengig av synkehastighet, vil hope seg opp. Det må vurderes hvordan **bunndyr og bunnlevende fisk** påvirkes, særlig **kveite, sjirre, krabbe og andre bunndyr**.
 - **Kobber** (notimpregnering) og opphopning i sediment.
 - Sårbare **marine naturtyper**, herunder **mergel-/ruglbunn** (kalkalgen *Phymatolithon calcareum*, rødlistet VU), skjell-, svamp- og tareforekomster, samt eventuelle korallforekomster – og hvordan disse påvirkes av nedslamming og organisk belastning.
 
 ### 3.4 Driftsform og teknologi (krav om utredning, ikke om løsning)
 - At konsekvensutredningen **sammenligner ulike driftsformer** – åpne merder mot lukket, semilukket, nedsenkbar og landbasert teknologi – med hensyn til lus, rømming, utslipp, energibruk, areal og fiskevelferd.
 - At minst ett alternativ basert på driftsform som samler opp utslipp og reduserer lusepåslag, utredes på lik linje med dagens åpne merder og med nullalternativet.
-- *Vi tar ikke stilling til hvilken løsning som bør velges; vi krever at konsekvensene av de ulike driftsformene dokumenteres slik at valget kan tas på et opplyst grunnlag.*
+- *Innspillet tar ikke stilling til hvilken løsning som bør velges; det kreves at konsekvensene av de ulike driftsformene dokumenteres slik at valget kan tas på et opplyst grunnlag.*
 
 ### 3.5 Gyteområder og marine ressurser
 - Registrerte **gyteområder for torsk** (Sanden, Nordbukta, Store Kufjord) og gytefelt vurdert som «lokalt viktig» av Havforskningsinstituttet.
@@ -78,7 +81,7 @@ For hvert tema under krever vi at forholdet **kartlegges, utredes og dokumentere
 
 ### 3.6 Sjøfugl og rødlistede arter
 - **Fuglekartlegging i hekkesesong** ved fagkyndig, med vekt på rødlistede arter.
-- Et områdeuttrekk fra Artsdatabanken/Artskart dokumenterer **476 funn av 61 rødlistede taksa** i Rognsundområdet, herunder sjøfugl i de strengeste kategoriene: **hettemåke og lomvi (kritisk truet, CR)**; krykkje, makrellterne, storspove og lunde (sterkt truet, EN); ærfugl, gråmåke, fiskemåke, tyvjo og alke (sårbar, VU); storskarv, tjeld, teist, rødstilk m.fl. (nær truet, NT). Vi krever at disse funnene legges eksplisitt til grunn og oppdateres med feltkartlegging.
+- Et områdeuttrekk fra Artsdatabanken/Artskart dokumenterer **476 funn av 61 rødlistede taksa** i Rognsundområdet, herunder sjøfugl i de strengeste kategoriene: **hettemåke og lomvi (kritisk truet, CR)**; krykkje, makrellterne, storspove og lunde (sterkt truet, EN); ærfugl, gråmåke, fiskemåke, tyvjo og alke (sårbar, VU); storskarv, tjeld, teist, rødstilk m.fl. (nær truet, NT). Det kreves at disse funnene legges eksplisitt til grunn og oppdateres med feltkartlegging.
 - **Truede karplanter** på land (Seiland/Stjernøya), herunder den lokalt endemiske **stjernøyvalmuen** (EN) og flere EN/VU/NT-fjellplanter, samt de identifiserte «hotspotene» ved **Mjånes** og **Kremmervika/Daudingsberget**.
 
 ### 3.7 Sjøpattedyr og undervannsstøy
@@ -112,9 +115,11 @@ For hvert tema under krever vi at forholdet **kartlegges, utredes og dokumentere
 - **Skredfare** (snøskred, steinsprang) og risiko for **flodbølge** som kan ramme både anlegg og **bebyggelse/infrastruktur på land** – registrert skred ved Hestneset/Hestneselva (2010).
 - At **ROS-analysen** utvides til å omfatte konsekvenser for lokalsamfunn ved flodbølge, og at den følger DSBs veileder.
 
-### 3.14 Kumulative effekter og biomasse
+### 3.14 Kumulative effekter, biomasse og rekkefølgekrav
 - **Samlet belastning** fra alle anlegg i Rognsund – fem eksisterende SalMar-lokaliteter + to nye + **Kime Akvas torskeoppdrett** – utredet samlet, jf. naturmangfoldloven § 10.
 - Dokumentasjon av hva «**samme biomasse**» reelt innebærer, og hvordan total belastning sikres mot å øke over tid (forholdet mellom intensjon og juridisk binding).
+- **Rekkefølgekrav:** at behovet for og utformingen av **rekkefølgebestemmelser** (jf. plan- og bygningsloven § 12-7 nr. 10) utredes og innarbeides, slik at nye lokaliteter ikke kan tas i bruk før de lokalitetene som skal fjernes (bl.a. Pollen, Lille Kvalfjord og Store Kufjord) er **permanent avviklet**, fortøyninger og installasjoner fjernet, og arealet tilbakeført til opprinnelig formål i kommuneplanen.
+- At forutsetningen om at samlet biomasse «ikke skal øke» gjøres **juridisk bindende** gjennom rekkefølgekrav og/eller planbestemmelser med et tak på samlet biomasse og belastning i sundet – slik at det ikke forblir en intensjon.
 
 ### 3.15 Friluftsliv, reiseliv, folkehelse og lysforurensning
 - Konsekvenser for **friluftsliv og reiseliv** (guidede turer, hvalsafari, mørkehimmel-/nordlysturisme), tilgang til sjøområdet og opplevelsesverdi.
@@ -143,9 +148,9 @@ For hvert tema under krever vi at forholdet **kartlegges, utredes og dokumentere
 
 ## 4. Krav om metode og kvalitetssikring
 
-- Vi krever at **M-1941** benyttes for alle relevante KU-temaer (naturmangfold, landskap, kulturmiljø, friluftsliv, tradisjonelt fiske, befolkning/samfunn), og at eventuell bruk av forenklet metode (f.eks. V712 eller temanotat) begrunnes særskilt og synliggjøres.
-- Vi krever at **feltarbeid** gjennomføres der metoden forutsetter det (bl.a. fuglekartlegging i hekketid og ROV-kartlegging av havbunn).
-- Vi ber om at det vurderes **uavhengig fagkvalitetssikring** av de mest sentrale utredningene (villaks/lakselus, vannmiljø, marint naturmangfold, undervannsstøy).
+- Det kreves at **M-1941** benyttes for alle relevante KU-temaer (naturmangfold, landskap, kulturmiljø, friluftsliv, tradisjonelt fiske, befolkning/samfunn), og at eventuell bruk av forenklet metode (f.eks. V712 eller temanotat) begrunnes særskilt og synliggjøres.
+- Det kreves at **feltarbeid** gjennomføres der metoden forutsetter det (bl.a. fuglekartlegging i hekketid og ROV-kartlegging av havbunn).
+- Det bes om at det vurderes **uavhengig fagkvalitetssikring** av de mest sentrale utredningene (villaks/lakselus, vannmiljø, marint naturmangfold, undervannsstøy).
 
 ---
 
@@ -160,12 +165,12 @@ For hvert tema under krever vi at forholdet **kartlegges, utredes og dokumentere
 
 ## 6. Krav om oppfølging og vektlegging
 
-Vi krever at:
+Det kreves at:
 
 1. **Alle momenter i dette innspillet vurderes og besvares**, og at det fremgår av planmaterialet hvordan hvert tema er fulgt opp.
 2. **Eventuelle negative konsekvenser som avdekkes, tillegges vekt** i den videre saksgangen og i den endelige avveiningen – ikke bare registreres.
 3. Der utredninger viser at et forhold ikke er tilstrekkelig kjent, skal **føre-var-prinsippet** anvendes.
-4. Vi mottar **bekreftelse på at innspillet er mottatt** og inngår i det offentlige planmaterialet.
+4. Avsender mottar **bekreftelse på at innspillet er mottatt** og inngår i det offentlige planmaterialet.
 
 ---
 
@@ -173,11 +178,12 @@ Vi krever at:
 
 Rognsund er et fjordsystem med store og til dels sårbare naturverdier, levende sjøsamisk kultur, aktivt fiske og et reiseliv som er avhengig av en ren og uberørt natur. Beslutninger som påvirker fjorden for generasjoner framover, må bygge på et fullstendig og etterprøvbart kunnskapsgrunnlag.
 
-Vi ber om at planprogrammet utvides og presiseres i tråd med kravene over, slik at konsekvensutredningen belyser **alle** relevante problemstillinger forbundet med oppdrett i Rognsund – og at det som avdekkes, faktisk tillegges vekt. På den måten kan vi **ta vare på Rognsund for fremtiden**.
+Det bes om at planprogrammet utvides og presiseres i tråd med kravene over, slik at konsekvensutredningen belyser **alle** relevante problemstillinger forbundet med oppdrett i Rognsund – og at det som avdekkes, faktisk tillegges vekt. På den måten kan vi **ta vare på Rognsund for fremtiden**.
 
 Med vennlig hilsen
 
-*[Avsender / organisasjon]*
+Erling Kristiansen  
+erling@rognsund.no
 
 ---
 
