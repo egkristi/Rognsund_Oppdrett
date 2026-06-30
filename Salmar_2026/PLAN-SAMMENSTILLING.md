@@ -6,7 +6,9 @@
 >
 > Gjennomgangen er utvidet med egne kapitler om **driftsform og utslipp** (kap. 18), **teknologiske alternativer** (kap. 19), **nasjonalt regelverk i endring** (kap. 20) og en samlet vurdering av veien til et **bærekraftig Rognsund over tid** (kap. 21). Disse kapitlene løfter saken fra «hvor skal anleggene plasseres» til «hvordan bør de drives – og hva tåler fjorden på sikt».
 >
-> **Sist oppdatert:** 02.06.2026
+> Analysen er illustrert med **26 temakart (F1–F26) fra Fiskeridirektoratets kartportal** (fiskeri, gyteområder, sjøpattedyr, sjøfugl, vern og arealplan), innarbeidet i de relevante kapitlene og indeksert i kapittel 15. Kartene ligger i `underlag_bilder/fiskeridir/`.
+>
+> **Sist oppdatert:** 30.06.2026
 
 ---
 
@@ -64,6 +66,9 @@ Rognsundet brukes i dag til:
 - **Reiseliv og turisme** – guidede turer sommer og vinter, hvalsafari
 - **Lokalsamfunn** – butikk og skole i Store Kvalfjord
 
+![Dagens oppdrettslokaliteter i Rognsund](underlag_bilder/fiskeridir/Fiskeridir_02_oppdrett_og_forbudssoner_oversikt.png)
+*Figur F2: Dagens akvakulturlokaliteter (røde flater) og forbudssoner i Rognsund/Stjernsundet (Fiskeridirektoratets kartportal).*
+
 ### 2.2 Hensikten med planarbeidet
 
 SalMar ønsker å **endre lokalitetsstrukturen** i Rognsundet ved å:
@@ -90,6 +95,9 @@ To av alternativene velges. Det tredje tas ut av planforslaget. SalMar er også 
 
 Kun hvit lyktesektor fra Mjånes fyr er lagt til grunn for plassering av alternativene – øvrige hensyn skal innarbeides gjennom konsekvensutredningene.
 
+![SalMars reguleringsplanforslag](underlag_bilder/fiskeridir/Fiskeridir_25_reguleringsplanforslag_akvakultur_Rognsundet.png)
+*Figur F25: Registrert planforslag «Detaljregulering for akvakultur i Rognsundet» (planID 20260001, planstatus «planlegging igangsatt»), med varslingsområde markert (Fiskeridirektoratets kartportal / Plandata).*
+
 ### 2.4 Nullalternativet
 
 Dagens situasjon: Beholde fem eksisterende lokaliteter. Planstatus forblir:
@@ -113,6 +121,12 @@ Vannforekomsten Rognsundet (ID 0420031000-C) har i dag **god økologisk tilstand
 | **Kommuneplanens samfunnsdel** | "Alta Vil", vedtatt 22.06.2015 | Fremmer næring, trivsel og utvikling av Alta som regionssenter |
 
 > **Dette er et sentralt juridisk problem:** Sørlig lokasjon ligger i FFNFA-område hvor oppdrett av laks ikke er tillatt. Planen krever derfor reguleringsendring. Arealdelens områder for akvakultur ble tatt inn i planen for over 20 år siden, og forutsetningene er endret.
+
+![Kommuneplanens arealdel – arealformål fiske](underlag_bilder/fiskeridir/Fiskeridir_23_kommuneplan_arealformaal_fiske_VF12.png)
+*Figur F23: Kommuneplanens arealdel for Alta – sjøareal med arealformål «Fiske» (VF12) i nordlige Rognsund (Fiskeridirektoratets kartportal / Plandata).*
+
+![Kommuneplanens arealdel – bruk og vern av sjø (FFNFA)](underlag_bilder/fiskeridir/Fiskeridir_24_kommuneplan_arealformaal_6800_bruk_og_vern_sjo.png)
+*Figur F24: Arealformål 6800 «Bruk og vern av sjø og vassdrag med tilhørende strandsone» (FFNFA-type) – relevant for den sørlige lokaliteten, jf. KPA §6.2.2 (Fiskeridirektoratets kartportal / Plandata).*
 
 ### 3.2 Eksisterende reguleringsplaner i området
 
@@ -222,6 +236,29 @@ Tiltaket er vurdert opp mot Forskrift om konsekvensutredninger (med endringer gj
 - **Metode:** M-1941 (kommunens ønske) eller V712 (planrådgivers forslag) – **UENIGHET**
 - **Spesielt:** Sjøsamisk fiske inkluderes fordi det i praksis ikke er mulig å skille fra annet fiske. Ingen befaring vurdert som nødvendig.
 
+**Kartdokumentasjon – fiskeri i Rognsund** (Fiskeridirektoratets kartportal, «Kystnære fiskeridata»). Kartene under viser at Rognsund er et aktivt og mye brukt fiskeområde – et sentralt hensyn både for KU-temaet tradisjonelt fiske og for kystflåtens tilgang til fiskefeltene.
+
+![Fiskeriaktivitet og fiskeplasser i Rognsund](underlag_bilder/fiskeridir/Fiskeridir_01_fiskeriaktivitet_og_fiskeplasser_oversikt.png)
+*Figur F1: Samlet fiskeriaktivitet (blå spor) og registrerte fiskeplasser i Rognsund/Stjernsundet.*
+
+![Fiskeriaktivitet faststående redskap](underlag_bilder/fiskeridir/Fiskeridir_10_fiskeriaktivitet_faststaaende_redskap.png)
+*Figur F10: Fiskeriaktivitet med faststående redskap (snurpenot, teine, garn, line).*
+
+![Fiskeriaktivitet etter redskap](underlag_bilder/fiskeridir/Fiskeridir_11_fiskeriaktivitet_etter_redskap_line_og_garn.png)
+*Figur F11: Fiskeriaktivitet etter redskap – line/krok og garn.*
+
+![Fiskeplass aktive redskap i Rognsundet](underlag_bilder/fiskeridir/Fiskeridir_06_fiskeplasser_aktive_redskap_Rognsundet_sei.png)
+*Figur F6: Fiskeplass for aktive redskap i Rognsundet – sei med snurpenot/ringnot (juni–september).*
+
+![Låssettingsplass Varilasgoppi](underlag_bilder/fiskeridir/Fiskeridir_03_laassettingsplass_Varilasgoppi.png)
+*Figur F3: Låssettingsplass «Varilasgoppi» (Fiskarlag, registrert 2006, 1. prioritet).*
+
+![Fiskeplasser passive redskap – Søraysund Sør](underlag_bilder/fiskeridir/Fiskeridir_04_fiskeplasser_passive_redskap_Soraysund_Sor.png)
+*Figur F4: Fiskeplass for passive redskap – torsk (settegarn) og hyse.*
+
+![Fiskeplasser passive redskap – hele Altafjorden](underlag_bilder/fiskeridir/Fiskeridir_05_fiskeplasser_passive_redskap_hele_Altafjorden.png)
+*Figur F5: Passive redskap brukt av opptil 50 fartøy i hele Altafjorden med sidefjorder.*
+
 #### Befolkning og samfunn
 - **Tema som skal utredes:** Kommunale/lokale arbeidsplasser, butikken i Kvalfjord, sosial infrastruktur, farleder/offentlig transport (ferge), visuell påvirkning/lys/lyd, fritidsfiske, sjøsamisk kultur, tilgang til sjøområdet, lokalt næringsliv inkl. turisme og fiske, andre samfunnsmessige ringvirkninger
 - **Metode:** V712 eller temanotat (planrådgivers forslag) vs. M-1941 (kommunens ønske) – **UENIGHET**
@@ -317,6 +354,12 @@ Planprogrammet har gjort en tidlig vurdering av risiko og sårbarhet. Følgende 
 
 > **Kunnskapsmangel:** Rognsundets sjøareal ligger mellom to markerte områder for **manglende kartlegging** av truede arter på land. Det er nærliggende å tro at det også er kartleggingsmangler for arter i sjøområder.
 
+![Artskart – rødlistede arter](underlag_bilder/fiskeridir/Fiskeridir_21_artskart_rodlistede_arter.png)
+*Figur F21: Registrerte rødlistede arter (Artsdatabanken) i og rundt Rognsund – kategoriene RE, CR, EN, VU og NT.*
+
+![Sjøfugl – hekkeområde](underlag_bilder/fiskeridir/Fiskeridir_17_sjofugl_hekkeomraade.png)
+*Figur F17: Hekkeområde for sjøfugl (bl.a. ærfugl, krykkje, lunde og terner) – kilde NINA.*
+
 ### 5.3 Marine forhold
 
 | Forhold | Status | Detaljer |
@@ -332,6 +375,27 @@ Planprogrammet har gjort en tidlig vurdering av risiko og sårbarhet. Følgende 
 | **Eksisterende påvirkning** | Utslipp fra fiskeoppdrett vurdert til "liten grad" (2024) | Foreløpige rapporter |
 | **Morfologiske endringer** | Vurdert til "liten grad" (2020) | Vann-Nett |
 
+![Gyteområde torsk – Sanden](underlag_bilder/fiskeridir/Fiskeridir_07_gyteomraade_torsk_Sanden.png)
+*Figur F7: Gyteområde for torsk ved Sanden (nordlige Rognsund).*
+
+![Gyteområde alle arter – Sanden](underlag_bilder/fiskeridir/Fiskeridir_08_gyteomraade_alle_arter_Sanden.png)
+*Figur F8: Gyteområde for alle arter ved Sanden.*
+
+![Gytefelt torsk – Store Kufjord](underlag_bilder/fiskeridir/Fiskeridir_09_gytefelt_torsk_Store_Kufjord.png)
+*Figur F9: Gytefelt for kysttorsk ved Store Kufjord – «lokalt viktig», gyteverdi 3 (Havforskningsinstituttet).*
+
+![SVO – fisk/gyteområde](underlag_bilder/fiskeridir/Fiskeridir_20_SVO_miljoverdier_fisk_gyteomraade.png)
+*Figur F20: Særlig verdifulle områder (SVO) – fisk/gyteområde langs Rognsund.*
+
+![Egglarvedrift](underlag_bilder/fiskeridir/Fiskeridir_19_egglarvedrift_lodde_sild_torsk_hyse_sei_uer.png)
+*Figur F19: Driftvei for egg og larver (lodde, sild, torsk, hyse, sei, uer) – Havforskningsinstituttet.*
+
+![Dyreplankton – høy produksjon](underlag_bilder/fiskeridir/Fiskeridir_18_dyreplankton_hoy_produksjon.png)
+*Figur F18: Område med høy produksjon av dyreplankton (zooplankton).*
+
+![Akvakulturregister/NYTEK og bassengvann](underlag_bilder/fiskeridir/Fiskeridir_26_akvakulturregister_NYTEK_og_bassengvatn_sjokart.png)
+*Figur F26: Akvakulturregisteret/NYTEK-forankring på sjøkart, samt fjorder med sjelden utskifting av bassengvann – relevant for resipientkapasitet og kjemisk tilstand.*
+
 ### 5.4 Verneområder
 
 | Verneområde | Avstand | Potensiell påvirkning |
@@ -339,7 +403,29 @@ Planprogrammet har gjort en tidlig vurdering av risiko og sårbarhet. Følgende 
 | **Seiland nasjonalpark** | Tilstøtende | Synlighet fra topper og høyder – landskapsvirkning. Verneformål: alpint landskap |
 | **Lopphavet marine verneområde** | Nord for Rognsundet | Indirekte virkninger må utredes – kan ikke utelukkes |
 | **Altafjorden (nasjonal laksefjord)** | Utenfor Rognsundet | Indirekte virkninger må utredes – lakselus, rømming |
-| **Altavassdraget (nasjonal lakseelv)** | Innenfor 60 km | Inngår i influensområdet – kvalitetsnorm for villaks
+| **Altavassdraget (nasjonal lakseelv)** | Innenfor 60 km | Inngår i influensområdet – kvalitetsnorm for villaks |
+
+![Seiland nasjonalpark](underlag_bilder/fiskeridir/Fiskeridir_12_verneomraade_Seiland_nasjonalpark.png)
+*Figur F12: Seiland nasjonalpark (vernet 2006, IUCN II, marin og terrestrisk) – tilstøtende Rognsund.*
+
+### 5.5 Sjøpattedyr
+
+Altafjordsystemet, inkludert Rognsund, er registrert som **beite- og hårfellingsområde for flere hvalarter** (kilde: Havforskningsinstituttet). Dette underbygger behovet for å utrede undervannsstøy og kumulative effekter på sjøpattedyr, jf. naturmangfoldloven §§8–10. (Tema er nærmere omtalt i `README.md`.)
+
+![Knølhval – beiteområde](underlag_bilder/fiskeridir/Fiskeridir_13_sjopattedyr_beiteomraade_knolhval_1.png)
+*Figur F13: Beiteområde for knølhval (Megaptera novaeangliae) i Altafjorden/Rognsund.*
+
+![Knølhval – beiteområde (attributter)](underlag_bilder/fiskeridir/Fiskeridir_14_sjopattedyr_beiteomraade_knolhval_2.png)
+*Figur F14: Knølhval beiteområde – attributtvisning (BH1, kilde Havforskningsinstituttet).*
+
+![Knølhval – beiteområde (BH3)](underlag_bilder/fiskeridir/Fiskeridir_15_sjopattedyr_beiteomraade_knolhval_3.png)
+*Figur F15: Knølhval beiteområde (BH3).*
+
+![Vågehval – beiteområde](underlag_bilder/fiskeridir/Fiskeridir_16_sjopattedyr_beiteomraade_vagehval.png)
+*Figur F16: Beiteområde for vågehval (Balaenoptera acutorostrata).*
+
+![Sjøpattedyr – beite- og hårfellingsområde](underlag_bilder/fiskeridir/Fiskeridir_22_sjopattedyr_beite_og_harfellingsomraade.png)
+*Figur F22: Samlet beite- og hårfellingsområde for sjøpattedyr i Rognsund-/Altafjordsystemet.*
 
 ---
 
@@ -798,6 +884,39 @@ Følgende bilder og figurer følger planmaterialet og er tilgjengelig i `underla
 | `Oversiktskart7.png` | Figur 5 – Sørlig lokasjon med sektorinndeling |
 | `Oversiktskart8.png` | Kartutsnitt (kun grafisk) |
 | `Oversiktskart9.png` | Kart – Rognsundet med stedsnavn |
+
+### 15.1 Kart fra Fiskeridirektoratets kartportal (F1–F26)
+
+I tillegg er det innhentet **26 temakart** fra **Fiskeridirektoratets kartportal** (portal.fiskeridir.no, «Kystnære fiskeridata»), lagret i `underlag_bilder/fiskeridir/`. De er innarbeidet som figurer (F1–F26) i de relevante kapitlene. Kartgrunnlag: Kartverket/Geodata. Temadata: Fiskeridirektoratet, Havforskningsinstituttet, NINA og Artsdatabanken.
+
+| Figur | Fil | Innhold | Kap. |
+|:-----:|-----|---------|:----:|
+| F1 | `Fiskeridir_01_fiskeriaktivitet_og_fiskeplasser_oversikt.png` | Fiskeriaktivitet + fiskeplasser (oversikt) | 4.3 |
+| F2 | `Fiskeridir_02_oppdrett_og_forbudssoner_oversikt.png` | Dagens oppdrettslokaliteter og forbudssoner | 2.1 |
+| F3 | `Fiskeridir_03_laassettingsplass_Varilasgoppi.png` | Låssettingsplass Varilasgoppi | 4.3 |
+| F4 | `Fiskeridir_04_fiskeplasser_passive_redskap_Soraysund_Sor.png` | Fiskeplass passive redskap (Søraysund Sør) | 4.3 |
+| F5 | `Fiskeridir_05_fiskeplasser_passive_redskap_hele_Altafjorden.png` | Passive redskap (hele Altafjorden) | 4.3 |
+| F6 | `Fiskeridir_06_fiskeplasser_aktive_redskap_Rognsundet_sei.png` | Aktive redskap – sei (Rognsundet) | 4.3 |
+| F7 | `Fiskeridir_07_gyteomraade_torsk_Sanden.png` | Gyteområde torsk (Sanden) | 5.3 |
+| F8 | `Fiskeridir_08_gyteomraade_alle_arter_Sanden.png` | Gyteområde alle arter (Sanden) | 5.3 |
+| F9 | `Fiskeridir_09_gytefelt_torsk_Store_Kufjord.png` | Gytefelt torsk (Store Kufjord, HI) | 5.3 |
+| F10 | `Fiskeridir_10_fiskeriaktivitet_faststaaende_redskap.png` | Fiskeriaktivitet faststående redskap | 4.3 |
+| F11 | `Fiskeridir_11_fiskeriaktivitet_etter_redskap_line_og_garn.png` | Fiskeriaktivitet etter redskap (line/garn) | 4.3 |
+| F12 | `Fiskeridir_12_verneomraade_Seiland_nasjonalpark.png` | Seiland nasjonalpark | 5.4 |
+| F13 | `Fiskeridir_13_sjopattedyr_beiteomraade_knolhval_1.png` | Knølhval beiteområde | 5.5 |
+| F14 | `Fiskeridir_14_sjopattedyr_beiteomraade_knolhval_2.png` | Knølhval beiteområde (attributter) | 5.5 |
+| F15 | `Fiskeridir_15_sjopattedyr_beiteomraade_knolhval_3.png` | Knølhval beiteområde (BH3) | 5.5 |
+| F16 | `Fiskeridir_16_sjopattedyr_beiteomraade_vagehval.png` | Vågehval beiteområde | 5.5 |
+| F17 | `Fiskeridir_17_sjofugl_hekkeomraade.png` | Sjøfugl hekkeområde (NINA) | 5.2 |
+| F18 | `Fiskeridir_18_dyreplankton_hoy_produksjon.png` | Dyreplankton (høy produksjon) | 5.3 |
+| F19 | `Fiskeridir_19_egglarvedrift_lodde_sild_torsk_hyse_sei_uer.png` | Egglarvedrift (HI) | 5.3 |
+| F20 | `Fiskeridir_20_SVO_miljoverdier_fisk_gyteomraade.png` | SVO – fisk/gyteområde | 5.3 |
+| F21 | `Fiskeridir_21_artskart_rodlistede_arter.png` | Artskart rødlistede arter (Artsdatabanken) | 5.2 |
+| F22 | `Fiskeridir_22_sjopattedyr_beite_og_harfellingsomraade.png` | Sjøpattedyr beite-/hårfellingsområde | 5.5 |
+| F23 | `Fiskeridir_23_kommuneplan_arealformaal_fiske_VF12.png` | KPA arealformål Fiske (VF12) | 3.1 |
+| F24 | `Fiskeridir_24_kommuneplan_arealformaal_6800_bruk_og_vern_sjo.png` | KPA arealformål 6800 (FFNFA-type) | 3.1 |
+| F25 | `Fiskeridir_25_reguleringsplanforslag_akvakultur_Rognsundet.png` | Reguleringsplanforslag (planID 20260001) | 2.3 |
+| F26 | `Fiskeridir_26_akvakulturregister_NYTEK_og_bassengvatn_sjokart.png` | Akvakulturregister/NYTEK + bassengvann | 5.3 |
 
 ---
 
