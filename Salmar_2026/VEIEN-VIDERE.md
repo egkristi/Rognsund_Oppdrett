@@ -33,6 +33,19 @@
 | ca. 09.09.2026 | «Normal» frist for å fastsette planprogrammet (ti uker etter høringsfristen, KU-forskriften § 16) | Beregnet |
 | 19.10.2026 | Frist for Rambølls kartlegging av fiskeriinteresser | Invitasjon fra Rambøll |
 
+**Kjente reaksjoner i høringsperioden (mai–juli 2026):**
+
+| Hvem | Standpunkt | Kilde |
+|------|-----------|-------|
+| **Vest-Finnmark Kystfiskarlag** (leder Einar Juliussen) | Imot nye lokaliteter i Rognsundet. Sundet er blant kystflåtens viktigste fiskefelt om vinteren; laget mener veksten i PO12 må stoppes. | [Kyst og Fjord](https://www.kystogfjord.no/nyheter/n/lnJyok/kritisk-til-oppdrettsplaner), [Fiskeribladet](https://www.fiskeribladet.no/havbruk/gar-imot-oppdrettsgigantens-planer/2-1-2017216) |
+| **Altafjord Fiskarlag** (leder Arnt Ivar Ring) | Sterkt kritisk til alle SalMars alternativer; foreslår to andre områder (Lille Kvalfjord–Mjånes og Store Kufjordnes–Junkerhavna) og vil ikke ha anlegg på gode fiskefelt eller i gyteområder for torsk og kveite. | [Altaposten](https://www.altaposten.no/nyheter/n/3pRORq/fiskarlaget-foreslaar-alternative-plasseringer-av-nye-lokaliteter), [Ságat](https://www.sagat.no/nyheter/foreslar-to-alternative-lokaliteter/19.58455) |
+| **Naturvernforbundet, Stilla-laget/Vest-Finnmark** (01.07.2026) | Alta kommune bør avslå SalMars ønske om nye lakselokaliteter. | [Uttalelse (PDF)](https://naturvernforbundet.no/content/uploads/sites/12/2026/07/Naturvernforbundet_Uttalelse_oppdrett_Rognsundet.pdf) |
+| **Sametinget** (omtalt i Ságat) | Imot utvidet oppdrett i Rognsund fordi det gjelder viktige sjøsamiske ressursområder. Sametingets eget brev er ikke funnet. | [Ságat: «Uakseptabelt for Sametinget»](https://www.sagat.no/uakseptabelt-for-sametinget/19.58418) |
+| **Hilde-Kathrine Nilsen**, sametingsrepresentant (Nordkalottfolket) | Kronikk: «Ingen angrerett på naturen». | [Ságat](https://www.sagat.no/ingen-angrerett-pa-naturen/19.58263), [Altaposten](https://www.altaposten.no/meninger/o/pBKW6E/ingen-angrerett-paa-naturen) |
+| **Torleif Eriksen**, fisker | Innlegg: «Det gjelder livets rett for fiskerne» – om oppdrett i fiske- og gytefelt i Ytre Rognsund. | [Kyst og Fjord](https://www.kystogfjord.no/debatt/o/oE9qrR/det-gjelder-livets-rett-for-fiskerne) |
+
+Offentlige myndigheters uttalelser er ikke funnet åpent tilgjengelig og bør kreves innsyn i.
+
 **Uavklart per 06.10.2026 – bør spørres om skriftlig (saksnr. 2025/7057):**
 
 - Er planprogrammet fastsatt, av hvilket organ, og når skal saken behandles politisk?
@@ -210,4 +223,113 @@ Alle punktene under er kontrollert mot planprogrammet (versjon 01, 11.05.2026), 
 
 ---
 
-<!-- KAPITTEL 7–9 FYLLES INN ETTER VERIFISERING -->
+## 7. Fakta og argumenter – med motargumenter
+
+Prosjektets styrke er at det er faglig redelig. Under er de viktigste faktaene, og argumentene tiltakshaver vil bruke.
+
+### 7.1 Villaks og lakselus
+
+| Fakta | Kilde |
+|-------|-------|
+| Altavassdraget er ett av 52 nasjonale laksevassdrag; i tillegg finnes 29 nasjonale laksefjorder, blant dem Altafjorden. | [SNL](https://snl.no/nasjonale_laksevassdrag); St.prp. nr. 32 (2006–2007) |
+| Ifølge planinitiativet har laksen i Altavassdraget tilstand «moderat», under kvalitetsnormen (Vitenskapelig råd for lakseforvaltning). Ikke uavhengig kontrollert. | Planinitiativet s. 11 |
+| Ifølge planinitiativet bruker om lag 16 % av den migrerende laksen fra Altavassdraget og Altafjorden Rognsundet (kartlegging 2016–2018, «Lakseklyngen, Havforsknings-instituttet, 2018»). Originalkilden er ikke funnet. | Planinitiativet s. 7 |
+| Planinitiativet erkjenner at Rognsundet er «en av vandringsrutene for anadrom fisk» fra Altavassdraget, og planprogrammet at registrerte sjølakseplasser viser at villaksen vandrer gjennom sundet. | Planinitiativet s. 10; planprogrammet |
+| Fangsten i Altaelva var 2 806 laks i 2025 (Norske Lakseelver). | [Norske Lakseelver](https://lakseelver.no/sites/default/files/Sesongen_2025.pdf) |
+| HIs risikorapport 2026: lakselusrisikoen avtar nordover, men er høyere for sjøørret og sjørøye; risikoen for ny genetisk innkryssing fra rømt oppdrettslaks er moderat til høy i store deler av landet. 67 millioner oppdrettslaks gikk tapt i 2025, over 54 millioner døde i merdene. | [HI 2026-10](https://www.hi.no/hi/nettrapporter/rapport-fra-havforskningen-2026-10); [iLaks](https://ilaks.no/arets-risikorapport-fra-havforskningsinstituttet-hoyest-dodelighet-i-produksjonsomrade-3-og-4); [TU](https://www.tu.no/artikler/ny-rapport-over-54-millioner-laks-dode-i-merdene-i-fjor/568141) |
+| PO12 (Vest-Finnmark) fikk grønt lys 19.06.2026 med tilbud om inntil 6 % vekst. | [regjeringen.no](https://www.regjeringen.no/no/aktuelt/ny-fargelegging-i-trafikklyssystemet-for-havbruk/id3167021/) |
+
+**Motargument tiltakshaver vil bruke:** PO12 har grønt lys og lav vurdert lakselusrisiko. **Svar:** Trafikklyset er en regional vurdering av lakselus på villaks. Det fanger ikke opp lokale og samlede effekter i ett sund, rømming, utslipp eller sjøørret og sjørøye – og grønt lys gir nettopp vekst i hele produksjonsområdet. Vest-Finnmark Kystfiskarlag mener veksten i PO12 må stoppes.
+
+### 7.2 Kysttorsk, fiske og gyteområder
+
+- Fiskeridirektoratets kartportal viser gyteområder for torsk ved Sanden (registrert av fiskarlaget, gytetid mars–april) og et HI-kartlagt gytefelt i Store Kufjord («lokalt viktig», bestand kysttorsk nord for 67°N). Den eksisterende lokaliteten Store Kufjord ser ut til å ligge inne i dette gytefeltet (figur F9 og F20).
+- Ságat omtaler Rognsund som gyteområde for kysttorsk, med oppvekst ved Sanden, Nordbukta og Store Kufjord ([Ságat](https://www.sagat.no/uakseptabelt-for-sametinget/19.58418)).
+- Kystfiskarlaget peker på Rognsund som vinterfelt for kystflåten, og fiskarlaget vil ikke ha anlegg på gode fiskefelt eller i gyteområder for torsk og kveite (se kapittel 2).
+
+**Motargument:** HIs kunnskapsstatus for 2026 om lakseoppdrett og kysttorsk konkluderer med «lav til moderat» risiko på bestandsnivå ([Salmon Business](https://www.salmonbusiness.com/scientists-size-up-salmon-farms-impact-on-coastal-cod/?amp=1)). **Svar:** Det handler her om lokale gyteområder og fiskefelt som blir direkte berørt av arealbeslag og utslipp – ikke bare om bestandsnivå.
+
+### 7.3 Natur og vannmiljø
+
+- **Vannmiljø:** Rognsundet har god økologisk og ukjent kjemisk tilstand (planprogrammet). Unntaket i vannforskriften § 12 åpner bare for forringelse som skyldes nye fysiske endringer, eller ny bærekraftig aktivitet som forringer «fra svært god tilstand til god tilstand» (se [PLAN-SAMMENSTILLING kap. 11.3](PLAN-SAMMENSTILLING.md)).
+- **Sjøpattedyr og sjøfugl:** Kartportalen viser beiteområder for knølhval og vågehval og et hekkeområde for sjøfugl som dekker store deler av sundet (kilder HI og NINA).
+- **Verneområder:** Seiland nasjonalpark (vernet 08.12.2006, 316 km²) ligger ved sundet; virksomhet utenfor som kan påvirke verneverdiene, skal vurderes etter naturmangfoldloven § 49. Lopphavet marine verneområde (vernet 22.06.2022, 1 322 km², Norges største marine verneområde) ligger vest for Stjernøya ([kgl.res.](https://cms12.regjeringen.no/contentassets/26564b22f0414af6a12de501ca8b967d/kongelig-resolusjon-forskrift-om-vern-av-lopphavet-marine-verneomrade-220622.pdf)).
+- **Utslipp nasjonalt:** Sunstone Institute anslo, omtalt i VG i mai 2026, at norsk oppdrett i 2025 slapp ut ca. 75 000 tonn nitrogen, 13 000 tonn fosfor og 360 000 tonn organisk karbon – for nitrogen tilsvarende urenset kloakk fra ca. 17,2 millioner mennesker. Sjømat Norge kritiserte beregningen; VG svarte at den bygger på Fiskeridirektoratets statistikk over faktisk biomasse ([iLaks](https://ilaks.no/feil-fra-sjomat-norge/), [Fish Farmer](https://www.fishfarmermagazine.com/news/salmon-producers-rebut-pollution-claims)). Tallene gjelder hele Norge, ikke Rognsund.
+
+### 7.4 SalMar – evne og teknologi
+
+| Fakta | Kilde |
+|-------|-------|
+| SalMar hadde i 2025 driftsinntekter på ca. 27,4 mrd. kr og operasjonelt driftsresultat på ca. 3,9 mrd. kr, og slaktet 300 900 tonn. | [SeafoodSource](https://www.seafoodsource.com/news/business-finance/salmar-tops-300-000-ton-harvest-milestone-in-2025), [Salmon Business](https://www.salmonbusiness.com/salmar-passes-300000-tonnes-in-2025-as-margins-recover-in-q4/?amp=1) |
+| SalMar kontrolleres av Kverva Industrier AS (45,4 %). | [Konkurransetilsynet (2025)](https://konkurransetilsynet.no/wp-content/uploads/2025/06/OFF-SalMar-Farming-AS-_-Wilsgard-AS.pdf) |
+| SalMar eier det lukkede anlegget **Marine Donut** (Molde). Første fullskalatest: 0,8 % dødelighet, ingen rømming, ingen lusebehandlinger. Anlegget brukes nå til postsmolt før fisken flyttes til åpne merder. | [Salmon Business](https://www.salmonbusiness.com/salmon-farming-reinvented-results-from-the-marine-donuts-first-full-trial-are-in/?amp=1), [Fish Farming Expert](https://www.fishfarmingexpert.com/bluegreen-closed-containment-aquaculture-marine-donut/salmar-switching-to-post-smolt-production-in-marine-donut/2070986) |
+| SalMars halvt nedsenkbare **Ocean Farm 1** (Frohavet, 2017) ble bygget på utviklingstillatelser som i 2020 ble konvertert til ordinære tillatelser. | [IPS/SalMar (2020)](https://ipsnews.net/business/2020/07/08/approval-for-conversion-of-development-licenses-for-the-ocean-farm-1-project/?amp=1) |
+| Mattilsynet trakk i desember 2025 sektortillatelsen for SalMar-eide **Arctic Offshore Farming** på Fellesholmen (Troms), med virkning fra 01.01.2026, på grunn av alvorlige brudd på regler om fiskevelferd, dyrehelse og smittevern. | [Salmon Business](https://www.salmonbusiness.com/regulator-shuts-down-offshore-site-after-repeated-operational-and-welfare-failures/), [iLaks](https://ilaks.no/betyr-i-praksis-at-lokaliteten-ikke-kan-benyttes-til-akvakultur-per-na/) |
+| Grunnrenteskatten på havbruk har en effektiv sats på 25 % (fra 2023), i tillegg til selskapsskatt. | [Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/bransjer-med-egne-regler/primarnaringer/akvakultur-og-havbruk/grunnrenteskatt-pa-havbruk/) |
+
+**Argument:** SalMar har både økonomisk evne og egen erfaring med lukket teknologi. Planprogrammet begrunner tiltaket med «ny teknologi», uten å spesifisere hvilken. Det er rimelig å kreve at et teknologialternativ utredes (KU-forskriften § 19; nml. § 12).
+
+**Nyanse – kommunens økonomi:** Alta kommune fikk 22 011 944 kr fra Havbruksfondet i 2025 ([iLaks](https://ilaks.no/se-listen-her-pengedryss-fra-havbruksfondet-til-oppdrettskommuner/)). Fondet fordeles etter lokalitets-MTB. Det er et legitimt hensyn for kommunen, og argumentasjonen bør møte det åpent – for eksempel ved å vise at et bindende tak og lukket teknologi ikke trenger å redusere kommunens inntekter.
+
+### 7.5 Annet oppdrett i sundet
+
+Kime Akva AS driver torskeoppdrett ved Hallarnes utenfor Stjernøya (planprogrammet). Selskapet har tillatelser for 12 900 tonn MTB på fem lokaliteter og planlegger ni lokaliteter innen 2029 ([We Are Aquaculture](https://weareaquaculture.com/news/aquaculture/ocean-14-capital-to-invest-in-norwegian-cod-farmer)). Samlede virkninger må vurderes med dette anlegget (KU-forskriften § 21; nml. § 10). For Kime Akvas søknad ved Segelnes (Hammerfest) innstilte fylkesdirektøren i Finnmark i april 2026 på avslag, med henvisning til manglende kunnskap om lokale kysttorskbestander og mulige virkninger av rømming og gyting i merd ([Altaposten](https://www.altaposten.no/nyheter/n/q6yxje/nei-til-torskeoppdrett-konsekvensen-kan-bli-alvorlig)). Det endelige utfallet er ikke avklart her.
+
+---
+
+## 8. Lærdom fra andre saker
+
+### 8.1 Innsigelser mot akvakultur i Nord-Norge
+
+| Sak | Hva skjedde | Lærdom |
+|-----|-------------|--------|
+| **Langeberg, Tjeldsund** (Kystplan II Midt- og Sør-Troms) | Statsforvalteren i Troms og Finnmark og Sametinget fremmet innsigelse mot et nytt akvakulturområde. Departementet godkjente **ikke** området, med vekt på at det lå i en viktig vandringsrute for villaks og at villaksens tilstand i nærliggende vassdrag var svært dårlig. | Villaks i vandringsrute + dårlig tilstand etter kvalitetsnormen + samiske interesser kan vinne fram. [regjeringen.no](https://www.regjeringen.no/no/dokumenter/kystplan-ii-midt-og-sor-troms-innsigelser-til-ny-akvakulturlokalitet-va05-langeberg-i-tjeldsund-kommune/id2844306/) |
+| **Lebesby** (KPA 2019–2035) | Sametinget fremmet innsigelse mot fire nye akvakulturområder av hensyn til sjøsamisk kultur og sjølaksefiske. Departementet godkjente likevel områdene. | Innsigelse alene er ingen garanti; staten kan vekte næringshensyn. Et lokalt politisk nei er sikrere. [regjeringen.no](https://www.regjeringen.no/no/dokumenter/innsigelse-til-kommuneplanens-arealdel-for-lebesby-kommune-2019-2035/id2834866/) |
+| **Kystsoneplanen for Tromsøregionen** (2023–2033) | Statsforvalteren og Sametinget hadde innsigelser mot tre akvakulturområder, som ble tatt ut i påvente av mekling; flere andre områder ble fjernet etter dialog med Sametinget. | Tidlig dialog med sektormyndighetene kan få områder tatt ut før vedtak. [Tromsø kommune](https://tromso.kommune.no/sites/default/files/2024-05/Kystsoneplanen%20for%20Troms%C3%B8regionen%20%282023-2033%29%20%E2%80%93%20kunngj%C3%B8ring%20av%20endelig%20plan%20uten%20innsigelser%20og%20marknader.PDF) |
+
+### 8.2 Lokale og regionale eksempler i Finnmark
+
+- **Alta kommunes egen arealplan (2021):** Kommunen holdt oppdrett av anadrom fisk ute av FFNFA-områdene (KPA pkt. 6.2.2). Det er den mest relevante presedensen: kommunestyret har selv gjort denne avveiningen.
+- **Porsanger:** Ifølge Naturvernforbundet Porsanger (2023) har Porsanger kommune vedtatt å frede sine sjøarealer mot oppdrett, etter store protester med underskriftskampanjer, møter og demonstrasjoner ([uttalelse](https://naturvernforbundet.no/content/uploads/sites/12/2023/01/Uttalelse-fra-Naturvernforbundet-Porsanger-til-Nordkapp-kommune_revidering-av-arealplan.pdf)).
+- **Vadsø:** Kommunestyret har vedtatt et midlertidig forbud mot fiskeoppdrett i påvente av en felles kystsoneplan for kommunene rundt Varangerfjorden ([TU](https://www.tu.no/nyhetsstudio/81402)).
+- **Finnmarkskommisjonen – Tanafjorden (10.09.2026):** Kommisjonen konkluderte med at befolkningen ved Tanafjorden gjennom alders tids bruk har ervervet en kollektiv særrett i form av en **fortrinnsrett** (ikke enerett) til ordinært fiske, med rett til å delta i forvaltningen ([Ságat](https://www.sagat.no/skal-skaffe-ekspertise-for-a-folge-opp/19.59366)). Kommisjonen har også fått utarbeidet utredningen «Lokal fiskerkunnskap i Altafjorden» (Jan H. Sundet, januar 2026) ([domstol.no](https://www.domstol.no/no/domstoler/annen/finnmarkskommisjonen/dokumenter/sakkyndige-utredninger/tematiske-sakkyndige-utredninger/)). Det er ikke funnet noe eget utredningsfelt for Altafjorden/Rognsundet. Utredningen kan likevel være et nyttig kunnskapsgrunnlag om tradisjonelt fiske i KU-en.
+- **Høyesteretts Fosen-dom (HR-2021-1975-S, 11.10.2021):** Vindkraftkonsesjonen og ekspropriasjonen ble kjent ugyldige fordi utbyggingen krenket reindriftssamenes rett til kulturutøvelse etter SP artikkel 27 ([domstol.no](https://www.domstol.no/globalassets/upload/hret/avgjorelser/2021/oktober-2021/hr-2021-1975-s.pdf)). Dommen gjaldt reindrift, men viser at SP art. 27 kan sette rettslige grenser for arealinngrep.
+
+### 8.3 Internasjonale eksempler
+
+| Hvor | Hva | Status per 2026 |
+|------|-----|-----------------|
+| **Alaska (USA)** | Kommersielt oppdrett av finfisk forbudt ved lov siden 1990. | Gjelder. [Alaska-lov 1990](https://www.akleg.gov/pdf/billfiles/All%20Versions%20of%20Bills/(1989-1990)%2016/HB0432B.pdf) |
+| **Washington (USA)** | Etter Cypress Island-rømmingen i 2017 (opptil 263 000 laks) vedtok delstaten i 2018 å fase ut oppdrett av ikke-stedegen fisk i sjø. Et forbud mot all kommersiell merdoppdrett på statlig sjøgrunn ble gjort bindende av Board of Natural Resources i januar 2025. | Gjelder. [DNR](https://dnr.wa.gov/node/50671) |
+| **British Columbia (Canada)** | Forbud mot åpne merder for laks fra 30.06.2029, kunngjort 19.06.2024. | Usikkert – regjeringen ser ut til å trekke seg fra forpliktelsen (mai 2026). [Canada.ca](https://www.canada.ca/en/fisheries-oceans/news/2024/06/responsible-realistic-and-achievable-the-government-of-canada-announces-transition-from-open-net-pen-salmon-aquaculture-in-coastal-british-columbia.html), [The Tyee](https://thetyee.ca/News/2026/05/08/Feds-BC-Salmon-Farm-Ban/) |
+| **Island** | Forbud siden 2004 mot merdoppdrett av laksefisk i fjorder og bukter nær viktige lakseelver. Nytt lovforslag (2025–2026) er ikke vedtatt; over 46 000 har signert opprop mot åpne merder. | Forbudet fra 2004 gjelder. [NASCO](https://nasco.int/document/a-new-regulation-for-the-protection-of-wild-atlantic-salmon-a-paper-presented-by-iceland), [Baird Maritime](https://www.bairdmaritime.com/fishing/aquaculture/iceland-aquaculture-bill-parliament-agenda) |
+| **Danmark** | Regjeringen stanset i 2019 planene om flere og større havbruk av hensyn til vannmiljøet (næringssalter). | Politisk stopp. [Ingeniøren](https://ing.dk/artikel/regeringen-vil-stoppe-flere-havbrug) |
+| **Tierra del Fuego (Argentina)** | Forbud mot lakseoppdrett vedtatt i 2021 (lov 1355). | **Reversert** i desember 2025 – ny lov åpner for oppdrett utenom Beaglekanalen og Península Mitre. [Noticias Ambientales](https://noticiasambientales.com/environment-en/greenpeaces-stern-warning-after-tierra-del-fuego-authorized-salmon-farming-environmental-setback/) |
+
+**Lærdom:** Vedtak som stopper eller begrenser oppdrett, har kommet der lokal motstand er bred (fiskere, miljøvern, urfolk), der argumentene er knyttet til dokumentert kunnskap (villaks, gyteområder, vannmiljø), og der vernet er forankret i plan eller lov. Eksemplene fra Canada og Argentina viser at politiske vedtak kan reverseres – forankring i arealplanen og bindende planbestemmelser er derfor viktig.
+
+---
+
+## 9. Kilder og verifisering
+
+**Metode (oktober 2026):** Innholdet er kontrollert i flere runder:
+
+1. **Lovtekst** er sitert ordrett fra gjeldende tekst i et speil av Lovdatas åpne data (oppdatert 06.10.2026): plan- og bygningsloven, KU-forskriften, sameloven, naturmangfoldloven, akvakulturloven, vannforskriften, offentleglova, miljøinformasjonsloven, kommuneloven, forvaltningsloven, menneskerettsloven og FOR-2026-06-01-976.
+2. **Plandokumentene** (planinitiativ, oppstartsmøtereferat, planprogram, varsel) er kontrollert mot originaldokumentene i [`underlag/`](https://github.com/egkristi/Rognsund_Oppdrett/tree/main/Salmar_2026/underlag) og kartutsnittene fra Fiskeridirektoratets kartportal.
+3. **Andre fakta** er kontrollert med nettsøk av uavhengige agenter med krav om eksplisitt kildestøtte. Direkte oppslag mot mange norske nettsteder var blokkert i arbeidsmiljøet, så flere fakta er kontrollert via søkemotorens gjengivelse av kildene – lenkene er oppgitt slik at alt kan etterprøves. Påstander som ikke kunne bekreftes, er tatt ut eller merket.
+
+**Ikke bekreftet – bør sjekkes før bruk:**
+
+- Om planprogrammet er fastsatt, og om det er holdt folkemøte (spør Alta kommune).
+- Gjeldende klassifisering av Altavassdraget etter kvalitetsnormen, og originalkilden til 16 %-tallet.
+- Hvor yttergrensen for den nasjonale laksefjorden Altafjorden går.
+- Lovdata-ID for verneforskriftene for Seiland nasjonalpark og Lopphavet marine verneområde (datoene er bekreftet).
+- Riktig Vann-Nett-ID for Store Kufjorden (planprogrammet skriver «042003100-C», som avviker fra ID-formatet).
+- Utfallet av Kime Akvas søknad ved Segelnes.
+
+**Sentrale kilder:**
+
+- [Plan- og bygningsloven](https://lovdata.no/lov/2008-06-27-71) · [KU-forskriften](https://lovdata.no/forskrift/2017-06-21-854) · [Sameloven](https://lovdata.no/lov/1987-06-12-56) · [Naturmangfoldloven](https://lovdata.no/lov/2009-06-19-100) · [Akvakulturloven](https://lovdata.no/lov/2005-06-17-79) · [Vannforskriften](https://lovdata.no/forskrift/2006-12-15-1446) · [Offentleglova](https://lovdata.no/lov/2006-05-19-16) · [Miljøinformasjonsloven](https://lovdata.no/lov/2003-05-09-31) · [Kommuneloven](https://lovdata.no/lov/2018-06-22-83) · [Forvaltningsloven](https://lovdata.no/lov/1967-02-10) · [Kvalitetsnorm for villaks](https://lovdata.no/forskrift/2013-09-20-1109)
+- Plandokumentene: [Rambøll – kunngjøring](https://www.ramboll.com/no-no/kunngjoring-rognsund-akvakultur) og [`underlag/`](https://github.com/egkristi/Rognsund_Oppdrett/tree/main/Salmar_2026/underlag)
+- Øvrige kilder er lenket direkte i teksten.
+
