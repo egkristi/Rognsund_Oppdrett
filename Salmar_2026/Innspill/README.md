@@ -1,6 +1,6 @@
 # Innspill og medvirkning
 
-> **Nå (frist 19.10.2026):** Rambøll kartlegger fiskeriinteresser i Rognsund. Se [forslag til svar på skjemaet](Kartlegging_fiskeriinteresser.md).
+> **Nå (frist 19.10.2026):** Rambøll kartlegger fiskeriinteresser i Rognsund. Se [veiledning til skjemaet](Kartlegging_fiskeriinteresser.md).
 
 Denne mappen inneholder **høringsinnspillet til planprogrammet** for SalMars planlagte akvakultur i Rognsund. Høringsfristen var **01.07.2026** og er passert. Innspillet ligger her som dokumentasjon, og som mal som kan gjenbrukes når planforslaget sendes på høring (ventet 2027).
 
@@ -11,7 +11,7 @@ Denne mappen inneholder **høringsinnspillet til planprogrammet** for SalMars pl
 | `Hoeringsinnspill_planprogram_Rognsund.docx` | Innspillet i Word-format (mal med avsenderfelt) |
 | [`Hoeringsinnspill_planprogram_Rognsund.md`](Hoeringsinnspill_planprogram_Rognsund.md) | Kildeversjon (redigerbar tekst) |
 | `PLAN-SAMMENSTILLING.pdf` | Øyeblikksbilde av plan-sammenstillingen slik den ble sendt med innspillet. Gjeldende versjon: [`../PLAN-SAMMENSTILLING.md`](../PLAN-SAMMENSTILLING.md) |
-| [`Kartlegging_fiskeriinteresser.md`](Kartlegging_fiskeriinteresser.md) | **Forslag til svar** på Rambølls kartlegging av fiskeriinteresser (frist 19.10.2026) |
+| [`Kartlegging_fiskeriinteresser.md`](Kartlegging_fiskeriinteresser.md) | **Veiledning** med momenter og eksempler for å besvare Rambølls kartlegging av fiskeriinteresser (frist 19.10.2026) |
 
 ## Slik ble innspillet brukt (og kan gjenbrukes)
 
