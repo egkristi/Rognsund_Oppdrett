@@ -6,7 +6,7 @@
 
 ## Om prosjektet
 
-Dette er et **dokumentasjons- og argumentsamlingsprosjekt** for alle som ønsker å forstå, påvirke eller stoppe SalMars planer om å erstatte fem eksisterende oppdrettslokaliteter med to nye i Rognsundet.
+Dette er et **dokumentasjons- og argumentsamlingsprosjekt** for alle som ønsker å forstå, påvirke eller stoppe SalMars planer om å etablere to nye oppdrettslokaliteter i Rognsundet, samtidig som 2–3 av dagens fem lokaliteter «kan» fjernes.
 
 Prosjektet inneholder:
 - **Offentlige dokumenter** i markdown-format (planinitiativ, planprogram, møtereferater m.m.)
@@ -21,6 +21,7 @@ Prosjektet inneholder:
 | Mappe / Fil | Innhold |
 |-------------|---------|
 | `Salmar_2026/` | **All dokumentasjon spesifikt for SalMars plan om utvidelse i Rognsund** |
+| `Salmar_2026/VEIEN-VIDERE.md` | **Veien videre (oktober 2026)** – prosessen steg for steg, hvor den kan påvirkes, verifisert lovgrunnlag, dokumenterte mangler i planprogrammet, virkemidler og lærdom fra andre saker |
 | `Salmar_2026/README.md` | Handlingsplan, 10 argumenter, innspillsmal, tidslinje |
 | `Salmar_2026/PLAN-SAMMENSTILLING.md` | **Utvidet analyse** – 23 kapitler med full gjennomgang av alt planmateriale, driftsform/utslipp, teknologiske alternativer og nasjonalt regelverk |
 | `Salmar_2026/underlag/` | **Originale PDF-dokumenter** (7 stk) |
@@ -53,9 +54,10 @@ Området har nasjonale og internasjonale verneinteresser:
 
 1. **Les dokumentene** i `Salmar_2026/` for å sette deg inn i saken
 2. **Bruk argumentene** i README-en til å skrive innspill
-3. **Nå: Svar på kartleggingen av fiskeriinteresser innen 19.10.2026** – se [momenter til inspirasjon](Salmar_2026/Innspill/Kartlegging_fiskeriinteresser.md)
+3. **Les [Veien videre](Salmar_2026/VEIEN-VIDERE.md)** – neste beslutning er om Alta kommune fastsetter planprogrammet. Kommunen kan stanse saken her (KU-forskriften § 16), eller stille krav.
+4. **Nå: Svar på kartleggingen av fiskeriinteresser innen 19.10.2026** – se [momenter til inspirasjon](Salmar_2026/Innspill/Kartlegging_fiskeriinteresser.md)
    - Høringen av planprogrammet ble avsluttet 01.07.2026 – [innspillet](Salmar_2026/Innspill/README.md) kan gjenbrukes ved høring av planforslaget (2027)
-4. **Spred ordet** – del kunnskapen med andre som er opptatt av Rognsund
+5. **Spred ordet** – del kunnskapen med andre som er opptatt av Rognsund
 
 ---
 

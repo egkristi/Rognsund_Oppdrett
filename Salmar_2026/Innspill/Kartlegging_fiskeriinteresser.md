@@ -46,7 +46,7 @@ Nedenfor er momenter som kan være relevante for de viktigste spørsmålene. Hve
 ## Hvilke områder blir mest berørt? (spm. 17)
 
 - **Nord:** sjøareal avsatt til fiske i kommuneplanen, nær gyteområdet for torsk ved Sanden
-- **Sør:** nær gytefeltet i Store Kufjord, i et område der kommuneplanen ikke tillater oppdrett av laks (FFNFA, KPA § 6.2.2)
+- **Sør:** nær gytefeltet i Store Kufjord, i et område der kommuneplanen ikke tillater oppdrett av anadrome fiskearter (laks og ørret) (FFNFA, KPA pkt. 6.2.2)
 - Områder nedstrøms, fordi utslipp og slam følger strømmen
 - Ferdselsårer som blir stengt eller lengre
 
@@ -57,7 +57,7 @@ Nedenfor er momenter som kan være relevante for de viktigste spørsmålene. Hve
 - Gyteområder og driftsområder for egg og larver
 - Sjøareal avsatt til fiske, og FFNFA-området i sør
 - Registrerte fiskeplasser, låssettingsplasser og sjølakseplasser
-- Vandringsruten for laksesmolt: Rognsundet er én av tre hovedruter fra Altaelva
+- Vandringsruten for laksesmolt: SalMars planinitiativ erkjenner at Rognsundet er en av vandringsrutene for anadrom fisk fra Altavassdraget
 
 ## Avbøtende tiltak (spm. 20)
 

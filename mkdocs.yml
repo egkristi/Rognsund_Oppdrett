@@ -52,6 +52,7 @@ markdown_extensions:
 
 nav:
   - Hjem: index.md
+  - Veien videre: Salmar_2026/VEIEN-VIDERE.md
   - Handlingsplan: Salmar_2026/README.md
   - Plan-sammenstilling: Salmar_2026/PLAN-SAMMENSTILLING.md
   - Høringsinnspill:

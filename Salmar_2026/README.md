@@ -6,7 +6,7 @@
 
 > **Status oktober 2026:** Høringen av planprogrammet ble avsluttet **01.07.2026** – innspillet som ble sendt, ligger i [`Innspill/`](Innspill/README.md).  
 > **Nå:** Rambøll kartlegger fiskeriinteresser i Rognsund – **frist 19.10.2026**. Se [momenter til inspirasjon](Innspill/Kartlegging_fiskeriinteresser.md).  
-> **Neste:** fastsetting av planprogram (Q4 2026), konsekvensutredninger (Q4 2026–Q1 2027) og høring av planforslag (2027).
+> **Neste:** Alta kommune skal avgjøre om planprogrammet fastsettes (normalfristen var ca. 09.09.2026). Kommunen kan stanse saken ved ikke å fastsette det, eller stille krav til utredningene. Se **[Veien videre](VEIEN-VIDERE.md)** for prosessen steg for steg, verifisert lovgrunnlag og påvirkningsmuligheter.
 
 ---
 
@@ -16,7 +16,7 @@ Den **overordnede målsetningen er langsiktig bærekraft for Rognsund** – for 
 
 Dette dokumentet er en **respons på SalMars kunngjøring om detaljregulering for akvakultur i Rognsund** ([Rambøll, 11.05.2026](https://www.ramboll.com/no-no/kunngjoring-rognsund-akvakultur)) og det tilhørende underlaget i `underlag/` (varslingsbrev, planinitiativ, oppstartsmøtereferat og planprogram). Det er ment som en **forklaring og en oppskrift**: hvordan planen måles mot bærekraftmålet, hvordan man påvirker prosessen – og dersom noe skal gjennomføres, hvordan man sikrer at det faktisk blir **positivt for Rognsund**, ikke bare skadefritt.
 
-SalMar Farming AS har varslet oppstart av detaljregulering (pbl. – plan- og bygningsloven – §12-8) for å erstatte flere eksisterende lokaliteter i Rognsundet med to nye, samlet biomasse 15 300 tonn. Planutvalget i Alta kommune vedtok **enstemmig oppstart** av planarbeidet 04.12.2025 (sak 50/2025) – men *oppstart* er ikke det samme som *godkjenning*. Det endelige vedtaket er politisk, og prosessen kan påvirkes – og stoppes – på flere punkter.
+SalMar Farming AS har varslet oppstart av detaljregulering (pbl. – plan- og bygningsloven – §12-8) for å etablere to nye lokaliteter i Rognsundet, samtidig som 2–3 av de fem eksisterende lokalitetene (i dag til sammen 15 300 tonn) «kan» fjernes. SalMar «vurderer» at samme biomasse kan produseres på færre lokaliteter, men det er ikke foreslått noe bindende tak. Planutvalget i Alta kommune vedtok **enstemmig oppstart** av planarbeidet 04.12.2025 (sak 50/2025) – men *oppstart* er ikke det samme som *godkjenning*. Det endelige vedtaket er politisk, og prosessen kan påvirkes – og stoppes – på flere punkter.
 
 > **Se `PLAN-SAMMENSTILLING.md` for den fullstendige faglige gjennomgangen (23 kapitler).** Denne README-en er handlingsdelen: argumentene satt i system, med konkrete steg, frister og mottakere.
 
@@ -38,7 +38,7 @@ Av dette følger to mulige utfall – og begge tjener det samme målet:
 
 **1. Planen gjøres positiv for Rognsund → da kan den være et gode.** Dersom tiltaket omarbeides slik at fjorden kommer *bedre* ut enn i dag – lukket teknologi, lavere samlet belastning, gamle anlegg fjernet, bindende garantier – kan utvidelsen forene næring og natur. Vilkårene står i «Dersom noe skal gjennomføres» nedenfor.
 
-**2. Planen tjener ikke bærekraften → den bør ikke gjennomføres slik den foreligger.** Slik den nå er beskrevet (åpne merder, sørlig lokalitet i FFNFA (fjord- og kystområder med særlige naturverdier), mangelfullt kunnskapsgrunnlag), trekker planen i feil retning. Da er det legitimt – og nødvendig – å stoppe den. Verktøyene står i «Oppskrift» nedenfor.
+**2. Planen tjener ikke bærekraften → den bør ikke gjennomføres slik den foreligger.** Slik den nå er beskrevet (åpne merder, begge lokalitetene i strid med kommuneplanens arealdel – den sørlige i FFNFA (fellesområde for fiske, ferdsel, natur, friluftsliv og akvakultur, der oppdrett av anadrome arter ikke er tillatt), mangelfullt kunnskapsgrunnlag), trekker planen i feil retning. Da er det legitimt – og nødvendig – å stoppe den. Verktøyene står i «Oppskrift» nedenfor.
 
 Forskjellen ligger i **SalMars intensjon**: er viljen til stede for å gjøre dette på den riktige måten – med teknologi og bindende garantier som gjør fjorden bedre – kan utvidelsen bli et gode for Rognsund. **Er den viljen ikke til stede, er det viktig at prosjektet stoppes.** Poenget er ikke utfallet for SalMar, men utfallet for Rognsund.
 
@@ -55,7 +55,7 @@ Kunngjøringen er profesjonelt utformet. Målt mot bærekraftmålet er det likev
 | «Summen av SalMars akvakulturanlegg … skal altså ikke øke» | En **intensjon uten mekanisme**. Gjelder dessuten bare *SalMars* anlegg – ikke Kime Akvas torskeoppdrett – og MTB-taket (maksimal tillatt biomasse) fases ut nasjonalt (Havbruksmeldingen 2025). Krev et **absolutt, bindende tak** på samlet biomasse i sundet. |
 | «… ønsker innspill … på en **mer nøyaktig plassering** … innenfor sirklene» | Dette forsøker å snevre debatten til *hvor*. Du står fritt til å gi innspill på **om** planen bør gjennomføres og **hvordan** (driftsform, FFNFA-forbudet, KU (konsekvensutredning)-omfang) – ikke bare hvor innenfor sirklene. |
 | «… ble oppstart av planarbeidet **enstemmig vedtatt**» | Dette gjaldt kun **oppstart**, ikke godkjenning. Det endelige vedtaket er politisk og kan stemmes ned; statlige myndigheter og Sametinget kan fremme **innsigelse**. |
-| Sørlig lokalitet (planinitiativet) | Merket **«STRIDER med overordnet/gjeldende plan»** – sør ligger i FFNFA der oppdrett av laks ikke er tillatt (KPA – kommuneplanens arealdel – §6.2.2). Dette er sakens sterkeste juridiske angrepspunkt. |
+| Plasseringen (planinitiativet) | Alta kommune har i oppstartsmøtereferatet krysset av for at planinitiativet **«STRIDER med overordnet/gjeldende plan»**. Nord er i hovedsak avsatt til fiske (VFI2); sør ligger i FFNFA, der oppdrett av anadrome fiskearter (laks og ørret) ikke er tillatt (KPA – kommuneplanens arealdel – pkt. 6.2.2). Avviket må begrunnes særskilt og er et tungt politisk og planfaglig argument. Det er ikke et absolutt rettslig forbud – en ny plan går foran eldre plan (pbl § 1-5) – men SalMar kan ikke kreve kommunestyrebehandling hvis kommunen velger ikke å fremme et planforslag som avviker fra KPA (pbl § 12-11). Se [Veien videre](VEIEN-VIDERE.md). |
 
 ---
 
@@ -89,15 +89,15 @@ En **innsigelse** (pbl. §5-4) fra en statlig/regional myndighet eller Sametinge
 Planen krever til slutt **politisk flertall** i kommunestyret. Lokaldemokratiet er derfor avgjørende:
 
 - Kontakt folkevalgte og partigrupper; be om at saken behandles i lys av FFNFA, villaks og føre-var.
-- Møt opp på **folkemøtene** (Q3 2026) og gjør motforestillingene synlige.
+- Folkemøter var varslet «i løpet av varslingsperioden» (mai–juli 2026). Undersøk om de er holdt; hvis ikke, be om folkemøte i bygdene før planprogrammet fastsettes og før konsekvensutredningene. Møt opp og gjør motforestillingene synlige.
 - Bruk **lokale medier** (Altaposten, iFinnmark, NRK – Norsk rikskringkasting) til å løfte saken.
 - Mobiliser **bygdelag, fiskarlag, hytteforeninger og reinbeitedistrikter** – bredde teller politisk.
 
 ### Steg 4: Krev reell konsultasjon (sameloven kap. 4)
-Hele Rognsundet er sjøsamisk område. Manglende eller mangelfull konsultasjon er en **saksbehandlingsfeil** som kan stoppe eller forsinke planen. Be om konsultasjon via Alta kommune; uenighet kan løftes til KDD (Kommunal- og distriktsdepartementet).
+Hele Rognsundet er sjøsamisk område. Manglende eller mangelfull konsultasjon er en **saksbehandlingsfeil** som kan stoppe eller forsinke planen. Be om konsultasjon via Alta kommune (sameloven § 4-4). Kapittel 4 har ingen egen klageordning, men brudd på konsultasjonsreglene «kan gi grunnlag for ugyldighet» (§ 4-9) og kan påberopes i klage over planvedtaket. Sametinget kan fremme innsigelse (pbl § 5-4).
 
 ### Steg 5: Bruk innsyn og dokumentasjon offensivt
-Be om innsyn (offentleglova §25) i all korrespondanse mellom SalMar, Rambøll og kommunen. Innsyn avdekker forutsetninger og svakheter, og dokumenterer prosessen for en eventuell klage.
+Be om innsyn (offentleglova § 3, jf. § 28) i all korrespondanse mellom SalMar, Rambøll og kommunen. Innsyn avdekker forutsetninger og svakheter, og dokumenterer prosessen for en eventuell klage.
 
 ### Steg 6: Konsesjonsrunden – en ny mulighet selv om reguleringsplanen vedtas
 Reguleringsplanen gir **ikke** i seg selv rett til drift. Ny lokalitet krever **lokalitetsklarering (akvakulturtillatelse) fra Finnmark fylkeskommune**, som samordner sektormyndighetene: Mattilsynet (fiskehelse og dyrevelferd), Statsforvalteren (utslippstillatelse etter forurensningsloven), Kystverket (havne- og farvannsloven) og vertskommunen. Dette er **egne prosesser** med egne innspills- og klagemuligheter. Mattilsynet har tidligere stoppet prosjekter av hensyn til villaks.
@@ -114,12 +114,12 @@ Etter vedtak: **klagefrist 3 uker** – klage på reguleringsplan behandles av S
 Dersom aktivitet skal gjennomføres, er kravet ikke bare at den unngår skade, men at den gjør **Rognsund bedre enn i dag** – et netto gode for fjorden. Følgende vilkår må være oppfylt og **juridisk bindende før vedtak**:
 
 1. **Lukket eller semilukket teknologi** – ny/utvidet drift kun med teknologi som dokumentert reduserer lus, rømming og utslipp vesentlig (oppsamling av slam, vanninntak under lusebeltet). Åpne merder videreføres ikke.
-2. **Rekkefølgebestemmelse** – nye lokaliteter kan ikke tas i bruk før de gamle (Pollen, Lille Kvalfjord, Store Kufjord) er **permanent avviklet**, fortøyninger fjernet og arealet tilbakeført i kommuneplanen.
+2. **Rekkefølgebestemmelse** – nye lokaliteter kan ikke tas i bruk før de lokalitetene som skal utgå, er **permanent avviklet**, fortøyninger fjernet og akvakulturformålet tatt ut av kommuneplanen. SalMar har ikke sagt hvilke 2–3 lokaliteter som skal fjernes – det må avklares og bindes i planen. (Lille Kufjord og Store Kvalfjord har visningstillatelser knyttet til Laksens hus.) SalMars eget planinitiativ sier at det «framstår som hensiktsmessig å styre eventuell avvikling gjennom rekkefølgebestemmelser i reguleringsplanen».
 3. **Netto lavere belastning enn i dag** – bindende reduksjon i samlet biomasse og utslipp i sundet, ikke bare et tak på dagens nivå, og medregnet Kime Akvas torskeoppdrett (kumulative effekter, nml. §10).
 4. **Kunnskap før vedtak** – kjemisk tilstand, reelle strømmålinger, fugl, marinarkeologi og truede arter kartlagt før planprogrammet fastsettes (føre-var, nml. §9).
 5. **FFNFA respekteres** – ingen anadrom oppdrett i FFNFA-området (sør) uten at motstrid med overordnet plan er reelt avklart.
 6. **Aktiv forbedring av fjorden** – tiltaket bidrar positivt, f.eks. opprydding av eksisterende bunnpåvirkning, restaurering av avviklede lokaliteter og bidrag til overvåking og styrking av villaksen.
-7. **Reell overvåking og åpenhet** – baseline etter NS 9410 (Norsk Standard for miljøovervåking av marine matfiskanlegg), lakselus på vill fisk (NALO – Nasjonalt overvåkingsprogram for lakselus på vill laksefisk) og DNA (deoksyribonuklein)-overvåking av rømt fisk ved Altaelvas innløp, med offentlig rapportering.
+7. **Reell overvåking og åpenhet** – baseline etter NS 9410:2016 (miljøovervåking av bunnpåvirkning fra marine akvakulturanlegg), lakselus på vill fisk (NALO – Nasjonalt overvåkingsprogram for lakselus på vill laksefisk) og DNA (deoksyribonukleinsyre)-overvåking av rømt fisk ved Altaelvas innløp, med offentlig rapportering.
 8. **Reversibilitet** – tillatelser tidsbegrenses og kan trekkes ved brudd, slik at fjorden kan tilbakeføres.
 
 > Dette er terskelen for at en utbygging faktisk gjør Rognsund bedre. Blir den ikke møtt, tjener ikke planen bærekraftmålet, og bør ikke vedtas slik den foreligger.
@@ -195,32 +195,32 @@ Oppskriften over er den strategiske oversikten. Denne sjekklisten er den personl
 4. **Be om at kunnskapshullene tettes før vedtak.** Kjemisk tilstand, reelle strømmålinger, fuglekartlegging, marinarkeologi og kartlegging av truede arter bør foreligge *før* planprogrammet fastsettes, jf. føre-var-prinsippet (naturmangfoldloven §9).
 5. **Be om juridisk bindende garantier.** «Samme biomasse» og «bedre plassering» er i dag intensjoner. Krev rekkefølgebestemmelser som binder fjerning av gamle lokaliteter og et tak på samlet belastning i sundet.
 6. **Be om konsultasjon (samiske/sjøsamiske interesser)** etter sameloven §4-4 – sendes til Alta kommune, ikke til Rambøll.
-7. **Bruk innsynsretten.** Etter offentleglova §25 kan du be om innsyn i alle saksdokumenter, inkludert korrespondanse mellom SalMar, Rambøll og kommunen.
+7. **Bruk innsynsretten.** Etter offentleglova § 3 (jf. § 28) kan du be om innsyn i alle saksdokumenter, inkludert korrespondanse mellom SalMar, Rambøll og kommunen.
 8. **Bygg allianser.** Naturvernforbundet, NJFF (Norges Jeger- og Fiskerforbund), FNF (Forum for Natur og Friluftsliv), reinbeitedistriktene, bygdelag og fiskarlag står sterkere sammen. Regionalt finnes fortilfeller – blant annet organisert motstand mot oppdrett i Porsangerfjorden (2026).
-9. **Engasjer deg i hele prosessen, ikke bare nå.** Det kommer flere anledninger: folkemøter (Q3 2026), høring av planforslag (2027), klage på vedtak (2028) og egen behandling av lokalitetsklarering hos Finnmark fylkeskommune (med Mattilsynet, Statsforvalteren og Kystverket). Reguleringsvedtaket er ikke det eneste stoppunktet.
+9. **Engasjer deg i hele prosessen, ikke bare nå.** Det kommer flere anledninger: fastsetting av planprogrammet (politisk behandling), kommunens beslutning om å sende planforslaget på høring, høring av planforslag (2027), vedtak og klage og egen behandling av lokalitetsklarering hos Finnmark fylkeskommune (med Mattilsynet, Statsforvalteren og Kystverket). Reguleringsvedtaket er ikke det eneste stoppunktet.
 10. **Hold den lange linjen.** Målet er ikke å vinne én høring, men å sikre at Rognsund forvaltes bærekraftig over generasjoner. Dokumentér, følg opp vedtak, og hold lokalsamfunnet informert.
 
 ---
 
 ## Sentrale problemstillinger i planen
 
-### 1. Villaks – Altaelva er Norges viktigeste lakseelv
-Altavassdraget er en **nasjonal lakseelv** med **moderat tilstand** – under kvalitetsnormen for laksebestander. Ifølge Havforskningsinstituttet (HI) (Lakseaklyngan, 2018) vandrer **16 % av laksen** gjennom Rognsundet, som er én av tre hovedruter for utvandrende smolt fra Altaelva (de øvrige er Stjernsundet og Vargsundet).
+### 1. Villaks – Altaelva er nasjonalt laksevassdrag
+Altavassdraget er en **nasjonal lakseelv** med **moderat tilstand** – under kvalitetsnormen for laksebestander. Ifølge Havforskningsinstituttet (HI) (Lakseklyngen, 2018) vandrer **16 % av laksen** gjennom Rognsundet, som er én av tre hovedruter for utvandrende smolt fra Altaelva (de øvrige er Stjernsundet og Vargsundet).
 
-> **⚠️ Kvalitetssikring av 16 %-andelen:** Kilden for denne påstanden er "Lakseaklyngan, Havforskningsinstituttet, 2018". Denne spesifikke rapporten er ikke funnet i HI 2025-risikorapporten, og den eksakte andelen for Rognsundet er ikke bekreftet i nyere HI-publikasjoner. **Påstanden er ikke uavhengig verifisert** og bør kryssjekkes mot originalkilden før bruk i formelle sammenhenger. Alternativt kan det vises til at Rognsundet er én av tre hovedruter for utvandrende smolt fra Altaelva, uten å tallfeste andelen.
+> **⚠️ Kvalitetssikring av 16 %-andelen:** Kilden for denne påstanden er "Lakseklyngen, Havforskningsinstituttet, 2018". Denne spesifikke rapporten er ikke funnet i HI 2025-risikorapporten, og den eksakte andelen for Rognsundet er ikke bekreftet i nyere HI-publikasjoner. **Påstanden er ikke uavhengig verifisert** og bør kryssjekkes mot originalkilden før bruk i formelle sammenhenger. Alternativt kan det vises til at Rognsundet er én av tre hovedruter for utvandrende smolt fra Altaelva, uten å tallfeste andelen.
 
 **Viktig presisering:** Altafjorden er definert som nasjonal laksefjord *innenfor* Stjernsundet – Rognsundet ligger **utenfor** denne sonen. HI-data viser at lakseluspresset på vill postsmolt i Altafjorden hittil har vært **lavt** (2–12 % prevalens, 1–2 lus/fisk). I produksjonsområde 12 (Altafjorden) er lakselusrelatert dødelighet på utvandrende postsmolt vurdert som lav (<10 %), men usikkerheten er stor. Historisk lave nivåer er ingen garanti for fremtiden, særlig ved endrede strømforhold eller økt produksjon i området. Mattilsynet har tidligere stoppet akvakulturprosjekter *inne i* nasjonale laksefjorder (bl.a. landbasert settefiskanlegg ved Alta), men Rognsundet ligger utenfor denne sonen. Også Repparfjordelva ligger innenfor 60 km influensområde.
 
 > **HI Risikorapport 2025 (Havforskningsinstituttet):** Lakselus og genetisk innkryssing fra rømt oppdrettsfisk er de største truslene mot villaks. Over 97 % av lakselusa i norske oppdrettsområder stammer fra akvakultur. Negativ påvirkning har forverret seg betydelig i 2024. Rapporten anbefaler overvåking av lakselus på vill fisk, bl.a. gjennom NALO-programmet (Nasjonalt overvåkingsprogram for lakselus på vill laksefisk). [HI Risikorapport 2025](https://www.hi.no/hi/nettrapporter/rapport-fra-havforskningen-2025-14)
 
 ### 2. FFNFA – forholdet til kommuneplanens arealdel
-Kommuneplanens arealdel §6.2.2 angir at oppdrett av anadrome fiskearter ikke er tillatt i FFNFA (fjord- og kystområder med særlige naturverdier). Den sørlige lokasjonen ligger i FFNFA-område. Planinitiativet er merket: *"STRIDER med overordnet/gjeldende plan"*. Dette reiser spørsmål om forholdet til overordnet plan.
+Kommuneplanens arealdel (2021–2040, vedtatt 15.02.2021) pkt. 6.2.2 angir at oppdrett av anadrome fiskearter (laks og ørret) ikke er tillatt i FFNFA (fellesområde for fiske, ferdsel, natur, friluftsliv og akvakultur). Den sørlige lokasjonen ligger i FFNFA-område, og den nordlige i et område som i hovedsak er avsatt til fiske (VFI2). Planinitiativet sier selv at tiltaket er «i strid med gjeldende planstatus», og kommunen har i oppstartsmøtereferatet krysset av for at planinitiativet *«STRIDER med overordnet/gjeldende plan»*.
 
 ### 3. Kunnskapsgrunnlagets tilstrekkelighet
 Flere sentrale forhold er ikke tilstrekkelig kartlagt per i dag:
 - Kjemisk tilstand i Rognsundet er **ukjent** – vanskeliggjør vurdering etter vannforskriften §12
 - Kulturminner i sjø er **ukjent/lavt** – tre ulike myndigheter involvert
-- **Fuglekartlegging** mangler (truede arter som krykkje, lunde, storskarv)
+- **Fuglekartlegging** er ikke gjennomført. Planprogrammet forutsetter befaring med fuglekartlegging (og ROV-kartlegging av havbunnen), men overlater feltsesongen til fagutreder. Kartleggingen bør skje i hekkesesongen (krykkje, lunde, ærfugl m.fl.).
 - **Strømdata** foreligger kun som modellering, ikke faktiske målinger
 - **Kartlegging av truede arter** har hvite flekker
 - Naturmangfoldloven §9 (føre-var-prinsippet) kan komme til anvendelse
@@ -229,13 +229,13 @@ Flere sentrale forhold er ikke tilstrekkelig kartlagt per i dag:
 Rognsundet har i dag **god økologisk status**, men **ukjent kjemisk tilstand**. Uten dokumentert kjemisk tilstand er det krevende å vurdere om vannforskriften §12 (ny aktivitet som kan forringe tilstanden) er oppfylt. Dette er et sentralt utredningstema.
 
 ### 5. Metodisk uenighet om konsekvensutredning
-Det er dokumentert **faglig uenighet** om KU-metodikk. Alta kommune har anbefalt M-1941 (krever feltarbeid) for tradisjonelt fiske og befolkning/samfunn, mens planrådgiver (Rambøll) har foreslått V712 (kan gjennomføres uten feltarbeid). Ulik metode kan gi ulike konklusjoner, og dette bør avklares før utredningsarbeidet starter.
+Det er dokumentert **faglig uenighet** om KU-metodikk. I oppstartsmøtet foreslo Alta kommune Miljødirektoratets veileder M-1941 for klima- og miljøtemaene og for samfunn og utvikling, mens planrådgiver foreslo V712 for tradisjonelt fiske og samfunn. Høringsutkastet til planprogram bruker V712 for tradisjonelt fiske, reindrift og befolkning og samfunn. Ifølge planprogrammet er metodene «svært like», men V712 åpner «i større grad» for konsekvensvurderinger uten feltarbeid. Ulik metode kan gi ulike konklusjoner, og dette bør avklares før utredningsarbeidet starter.
 
 ### 6. Seiland nasjonalpark – visuell påvirkning
 Anleggene kan bli synlige fra topper og høyder i Seiland nasjonalpark. Kommunen har bedt om 3D-modell og visualiseringer for å vurdere visuell påvirkning på nasjonalparkens verneverdier. Verneformålet omfatter alpin landsform og opplevelseskvaliteter.
 
 ### 7. Truede arter og gyteområder
-Området har registreringer av flere truede fuglearter: storskarv, gråmåke, tyvjo, ærfugl, krykkje og lunde. Det er også registrert gyteområder for torsk ved Sanden, Nordbukta og Store Kufjord. To hotspots for truede arter på land (Mjånes og Kremmervika/Daudingsberget) er identifisert i planprogrammet.
+Området har registreringer av flere rødlistede fuglearter, blant annet krykkje og lunde (sterkt truet, EN), ærfugl, gråmåke og tyvjo (sårbar, VU) og storskarv (nær truet, NT) – kategorier ifølge Artskart-uttrekket i PLAN-SAMMENSTILLING kap. 5.2. (Planprogrammet kaller alle disse «truede», men NT er ikke en truet kategori.) Det er også registrert gyteområder for torsk ved Sanden, Nordbukta og Store Kufjord. To hotspots for truede arter på land (Mjånes og Kremmervika/Daudingsberget), primært karplanter, er identifisert i planinitiativet.
 
 **Bunntilstand:** HI-data viser at eksisterende akvakulturanlegg i Finnmark stort sett har «meget god» bunntilstand, men nye anlegg på hardbunn med lite tidligere tilførsel kan gi mindre dokumenterte effekter. Baseline-målinger etter NS 9410 bør etableres før oppstart.
 
@@ -267,7 +267,7 @@ Rognsundet er en del av Altafjordsystemet, og hval som beiter på sildestimene k
 - **Kumulative effekter** av økt aktivitet i Rognsundet (båttrafikk, anleggsaktivitet) kan påvirke hvalenes bruk av området.
 - **Kollisjonsrisiko** mellom båttrafikk til/fra anlegg og hval bør vurderes.
 - Fordi kvitnos og nise er **mer stedbundne** enn de store hvalartene, vil de kunne påvirkes gjennom hele året – ikke bare i vintersesongen. Dette bør tillegges vekt i vurderingen av kumulative effekter.
-- Hval er langtrekkende arter som nyter særlig beskyttelse gjennom naturmangfoldloven og internasjonale avtaler (bl.a. CMS/Konvensjonen om trekkende arter). Nise er i tillegg oppført på IUCNs (International Union for Conservation of Nature) rødliste og omfattet av EUs (Den europeiske unions) habitatdirektiv.
+- Hval er langtrekkende arter som nyter særlig beskyttelse gjennom naturmangfoldloven og internasjonale avtaler (bl.a. CMS/Konvensjonen om trekkende arter). Nise er ikke vurdert som truet (livskraftig, LC), men er særlig følsom for undervannsstøy. Påvirkningen bør vurderes etter naturmangfoldloven §§ 8–10.
 
 > **Innspillstips:** Be om at undervannsstøy og påvirkning på sjøpattedyr (inkludert hval, kvitnos og nise) utredes i konsekvensutredningen, med henvisning til naturmangfoldloven §§8–10.
 
@@ -277,7 +277,7 @@ Det er per i dag ikke foreslått juridisk bindende mekanismer som sikrer at tota
 
 Kumulative effekter fra alle lokaliteter i Rognsundet, inkludert Kime Akvas torskeoppdrett, er ikke samlet utredet.
 
-**Akvakulturloven §3-1** stiller krav om «miljømessig forsvarlig drift». Nye lokaliteter krever lokalitetsklarering fra Finnmark fylkeskommune, som innhenter vurderinger fra Mattilsynet, Statsforvalteren, Kystverket og kommunen – her kan naboer og interessenter sende uttalelser.
+**Akvakulturloven § 10** krever at akvakultur «etableres, drives og avvikles på en miljømessig forsvarlig måte», og tillatelse kan bare gis når det er miljømessig forsvarlig (§ 6). Tillatelse kan ikke gis i strid med vedtatte arealplaner uten samtykke fra planmyndigheten (§ 15). Nye lokaliteter krever lokalitetsklarering fra Finnmark fylkeskommune, som innhenter vurderinger fra Mattilsynet, Statsforvalteren, Kystverket og kommunen – her kan naboer og interessenter sende uttalelser.
 
 ---
 
@@ -397,7 +397,7 @@ gantt
 | **Lokalitetsklarering / akvakulturtillatelse** (Finnmark fylkeskommune) | Fiskeridirektoratet | 3 uker | Klagen sendes fylkeskommunen. Kan argumentere mot miljøvilkår (vannmiljø, rømt fisk, lakselus) |
 | **Vedtak fra Mattilsynet** (fiskehelse, dyrevelferd) | Mattilsynet (overordnet klageinstans) | 3 uker | Gjelder Mattilsynets eget vedtak/tillatelse |
 | **Saksbehandlingsfeil** | Sivilombudet | Normalt innen ett år etter endelig vedtak | Gir kun uttalelse, ikke omgjøring. Kan likevel ha politisk tyngde |
-| **Manglende konsultasjon** | Kommunal- og distriktsdepartementet | I forbindelse med klage | Brudd på sameloven kap. 4 kan påberopes |
+| **Manglende konsultasjon** | Påberopes i klage over planvedtaket (Statsforvalteren) | 3 uker etter kunngjøring | Sameloven kap. 4 har ingen egen klageordning; brudd «kan gi grunnlag for ugyldighet» (§ 4-9). Sametinget kan fremme innsigelse (pbl § 5-4) |
 | **Utslippstillatelse** | Miljødirektoratet | Etter forurensningsloven | Gjelder ev. utslippstillatelse fra Statsforvalteren |
 
 ### Medvirkningsmuligheter – tre anledninger
@@ -456,7 +456,7 @@ Et innspill kan ta opp ett eller flere temaer. Listen nedenfor gir forslag til t
 
 #### Forslag til temaer som bør utredes i konsekvensutredningen
 
-1. **Villaks og lakselus** – Konsekvenser for Altaelva (nasjonal lakseelv) og Repparfjordelva. Rognsundet er én av tre hovedruter for utvandrende smolt (de øvrige er Stjernsundet og Vargsundet). Lakselusmodellering for villaks bør gjennomføres. Be om at Rognsundet inkluderes i NALO-programmet (overvåkingsprogram for lakselus på vill fisk).
+1. **Villaks og lakselus** – Konsekvenser for Altaelva (nasjonal lakseelv) og Repparfjordelva. Rognsundet er en av vandringsrutene for anadrom fisk fra Altavassdraget (planinitiativet; Altafjorden har tre utløp: Stjernsundet, Rognsundet og Vargsundet). Lakselusmodellering for villaks bør gjennomføres. Be om at Rognsundet inkluderes i NALO-programmet (overvåkingsprogram for lakselus på vill fisk).
 2. **Vannforskriften §12** – Kjemisk tilstand i Rognsundet er ikke kartlagt. Uten dette grunnlaget kan man ikke vurdere om vilkårene for ny aktivitet er oppfylt. Krev at kjemisk tilstand kartlegges **før** planprogrammet fastsettes.
 3. **Sjøfugl** – Kartlegging i hekkesesong mangler, særlig for truede arter som krykkje, lunde og storskarv. Krev at fuglekartlegging gjennomføres før KU.
 4. **Marinarkeologi** – Kunnskapsgrunnlaget for kulturminner i sjø er i dag ukjent/lavt. Marinarkeologisk befaring bør gjennomføres før planvedtak.
@@ -474,13 +474,13 @@ Et innspill kan ta opp ett eller flere temaer. Listen nedenfor gir forslag til t
 16. **Eksisterende påvirkning** – Utslipp fra dagens fiskeoppdrett er vurdert til "liten grad" (2024), men kumulative effekter av eksisterende + nye anlegg er ikke vurdert. Be om oppdatert vurdering.
 17. **Undervannsstøy og sjøpattedyr (hval, kvitnos, nise)** – Støy fra anlegg (fôrflåter, fortøyninger, båttrafikk) kan påvirke hval og andre sjøpattedyr. Altafjorden er et internasjonalt kjent hvalområde med spekkhogger, knølhval og finnhval, og Rognsund har store mengder kvitnos og nise. Be om at undervannsstøy og påvirkning på sjøpattedyr utredes i KU, jf. naturmangfoldloven §§8–10.
 18. **Bunntilstand og baseline-målinger** – HI-data viser «meget god» bunntilstand ved eksisterende anlegg, men nye lokaliteter på hardbunn kan gi andre effekter. Be om baseline-målinger etter NS 9410 før oppstart.
-19. **DNA-overvåking av rømt fisk** – Be om at det etableres DNA (deoksyribonuklein)-overvåkingsprogram ved Altaelvas innløp for å dokumentere omfang av rømt oppdrettsfisk.
+19. **DNA-overvåking av rømt fisk** – Be om at det etableres DNA (deoksyribonukleinsyre)-overvåkingsprogram ved Altaelvas innløp for å dokumentere omfang av rømt oppdrettsfisk.
 
 #### Innsynsbegjæringer – en annen måte å bidra på
 
-Uavhengig av høringsinnspill kan du også be om innsyn i dokumenter etter **offentleglova §25**. Slike begjæringer bidrar til å sikre at all relevant informasjon kommer frem i lyset. Eksempel på formulering:
+Uavhengig av høringsinnspill kan du også be om innsyn i dokumenter etter **offentleglova § 3** (jf. § 28). Slike begjæringer bidrar til å sikre at all relevant informasjon kommer frem i lyset. Eksempel på formulering:
 
-> *«I henhold til offentleglova §25 ber vi om innsyn i alle dokumenter knyttet til «Planinitiativ akvakultur Rognsund» i Alta kommune. Vi ber om elektronisk kopi av planinitiativ, planprogram, innrapporterte miljøundersøkelser og statistikkgrunnlag som er brukt i planarbeidet.»*
+> *«I henhold til offentleglova § 3, jf. § 28, ber vi om innsyn i alle dokumenter knyttet til «Planinitiativ akvakultur Rognsund» i Alta kommune. Vi ber om elektronisk kopi av planinitiativ, planprogram, innrapporterte miljøundersøkelser og statistikkgrunnlag som er brukt i planarbeidet.»*
 
 Send gjerne innsynsbegjæringen til Alta kommune (postmottak@alta.kommune.no) og/eller Mattilsynet.
 
@@ -488,7 +488,7 @@ Send gjerne innsynsbegjæringen til Alta kommune (postmottak@alta.kommune.no) og
 
 > **Tema: Konsekvenser for villaks**
 >
-> Jeg ønsker å påpeke at konsekvenser for villaks i Altaelva må utredes grundig. Altaelva er en nasjonal lakseelv, og Rognsundet er én av tre hovedruter for utvandrende smolt (de øvrige er Stjernsundet og Vargsundet). Økt lakseluspress fra nye anlegg kan påvirke bestanden negativt. Jeg ber om at full lakselusmodellering for villaks inngår i konsekvensutredningen.
+> Jeg ønsker å påpeke at konsekvenser for villaks i Altaelva må utredes grundig. Altaelva er et nasjonalt laksevassdrag, og SalMars eget planinitiativ erkjenner at Rognsundet er en av vandringsrutene for anadrom fisk fra Altavassdraget. Økt lakseluspress fra nye anlegg kan påvirke bestanden negativt. Jeg ber om at full lakselusmodellering for villaks inngår i konsekvensutredningen.
 
 > **Tema: Vannforskriften**
 >
@@ -504,7 +504,7 @@ Alta kommune har anbefalt M-1941 (med feltarbeid) for flere KU-tema, mens planr�
 
 #### Rekkefølgebestemmelse for biomasse
 Dersom planen skal sikre at total biomasse ikke overstiger dagens nivå, kan en rekkefølgebestemmelse være aktuelt. Eksempel på formulering:
-> "Brukstillatelse for nye lokaliteter i Rognsund kan ikke gis før eksisterende lokaliteter i Pollen, Lille Kvalfjord og Store Kufjord er permanent avviklet, fortøyninger fjernet, og arealformålet tilbakeført til LNF i kommuneplanen."
+> "Nye lokaliteter i Rognsund kan ikke tas i bruk før de eksisterende lokalitetene [navngis i planen] er permanent avviklet, fortøyninger fjernet og akvakulturformålet i kommuneplanen endret til bruk og vern av sjø uten akvakultur (f.eks. ferdsel, fiske, natur og friluftsliv, jf. pbl § 11-7 nr. 6)."
 
 #### Samisk konsultasjon
 Sameloven §4-4 stiller krav om konsultasjon. Berørte reinbeitedistrikter (24A Oarje-Sievju og 25 Stierdná) og sjøsamiske rettighetshavere bør involveres i tråd med gjeldende regelverk.
@@ -513,9 +513,9 @@ Sameloven §4-4 stiller krav om konsultasjon. Berørte reinbeitedistrikter (24A 
 For å sikre tillit til konsekvensutredningene kan det vurderes å innhente uavhengig faglig kvalitetssikring av sentrale utredningstemaer. Aktuelle fagmiljøer:
 - **NINA** (Norsk institutt for naturforskning) – lakselus, villaks, økologi
 - **Havforskningsinstituttet** – marine effekter, lakselusovervåking
-- **NIBIO** (Norsk institutt for bioøkonomi) – bunntilstand, algetoksiner
+- **NIVA** (Norsk institutt for vannforskning) – bunntilstand, vannkvalitet og næringssalter
 - **UiT Norges arktiske universitet** – marin økologi, støy
-- **Alta Høgskole** (tidl. Høgskolen i Finnmark, nå del av UiT) – regionaløkologi
+- **UiT Norges arktiske universitet, campus Alta** (tidl. Høgskolen i Finnmark) – regionaløkologi og samfunn
 
 ---
 
@@ -533,7 +533,7 @@ Flere offentlige instanser har roller i planprosessen og kan fremme innsigelse d
 | **Mattilsynet** | Fiskehelse og lakselus | **Middels** |
 | **Finnmark fylkeskommune** | Regional planmyndighet og kulturminner – og **vedtaksmyndighet for lokalitetsklarering** (akvakulturtillatelse) | **Middels-Høy** – avgjør konsesjonsrunden |
 | **Sivilombudet** | Kan vurdere saksbehandlingsfeil (manglende konsultasjon, brudd på saksbehandlingsregler) | **Lav** – gir kun uttalelse, ikke omgjøring |
-| **Alta kommune (formannskapet)** | Politisk vedtak av reguleringsplan | Avgjørende – planen krever politisk flertall |
+| **Alta kommune (kommunestyret; planutvalget forbereder saken)** | Fastsetting av planprogram og vedtak av reguleringsplan | Avgjørende – planen krever politisk flertall |
 | **Naturvernforbundet / WWF (World Wide Fund for Nature) / FNF** | Høringsinnspill, ev. søksmål | Avhenger av organisasjonenes prioritering |
 | **Reinbeitedistrikter** (24A, 25) | Samiske rettigheter, konsultasjonskrav | Kan påvirke prosess og fremdrift |
 | **Lokale medier** (Altaposten, iFinnmark) | Offentlig debatt og informasjon | Viktig for allmennhetens kjennskap til saken |
@@ -550,7 +550,7 @@ Flere offentlige instanser har roller i planprosessen og kan fremme innsigelse d
 | **Vannforskriften** | God okologisk status i dag. Kjemisk tilstand ukjent. §12 kan ikke dokumenteres. | Vannforskriften §§4 og 12 | [FOR-2006-12-15-1446](https://lovdata.no/dokument/SF/forskrift/2006-12-15-1446) |
 | **Metodeuenighet** | Kommune vil ha M-1941 (feltarbeid), planrådgiver vil ha V712 (mindre felt). | KU-forskriften | Miljødir. M-1941, SVV V712 |
 | **Nasjonalpark** | Seiland nasjonalpark – synlige anlegg svekker verneverdien. | Vernforskriften | [FOR-2006-12-08-1286](https://lovdata.no/dokument/LF/forskrift/2006-12-08-1286) |
-| **Truede arter** | Krykkje, lunde, storskarv, torsk – flere rødlistede. To hotspots på land. | Nat.mangfoldloven | [LOV-2009-06-19-100](https://lovdata.no/dokument/NL/lov/2009-06-19-100) |
+| **Truede arter** | Krykkje og lunde (EN), ærfugl, gråmåke og tyvjo (VU), storskarv (NT) og villaks (NT) ifølge Artskart-uttrekket. Gyteområder for torsk. To hotspots for truede arter på land (primært karplanter). | Nat.mangfoldloven | [LOV-2009-06-19-100](https://lovdata.no/dokument/NL/lov/2009-06-19-100) |
 | **Samiske rettigheter** | Konsultasjonsplikt. Sjøsamisk område. Kan forsinke eller stanse. | Sameloven §§4-4, 4-5 | [LOV-1987-06-12-56](https://lovdata.no/dokument/NL/lov/1987-06-12-56) |
 | **Hvit lyktesektor** | Mjånes fyr – kan være absolutt hinder for plassering. | Havne- og farvannsloven | [LOV-2019-06-21-70](https://lovdata.no/dokument/NL/lov/2019-06-21-70) |
 | **Skredfare** | Snøskred kan f.eks. utløse flodbølger. Registrert skred ved Hestneset i 2010. Steinsprangfare ved sørlig lokasjon. | Pbl (ROS-analyse) | [LOV-2008-06-27-71](https://lovdata.no/dokument/NL/lov/2008-06-27-71) |
@@ -562,9 +562,9 @@ Flere offentlige instanser har roller i planprosessen og kan fremme innsigelse d
 | **Driftsform og utslipp** | Åpne merder slipper ut næringssalter og organisk materiale urenset. Nasjonalt anslås utslippene å tilsvare kloakk fra ~17 mill. mennesker (nitrogen, 2025). Lokalt er kjemisk tilstand og strøm i Rognsund udokumentert. | Vannforskriften §12, nat.mangfoldloven §§9–10 | [VG 2026](https://www.vg.no/nyheter/i/JOnvVm/som-om-17-millioner-mennesker-gjoer-fra-seg-rett-i-havet-nye-tall-om-utslippene-fra-norsk-fiskeoppdrett) |
 | **Lukket teknologi som vilkår** | Lukket/semilukket/landbasert teknologi kan redusere lus, rømming og utslipp vesentlig. KU bør sammenligne driftsformer, ikke bare plasseringer. | KU-forskriften, nat.mangfoldloven §12 (miljøforsvarlige teknikker) | HI/Veterinærinstituttet |
 | **Regelverk i endring** | Havbruksmeldingen (2025) dreier mot miljøbetingelser, lusekvoter, tapsavgift og insentiver for lukket teknologi. Plan/KU bør ta høyde for ny retning. | Meld. St. 24 (2024–2025), Innst. 525 S | [regjeringen.no](https://www.regjeringen.no/contentassets/341de502286746b7803860a2199aa3d6/no/pdfs/stm202420250024000dddpdfs.pdf) |
-| **18 utredningstema** | KPA §1.11.1 stiller krav om 18 temaer – flere kan bli nedprioritert uten innspill. | KPA §1.11.1 | Alta kommune KPA 2021–2040 |
-| **Akvakulturloven** | §3-1 krever «miljømessig forsvarlig drift». Lokalitetsklarering hos Finnmark fylkeskommune (med Mattilsynet, Statsforvalteren og Kystverket) er en egen prosess i tillegg til reguleringsplanen. | Akvakulturloven §3-1 | [LOV-2005-06-17-79](https://lovdata.no/dokument/NL/lov/2005-06-17-79) |
-| **Kulturminneloven** | Automatisk fredete kulturminner i sjø må kartlegges. Riksantikvaren/Tromsø Museum forvalter kulturminner i sjø. | Kulturminneloven | [LOV-1978-06-09-50](https://lovdata.no/dokument/NL/lov/1978-06-09-50) |
+| **18 plantema** | Oppstartsmøtet listet 18 planfaglige tema etter KPA §1.11.1 som må vurderes, eventuelt utredes, og kommenteres i planbeskrivelsen. Flere kan bli nedprioritert uten innspill. | KPA §1.11.1 | Alta kommune KPA 2021–2040 |
+| **Akvakulturloven** | § 10: akvakultur skal «etableres, drives og avvikles på en miljømessig forsvarlig måte». § 15: tillatelse kan ikke gis i strid med vedtatte arealplaner uten samtykke fra planmyndigheten. Lokalitetsklarering hos Finnmark fylkeskommune er en egen prosess i tillegg til reguleringsplanen. | Akvakulturloven §§ 6, 10, 15 | [LOV-2005-06-17-79](https://lovdata.no/dokument/NL/lov/2005-06-17-79) |
+| **Kulturminneloven** | Automatisk fredete kulturminner i sjø må kartlegges. Norges arktiske universitetsmuseum (UiT, tidl. Tromsø Museum) forvalter kulturminner i sjø; Finnmark fylkeskommune og Sametinget er kulturminnemyndigheter på land. | Kulturminneloven | [LOV-1978-06-09-50](https://lovdata.no/dokument/NL/lov/1978-06-09-50) |
 | **Reindriftsloven** | Varslingsplikt og vern av beiteområder. Kommunen må sikre reinbeitedistriktene særskilt vurdering. | Reindriftsloven | [LOV-2007-06-15-40](https://lovdata.no/dokument/NL/lov/2007-06-15-40) |
 
 ---
@@ -761,7 +761,7 @@ Disse kan sende egne høringsinnspill, mobilisere medlemmer og gi saken faglig o
 | **NASF Norge / Redd Villaksen** | Villaksvern (North Atlantic Salmon Fund) | [nasf.is](https://nasf.is/) |
 | **Norges Jeger- og Fiskerforbund (NJFF) Finnmark** | Jakt- og fiskeinteresser | finnmark@njff.no |
 | **Norges Kystfiskarlag** | Kystflåten og tradisjonelt fiske | [norgeskystfiskarlag.no](https://www.norgeskystfiskarlag.no/) |
-| **Alta Laksefiskeri Interesselag (ALI)** | Lokalt – Altaelva | via Alta kommune / Sametinget |
+| **Alta Laksefiskeri Interessentskap (ALI)** | Lokalt – Altaelva | kontakt direkte via ALI |
 
 **Sjøsamiske interesser**
 
@@ -795,7 +795,7 @@ Disse kan sende egne høringsinnspill, mobilisere medlemmer og gi saken faglig o
 |-------|-----------|---------|
 | **NINA** (Norsk institutt for naturforskning) | Lakselus, villaks, økologi | post@nina.no |
 | **Havforskningsinstituttet** | Marine effekter, lakselusovervåking | post@hi.no |
-| **NIBIO** (Norsk institutt for bioøkonomi) | Bunntilstand, algetoksiner | post@nibio.no |
+| **NIVA** (Norsk institutt for vannforskning) | Bunntilstand, vannkvalitet, næringssalter | niva.no |
 | **UiT Norges arktiske universitet** | Marin økologi, undervannsstøy | post@uit.no |
 | **Veterinærinstituttet** | Fiskehelse og -velferd, lukket teknologi | post@vetinst.no |
 | **Akvaplan-niva** (Tromsø) | Marin miljøovervåking og resipientundersøkelser | [akvaplan.niva.no](https://www.akvaplan.niva.no/) |
@@ -835,7 +835,7 @@ Disse kan sende egne høringsinnspill, mobilisere medlemmer og gi saken faglig o
 14. **Dyrevelferdsloven** (LOV-2009-06-19-97): [lovdata.no](https://lovdata.no/dokument/NL/lov/2009-06-19-97)
 15. **Havne- og farvannsloven** (LOV-2019-06-21-70): [lovdata.no](https://lovdata.no/dokument/NL/lov/2019-06-21-70)
 16. **Sameloven** (LOV-1987-06-12-56): [lovdata.no](https://lovdata.no/dokument/NL/lov/1987-06-12-56)
-17. **Kvalitetsnorm for villaks** (FOR-2013-09-20-1069): [lovdata.no](https://lovdata.no/dokument/SF/forskrift/2013-09-20-1069)
+17. **Kvalitetsnorm for villaks** (FOR-2013-09-20-1109): [lovdata.no](https://lovdata.no/dokument/SF/forskrift/2013-09-20-1109)
 18. **Forskrift om vern av Seiland nasjonalpark** (FOR-2006-12-08-1286): [lovdata.no](https://lovdata.no/dokument/LF/forskrift/2006-12-08-1286)
 19. **Forskrift om Lopphavet marine verneområde** (FOR-2023-06-23-1042): [lovdata.no](https://lovdata.no/dokument/LF/forskrift/2023-06-23-1042)
 20. **Kulturminneloven** (LOV-1978-06-09-50): [lovdata.no](https://lovdata.no/dokument/NL/lov/1978-06-09-50)
@@ -845,7 +845,7 @@ Disse kan sende egne høringsinnspill, mobilisere medlemmer og gi saken faglig o
 ### Vitenskapelige kilder
 
 23. **Havforskningsinstituttet (2025):** Risikorapport norsk fiskeoppdrett 2025. Rapport fra havforskningen 2025-14. [hi.no](https://www.hi.no/hi/nettrapporter/rapport-fra-havforskningen-2025-14)
-24. **Lakseaklyngan/Havforskningsinstituttet (2018):** Laksevandring Altaelva – andel laks som vandrer gjennom Rognsundet. (Kilde for 16 %-andelen; ikke uavhengig verifisert i denne gjennomgangen)
+24. **Lakseklyngen/Havforskningsinstituttet (2018):** Laksevandring Altaelva – andel laks som vandrer gjennom Rognsundet. (Kilde for 16 %-andelen; ikke uavhengig verifisert i denne gjennomgangen)
 25. **Vitenskapelig råd for lakseforvaltning:** Kvalitetsnorm for villaks – status for Altavassdraget. [vitenskapeligrad.no](https://www.vitenskapeligrad.no/)
 26. **Miljødirektoratet:** Veileder M-1941 for konsekvensutredning av klima og miljø. [miljødirektoratet.no](https://www.miljodirektoratet.no/)
 27. **Statens vegvesen:** Håndbok V712 for konsekvensutredning. [vegvesen.no](https://www.vegvesen.no/)
@@ -884,14 +884,14 @@ Disse kan sende egne høringsinnspill, mobilisere medlemmer og gi saken faglig o
 
 | Forkortelse | Forklaring |
 |-------------|------------|
-| **ALI** | Alta Laksefiskeri Interesselag |
+| **ALI** | Alta Laksefiskeri Interessentskap |
 | **Ap** | Arbeiderpartiet |
 | **CMS** | Convention on Migratory Species (Konvensjonen om trekkende arter) |
 | **DNA** | Deoksyribonuklein |
 | **DSB** | Direktoratet for samfunnssikkerhet og beredskap |
 | **EU** | Den europeiske union |
 | **FeFo** | Finnmarkseiendommen |
-| **FFNFA** | Fjord- og kystområder med særlige naturverdier |
+| **FFNFA** | Fellesområde for fiske, ferdsel, natur, friluftsliv og akvakultur (kombinert arealformål i sjø i kommuneplanens arealdel) |
 | **FN** | De forente nasjoner |
 | **FNF** | Forum for Natur og Friluftsliv |
 | **FrP** | Fremskrittspartiet |
@@ -910,13 +910,12 @@ Disse kan sende egne høringsinnspill, mobilisere medlemmer og gi saken faglig o
 | **MTB** | Maksimal tillatt biomasse |
 | **NALO** | Nasjonalt overvåkingsprogram for lakselus på vill laksefisk |
 | **NFD** | Nærings- og fiskeridepartementet |
-| **NIBIO** | Norsk institutt for bioøkonomi |
 | **NINA** | Norsk institutt for naturforskning |
 | **NJFF** | Norges Jeger- og Fiskerforbund |
 | **NMF** | Norges Miljøvernforbund |
 | **nml.** | Naturmangfoldloven |
 | **NRK** | Norsk rikskringkasting |
-| **NS 9410** | Norsk Standard for miljøovervåking av marine matfiskanlegg |
+| **NS 9410** | NS 9410:2016 Miljøovervåking av bunnpåvirkning fra marine akvakulturanlegg |
 | **NSR** | Norske Samers Riksforbund |
 | **NVE** | Norges vassdrags- og energidirektorat |
 | **pbl.** | Plan- og bygningsloven |
