@@ -5,7 +5,7 @@
 **Den overordnede målsetningen er langsiktig bærekraft for Rognsund – økologisk, kulturelt og økonomisk, på kort og lang sikt. Dette dokumentet er en respons på SalMar Farming AS' kunngjøring om utvidet akvakultur i Rognsundet (Alta kommune): det forklarer saken, måler planen mot bærekraftmålet (FNs – De forente nasjoners – bærekraftmål), og viser hvordan man kan påvirke prosessen slik at utfallet blir positivt for fjorden. Målet er ikke å stoppe SalMar for enhver pris – men intet bør gjennomføres som ikke gjør Rognsund bedre. Alt bygger på offentlig tilgjengelige dokumenter og etterprøvbare kilder.**
 
 > **Status oktober 2026:** Høringen av planprogrammet ble avsluttet **01.07.2026** – innspillet som ble sendt, ligger i [`Innspill/`](Innspill/README.md).  
-> **Nå:** Rambøll kartlegger fiskeriinteresser i Rognsund – **frist 19.10.2026**. Se [veiledning til skjemaet](Innspill/Kartlegging_fiskeriinteresser.md).  
+> **Nå:** Rambøll kartlegger fiskeriinteresser i Rognsund – **frist 19.10.2026**. Se [momenter til inspirasjon](Innspill/Kartlegging_fiskeriinteresser.md).  
 > **Neste:** fastsetting av planprogram (Q4 2026), konsekvensutredninger (Q4 2026–Q1 2027) og høring av planforslag (2027).
 
 ---
@@ -190,7 +190,7 @@ Dagens MTB- og trafikklyssystem videreføres inntil nytt regelverk er vedtatt.
 Oppskriften over er den strategiske oversikten. Denne sjekklisten er den personlige versjonen – konkrete ting hver enkelt kan gjøre, fra det enkle til det mer forpliktende:
 
 1. **Sett deg inn i saken og spre kunnskap.** Les dokumentene i dette prosjektet, del dem, og snakk med naboer, bygdelag og foreninger. Jo flere som kjenner saken, desto sterkere står lokalsamfunnet.
-2. **Svar på kartleggingen av fiskeriinteresser innen 19.10.2026.** Høringen av planprogrammet ble avsluttet 01.07.2026; nå er det Rambølls skjema om fiske som gjelder. Svarene blir i praksis kunnskapsgrunnlaget for KU-temaet tradisjonelt fiske. Se [veiledning til utfylling](Innspill/Kartlegging_fiskeriinteresser.md). Høringsinnspillet i `Innspill/` kan gjenbrukes når planforslaget kommer på høring (2027).
+2. **Svar på kartleggingen av fiskeriinteresser innen 19.10.2026.** Høringen av planprogrammet ble avsluttet 01.07.2026; nå er det Rambølls skjema om fiske som gjelder. Svarene blir i praksis kunnskapsgrunnlaget for KU-temaet tradisjonelt fiske. Se [momenter til inspirasjon](Innspill/Kartlegging_fiskeriinteresser.md). Høringsinnspillet i `Innspill/` kan gjenbrukes når planforslaget kommer på høring (2027).
 3. **Krev driftsform og teknologi utredet.** Be om at KU sammenligner åpne merder med lukket/semilukket/landbasert teknologi, og at et «lukket teknologi»-alternativ utredes på lik linje. Dette er den mest direkte veien til et bærekraftig utfall.
 4. **Be om at kunnskapshullene tettes før vedtak.** Kjemisk tilstand, reelle strømmålinger, fuglekartlegging, marinarkeologi og kartlegging av truede arter bør foreligge *før* planprogrammet fastsettes, jf. føre-var-prinsippet (naturmangfoldloven §9).
 5. **Be om juridisk bindende garantier.** «Samme biomasse» og «bedre plassering» er i dag intensjoner. Krev rekkefølgebestemmelser som binder fjerning av gamle lokaliteter og et tak på samlet belastning i sundet.
@@ -379,7 +379,7 @@ gantt
 | Dato | Aktivitet | Mulighet for påvirkning |
 |------|-----------|------------------------|
 | 01.07.2026 | Frist for innspill til planprogram – ✅ avsluttet | Innspillet ligger i `Innspill/` og kan gjenbrukes senere |
-| **19.10.2026** | **Kartlegging av fiskeriinteresser (Rambøll)** | Svar på skjemaet – se [veiledning til utfylling](Innspill/Kartlegging_fiskeriinteresser.md) |
+| **19.10.2026** | **Kartlegging av fiskeriinteresser (Rambøll)** | Svar på skjemaet – se [momenter til inspirasjon](Innspill/Kartlegging_fiskeriinteresser.md) |
 | Q3 2026 | Folkemøter i Rognsund | Delta og gi innspill muntlig |
 | Q4 2026 | Planprogram fastsettes av Alta kommune | Følg med på politisk behandling |
 | Q4 2026–Q1 2027 | Konsekvensutredninger gjennomføres | Meld interesse som informant for fiske, friluftsliv, reindrift. Fagutredere kontakter informanter særskilt |
@@ -405,7 +405,7 @@ gantt
 | Anledning | Tidsrom | Hva kan du gjøre? |
 |-----------|---------|-------------------|
 | **1. Høring av planprogram** | 11.05–01.07.2026 | ✅ Avsluttet – innspillet ligger i `Innspill/` |
-| **Kartlegging av fiskeriinteresser** | Frist 19.10.2026 | **Pågår nå** – svar på Rambølls skjema, se [veiledning til utfylling](Innspill/Kartlegging_fiskeriinteresser.md) |
+| **Kartlegging av fiskeriinteresser** | Frist 19.10.2026 | **Pågår nå** – svar på Rambølls skjema, se [momenter til inspirasjon](Innspill/Kartlegging_fiskeriinteresser.md) |
 | **Folkemøter** | Q3 2026 | I bygdene i Rognsundet – invitasjon sendes i samråd med bygdelag |
 | **Dialog med fagutredere** | Q4 2026–Q1 2027 | Meld deg som informant hvis du har kunnskap om fiske, friluftsliv, reindrift eller lokalsamfunn |
 | **2. Høring av planforslag** | Q3 2027 | 6 ukers høring – ny mulighet for innspill |

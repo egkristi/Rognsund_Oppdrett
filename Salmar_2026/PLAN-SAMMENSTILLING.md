@@ -635,7 +635,7 @@ gantt
 | Anledning | Tidsrom | Beskrivelse |
 |-----------|---------|-------------|
 | **1. Høring av planprogram** | 11.05–01.07.2026 | ✅ Avsluttet |
-| **Kartlegging av fiskeriinteresser** | Frist 19.10.2026 | **Pågår nå** – se [veiledning til utfylling](Innspill/Kartlegging_fiskeriinteresser.md) |
+| **Kartlegging av fiskeriinteresser** | Frist 19.10.2026 | **Pågår nå** – se [momenter til inspirasjon](Innspill/Kartlegging_fiskeriinteresser.md) |
 | **Folkemøter** | Q3 2026 | I bygdene i Rognsundet – invitasjon sendes separat i samråd med bygdelag |
 | **Dialog med fagutredere** | Q4 2026–Q1 2027 | Fagutredere kontakter informanter særskilt ved behov |
 | **2. Høring av planforslag** | Q3 2027 | 6 ukers høring – ny mulighet for innspill |
