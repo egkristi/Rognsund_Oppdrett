@@ -8,6 +8,7 @@ Denne mappen inneholder et ferdig **høringsinnspill til planprogrammet** for Sa
 |-----|------|
 | `Hoeringsinnspill_planprogram_Rognsund.docx` | **Klar til å sende** (Word) – fyll inn avsender og send |
 | `Hoeringsinnspill_planprogram_Rognsund.md` | Kildeversjon (redigerbar tekst) |
+| [`Kartlegging_fiskeriinteresser.md`](Kartlegging_fiskeriinteresser.md) | **Forslag til svar** på Rambølls kartlegging av fiskeriinteresser (frist 19.10.2026) |
 
 ## Slik bruker du det
 

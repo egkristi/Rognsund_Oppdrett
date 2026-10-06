@@ -53,6 +53,7 @@ Området har nasjonale og internasjonale verneinteresser:
 1. **Les dokumentene** i `Salmar_2026/` for å sette deg inn i saken
 2. **Bruk argumentene** i README-en til å skrive innspill
 3. **Frist for innspill til planprogram: 01.07.2026**
+   - **Nå: Kartlegging av fiskeriinteresser (frist 19.10.2026)** – se [forslag til svar](Salmar_2026/Innspill/Kartlegging_fiskeriinteresser.md)
 4. **Spred ordet** – del kunnskapen med andre som er opptatt av Rognsund
 
 ---
