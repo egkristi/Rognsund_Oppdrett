@@ -30,6 +30,8 @@ Prosjektet inneholder:
 Se [Salmar_2026/README.md](Salmar_2026/README.md) for fullstendig dokumentasjon og handlingsplan.
 
 > Nettside (GitHub Pages): [https://egkristi.github.io/Rognsund_Oppdrett/](https://egkristi.github.io/Rognsund_Oppdrett/)
+>
+> Nettsiden bygges med MkDocs og publiseres automatisk av GitHub Actions (`.github/workflows/pages.yml`) ved hver endring på `main`. Lokal forhåndsvisning: `pip install -r requirements-docs.txt && scripts/build_site.sh serve`.
 
 ---
 
