@@ -4,8 +4,9 @@
 
 **Den overordnede målsetningen er langsiktig bærekraft for Rognsund – økologisk, kulturelt og økonomisk, på kort og lang sikt. Dette dokumentet er en respons på SalMar Farming AS' kunngjøring om utvidet akvakultur i Rognsundet (Alta kommune): det forklarer saken, måler planen mot bærekraftmålet (FNs – De forente nasjoners – bærekraftmål), og viser hvordan man kan påvirke prosessen slik at utfallet blir positivt for fjorden. Målet er ikke å stoppe SalMar for enhver pris – men intet bør gjennomføres som ikke gjør Rognsund bedre. Alt bygger på offentlig tilgjengelige dokumenter og etterprøvbare kilder.**
 
-> **Høringsfrist: 01.07.2026** – Innspill sendes til marie.mcdougall@ramboll.no  
-> Seksjonen nedenfor inneholder bakgrunnsinformasjon og forslag til momenter som kan tas med i et høringsinnspill.
+> **Status oktober 2026:** Høringen av planprogrammet ble avsluttet **01.07.2026** – innspillet som ble sendt, ligger i [`Innspill/`](Innspill/README.md).  
+> **Nå:** Rambøll kartlegger fiskeriinteresser i Rognsund – **frist 19.10.2026**. Se [forslag til svar på skjemaet](Innspill/Kartlegging_fiskeriinteresser.md).  
+> **Neste:** fastsetting av planprogram (Q4 2026), konsekvensutredninger (Q4 2026–Q1 2027) og høring av planforslag (2027).
 
 ---
 
@@ -17,7 +18,7 @@ Dette dokumentet er en **respons på SalMars kunngjøring om detaljregulering fo
 
 SalMar Farming AS har varslet oppstart av detaljregulering (pbl. – plan- og bygningsloven – §12-8) for å erstatte flere eksisterende lokaliteter i Rognsundet med to nye, samlet biomasse 15 300 tonn. Planutvalget i Alta kommune vedtok **enstemmig oppstart** av planarbeidet 04.12.2025 (sak 50/2025) – men *oppstart* er ikke det samme som *godkjenning*. Det endelige vedtaket er politisk, og prosessen kan påvirkes – og stoppes – på flere punkter.
 
-> **Se `PLAN-SAMMENSTILLING.md` for den fullstendige faglige gjennomgangen (22 kapitler).** Denne README-en er handlingsdelen: argumentene satt i system, med konkrete steg, frister og mottakere.
+> **Se `PLAN-SAMMENSTILLING.md` for den fullstendige faglige gjennomgangen (23 kapitler).** Denne README-en er handlingsdelen: argumentene satt i system, med konkrete steg, frister og mottakere.
 
 ---
 
@@ -62,8 +63,10 @@ Kunngjøringen er profesjonelt utformet. Målt mot bærekraftmålet er det likev
 
 Dette er kjernen i dokumentet: hvordan du kan påvirke saken slik at utfallet tjener Rognsund – herunder å stoppe planen dersom den ikke gjør fjorden bedre. Stegene er sortert etter gjennomslagskraft.
 
-### Steg 1 (nå – før 01.07.2026): Send høringsinnspill, og løft de tyngste hensynene
-Høringen av planprogrammet er den **viktigste muligheten akkurat nå**. Planprogrammet bestemmer hva som skal utredes; det som ikke tas inn her, blir sjelden utredet senere. Send innspill til Rambøll (marie.mcdougall@ramboll.no) **med kopi** til Alta kommune, Statsforvalteren, Sametinget og Kystverket. Bygg innspillet på de tre tyngste punktene:
+### Steg 1 (avsluttet 01.07.2026): Høringsinnspill til planprogrammet
+> **Status:** Høringsfristen er passert. Innspillet som ble sendt, ligger i [`Innspill/`](Innspill/README.md) og kan gjenbrukes ved høring av planforslaget (2027). **Nå (frist 19.10.2026):** svar på Rambølls [kartlegging av fiskeriinteresser](Innspill/Kartlegging_fiskeriinteresser.md) – planprogrammet legger opp til at kunnskapen om fiske hentes inn gjennom slik dialog, uten befaring.
+
+Høringen av planprogrammet var den **første og viktigste muligheten**. Planprogrammet bestemmer hva som skal utredes; det som ikke tas inn her, blir sjelden utredet senere. Send innspill til Rambøll (marie.mcdougall@ramboll.no) **med kopi** til Alta kommune, Statsforvalteren, Sametinget og Kystverket. Bygg innspillet på de tre tyngste punktene:
 
 1. **FFNFA-forbudet (KPA – kommuneplanens arealdel – §6.2.2):** Krev at den sørlige lokaliteten tas ut, og at motstrid med overordnet plan avklares før prosessen fortsetter.
 2. **Kunnskapsmangel + føre-var (nml. – naturmangfoldloven – §9):** Krev at kjemisk tilstand, reelle strømmålinger, fugl, marinarkeologi og truede arter kartlegges *før* planprogrammet fastsettes.
@@ -97,10 +100,10 @@ Hele Rognsundet er sjøsamisk område. Manglende eller mangelfull konsultasjon e
 Be om innsyn (offentleglova §25) i all korrespondanse mellom SalMar, Rambøll og kommunen. Innsyn avdekker forutsetninger og svakheter, og dokumenterer prosessen for en eventuell klage.
 
 ### Steg 6: Konsesjonsrunden – en ny mulighet selv om reguleringsplanen vedtas
-Reguleringsplanen gir **ikke** i seg selv rett til drift. Akvakulturkonsesjon (NFD – Nærings- og fiskeridepartementet), lokalitetsgodkjenning (Mattilsynet) og utslippstillatelse (Statsforvalteren) er **egne prosesser** med egne innspills- og klagemuligheter. Mattilsynet har tidligere stoppet prosjekter av hensyn til villaks.
+Reguleringsplanen gir **ikke** i seg selv rett til drift. Ny lokalitet krever **lokalitetsklarering (akvakulturtillatelse) fra Finnmark fylkeskommune**, som samordner sektormyndighetene: Mattilsynet (fiskehelse og dyrevelferd), Statsforvalteren (utslippstillatelse etter forurensningsloven), Kystverket (havne- og farvannsloven) og vertskommunen. Dette er **egne prosesser** med egne innspills- og klagemuligheter. Mattilsynet har tidligere stoppet prosjekter av hensyn til villaks.
 
 ### Steg 7: Klage – og om nødvendig rettslig prøving
-Etter vedtak: **klagefrist 3 uker** til Statsforvalteren (reguleringsplan), til LMD (Landbruks- og matdepartementet) (konsesjon) og til Sivilombudsmannen (saksbehandlingsfeil). Organisasjoner som Naturvernforbundet kan vurdere rettslig prøving ved lovbrudd.
+Etter vedtak: **klagefrist 3 uker** – klage på reguleringsplan behandles av Statsforvalteren, klage på lokalitetsklarering fra fylkeskommunen av Fiskeridirektoratet, og klage på utslippstillatelse av Miljødirektoratet. Saksbehandlingsfeil kan i tillegg klages inn for Sivilombudet. Organisasjoner som Naturvernforbundet kan vurdere rettslig prøving ved lovbrudd.
 
 > **Den lange linjen:** Et nei i én runde er sjelden endelig, og et ja kan stoppes i neste. Hold dokumentasjonen oppdatert, følg opp vedtak og frister, og hold lokalsamfunnet informert. Regionalt finnes fortilfeller – bl.a. organisert motstand mot oppdrett i Porsangerfjorden (2026).
 
@@ -116,7 +119,7 @@ Dersom aktivitet skal gjennomføres, er kravet ikke bare at den unngår skade, m
 4. **Kunnskap før vedtak** – kjemisk tilstand, reelle strømmålinger, fugl, marinarkeologi og truede arter kartlagt før planprogrammet fastsettes (føre-var, nml. §9).
 5. **FFNFA respekteres** – ingen anadrom oppdrett i FFNFA-området (sør) uten at motstrid med overordnet plan er reelt avklart.
 6. **Aktiv forbedring av fjorden** – tiltaket bidrar positivt, f.eks. opprydding av eksisterende bunnpåvirkning, restaurering av avviklede lokaliteter og bidrag til overvåking og styrking av villaksen.
-7. **Reell overvåking og åpenhet** – baseline etter NS 9410 (Norsk Standard for miljøovervåking av marine matfiskanlegg), lakselus på vill fisk (NALO – Nærings- og fiskeridepartementets arealverktøy for havbruk) og DNA (deoksyribonuklein)-overvåking av rømt fisk ved Altaelvas innløp, med offentlig rapportering.
+7. **Reell overvåking og åpenhet** – baseline etter NS 9410 (Norsk Standard for miljøovervåking av marine matfiskanlegg), lakselus på vill fisk (NALO – Nasjonalt overvåkingsprogram for lakselus på vill laksefisk) og DNA (deoksyribonuklein)-overvåking av rømt fisk ved Altaelvas innløp, med offentlig rapportering.
 8. **Reversibilitet** – tillatelser tidsbegrenses og kan trekkes ved brudd, slik at fjorden kan tilbakeføres.
 
 > Dette er terskelen for at en utbygging faktisk gjør Rognsund bedre. Blir den ikke møtt, tjener ikke planen bærekraftmålet, og bør ikke vedtas slik den foreligger.
@@ -187,14 +190,14 @@ Dagens MTB- og trafikklyssystem videreføres inntil nytt regelverk er vedtatt.
 Oppskriften over er den strategiske oversikten. Denne sjekklisten er den personlige versjonen – konkrete ting hver enkelt kan gjøre, fra det enkle til det mer forpliktende:
 
 1. **Sett deg inn i saken og spre kunnskap.** Les dokumentene i dette prosjektet, del dem, og snakk med naboer, bygdelag og foreninger. Jo flere som kjenner saken, desto sterkere står lokalsamfunnet.
-2. **Send høringsinnspill innen 01.07.2026.** Dette er den viktigste muligheten akkurat nå. Et innspill trenger ikke være langt – men jo flere som påpeker de samme manglene, desto større vekt får de. Se den detaljerte momentlisten lenger ned. Send til Rambøll (marie.mcdougall@ramboll.no) med kopi til Alta kommune, Statsforvalteren, Sametinget og Kystverket.
+2. **Svar på kartleggingen av fiskeriinteresser innen 19.10.2026.** Høringen av planprogrammet ble avsluttet 01.07.2026; nå er det Rambølls skjema om fiske som gjelder. Svarene blir i praksis kunnskapsgrunnlaget for KU-temaet tradisjonelt fiske. Se [forslag til svar](Innspill/Kartlegging_fiskeriinteresser.md). Høringsinnspillet i `Innspill/` kan gjenbrukes når planforslaget kommer på høring (2027).
 3. **Krev driftsform og teknologi utredet.** Be om at KU sammenligner åpne merder med lukket/semilukket/landbasert teknologi, og at et «lukket teknologi»-alternativ utredes på lik linje. Dette er den mest direkte veien til et bærekraftig utfall.
 4. **Be om at kunnskapshullene tettes før vedtak.** Kjemisk tilstand, reelle strømmålinger, fuglekartlegging, marinarkeologi og kartlegging av truede arter bør foreligge *før* planprogrammet fastsettes, jf. føre-var-prinsippet (naturmangfoldloven §9).
 5. **Be om juridisk bindende garantier.** «Samme biomasse» og «bedre plassering» er i dag intensjoner. Krev rekkefølgebestemmelser som binder fjerning av gamle lokaliteter og et tak på samlet belastning i sundet.
 6. **Be om konsultasjon (samiske/sjøsamiske interesser)** etter sameloven §4-4 – sendes til Alta kommune, ikke til Rambøll.
 7. **Bruk innsynsretten.** Etter offentleglova §25 kan du be om innsyn i alle saksdokumenter, inkludert korrespondanse mellom SalMar, Rambøll og kommunen.
 8. **Bygg allianser.** Naturvernforbundet, NJFF (Norges Jeger- og Fiskerforbund), FNF (Forum for Natur og Friluftsliv), reinbeitedistriktene, bygdelag og fiskarlag står sterkere sammen. Regionalt finnes fortilfeller – blant annet organisert motstand mot oppdrett i Porsangerfjorden (2026).
-9. **Engasjer deg i hele prosessen, ikke bare nå.** Det kommer flere anledninger: folkemøter (Q3 2026), høring av planforslag (2027), klage på vedtak (2028) og egen konsesjonsbehandling hos Mattilsynet/NFD. Reguleringsvedtaket er ikke det eneste stoppunktet.
+9. **Engasjer deg i hele prosessen, ikke bare nå.** Det kommer flere anledninger: folkemøter (Q3 2026), høring av planforslag (2027), klage på vedtak (2028) og egen behandling av lokalitetsklarering hos Finnmark fylkeskommune (med Mattilsynet, Statsforvalteren og Kystverket). Reguleringsvedtaket er ikke det eneste stoppunktet.
 10. **Hold den lange linjen.** Målet er ikke å vinne én høring, men å sikre at Rognsund forvaltes bærekraftig over generasjoner. Dokumentér, følg opp vedtak, og hold lokalsamfunnet informert.
 
 ---
@@ -208,7 +211,7 @@ Altavassdraget er en **nasjonal lakseelv** med **moderat tilstand** – under kv
 
 **Viktig presisering:** Altafjorden er definert som nasjonal laksefjord *innenfor* Stjernsundet – Rognsundet ligger **utenfor** denne sonen. HI-data viser at lakseluspresset på vill postsmolt i Altafjorden hittil har vært **lavt** (2–12 % prevalens, 1–2 lus/fisk). I produksjonsområde 12 (Altafjorden) er lakselusrelatert dødelighet på utvandrende postsmolt vurdert som lav (<10 %), men usikkerheten er stor. Historisk lave nivåer er ingen garanti for fremtiden, særlig ved endrede strømforhold eller økt produksjon i området. Mattilsynet har tidligere stoppet akvakulturprosjekter *inne i* nasjonale laksefjorder (bl.a. landbasert settefiskanlegg ved Alta), men Rognsundet ligger utenfor denne sonen. Også Repparfjordelva ligger innenfor 60 km influensområde.
 
-> **HI Risikorapport 2025 (Havforskningsinstituttet):** Lakselus og genetisk innkryssing fra rømt oppdrettsfisk er de største truslene mot villaks. Over 97 % av lakselusa i norske oppdrettsområder stammer fra akvakultur. Negativ påvirkning har forverret seg betydelig i 2024. Rapporten anbefaler overvåking av lakselus på vill fisk, bl.a. gjennom NALO-programmet (Nærings- og fiskeridepartementets arealverktøy for havbruk). [HI Risikorapport 2025](https://www.hi.no/hi/nettrapporter/rapport-fra-havforskningen-2025-14)
+> **HI Risikorapport 2025 (Havforskningsinstituttet):** Lakselus og genetisk innkryssing fra rømt oppdrettsfisk er de største truslene mot villaks. Over 97 % av lakselusa i norske oppdrettsområder stammer fra akvakultur. Negativ påvirkning har forverret seg betydelig i 2024. Rapporten anbefaler overvåking av lakselus på vill fisk, bl.a. gjennom NALO-programmet (Nasjonalt overvåkingsprogram for lakselus på vill laksefisk). [HI Risikorapport 2025](https://www.hi.no/hi/nettrapporter/rapport-fra-havforskningen-2025-14)
 
 ### 2. FFNFA – forholdet til kommuneplanens arealdel
 Kommuneplanens arealdel §6.2.2 angir at oppdrett av anadrome fiskearter ikke er tillatt i FFNFA (fjord- og kystområder med særlige naturverdier). Den sørlige lokasjonen ligger i FFNFA-område. Planinitiativet er merket: *"STRIDER med overordnet/gjeldende plan"*. Dette reiser spørsmål om forholdet til overordnet plan.
@@ -274,7 +277,7 @@ Det er per i dag ikke foreslått juridisk bindende mekanismer som sikrer at tota
 
 Kumulative effekter fra alle lokaliteter i Rognsundet, inkludert Kime Akvas torskeoppdrett, er ikke samlet utredet.
 
-**Akvakulturloven §3-1** stiller krav om «miljømessig forsvarlig drift». Nye lokaliteter og biomasseøkning må søkes som endring av konsesjon hos Mattilsynet – her kan naboer og interessenter sende uttalelser.
+**Akvakulturloven §3-1** stiller krav om «miljømessig forsvarlig drift». Nye lokaliteter krever lokalitetsklarering fra Finnmark fylkeskommune, som innhenter vurderinger fra Mattilsynet, Statsforvalteren, Kystverket og kommunen – her kan naboer og interessenter sende uttalelser.
 
 ---
 
@@ -352,45 +355,48 @@ Planinitiativet inneholder en vurdering etter forskrift om konsekvensutredninger
 ```mermaid
 gantt
     title Tidslinje for planprosessen – Rognsund
-    dateFormat  YYYY-MM
+    dateFormat  YYYY-MM-DD
     axisFormat  %b %Y
 
     section Høring og medvirkning
-    Høring planprogram (frist 01.07.2026)     :milestone, 2026-07-01, 0d
-    Folkemøter i Rognsund                     :2026-08, 2026-10
-    Fastsetting av planprogram                :milestone, 2026-12, 0d
+    Høring planprogram (avsluttet 01.07.2026) :done, milestone, 2026-07-01, 0d
+    Kartlegging fiskeriinteresser (19.10.2026) :crit, milestone, 2026-10-19, 0d
+    Folkemøter i Rognsund                     :2026-08-01, 2026-10-31
+    Fastsetting av planprogram                :milestone, 2026-12-01, 0d
 
     section Utredning
-    Konsekvensutredninger gjennomføres        :2026-12, 2027-03
-    Høring av planforslag (6 uker)            :2027-03, 2027-09
+    Konsekvensutredninger gjennomføres        :2026-12-01, 2027-03-31
+    Høring av planforslag (6 uker)            :2027-03-01, 2027-09-30
 
     section Vedtak og klage
-    Mattilsynet – konsesjonssøknad            :2027-04, 2027-06
-    Endelig planvedtak Alta kommune           :milestone, 2028-04, 0d
-    Klagefrist reguleringsplan (3 uker)       :2028-04, 2028-05
-    Klagefrist konsesjon (Mattilsynet)        :2028-07, 2028-09
-    Sivilombudsmannen (saksbehandlingsfeil)   :2028-09, 2029-01
+    Søknad om lokalitetsklarering             :2027-04-01, 2027-06-30
+    Endelig planvedtak Alta kommune           :milestone, 2028-04-01, 0d
+    Klagefrist reguleringsplan (3 uker)       :2028-04-01, 2028-04-22
+    Klagefrist lokalitetsklarering            :2028-07-01, 2028-09-30
+    Sivilombudet (saksbehandlingsfeil)        :2028-09-01, 2029-01-31
 ```
 
 | Dato | Aktivitet | Mulighet for påvirkning |
 |------|-----------|------------------------|
-| **01.07.2026** | **Frist for innspill til planprogram** | Send skriftlige innspill – se momentliste over |
+| 01.07.2026 | Frist for innspill til planprogram – ✅ avsluttet | Innspillet ligger i `Innspill/` og kan gjenbrukes senere |
+| **19.10.2026** | **Kartlegging av fiskeriinteresser (Rambøll)** | Svar på skjemaet – se [forslag til svar](Innspill/Kartlegging_fiskeriinteresser.md) |
 | Q3 2026 | Folkemøter i Rognsund | Delta og gi innspill muntlig |
 | Q4 2026 | Planprogram fastsettes av Alta kommune | Følg med på politisk behandling |
 | Q4 2026–Q1 2027 | Konsekvensutredninger gjennomføres | Meld interesse som informant for fiske, friluftsliv, reindrift. Fagutredere kontakter informanter særskilt |
 | Q1–Q3 2027 | Høring av planforslag (6 uker) | Ny høringsrunde – anledning til å kommentere hele planen |
-| Q2 2027 | Mattilsynets behandling av konsesjonssøknad | Mulighet for innspill til konsesjonsprosessen |
+| Q2 2027 | Søknad om lokalitetsklarering (Finnmark fylkeskommune, med Mattilsynet, Statsforvalteren og Kystverket) | Mulighet for uttalelse til søknaden |
 | Q2 2028 | Endelig planvedtak i Alta kommune | Klagefrist 3 uker etter vedtak til Statsforvalteren |
-| Q3 2028 | Klagefrist konsesjon (Mattilsynet) | Klage til Landbruks- og matdepartementet |
-| Etter klagebehandling | Sivilombudsmannen (ved saksbehandlingsfeil) | Kan vurdere formelle feil, men gir kun uttalelse |
+| Etter vedtak | Klagefrist lokalitetsklarering (3 uker) | Klagen sendes fylkeskommunen; Fiskeridirektoratet er klageinstans |
+| Etter klagebehandling | Sivilombudet (ved saksbehandlingsfeil) | Kan vurdere formelle feil, men gir kun uttalelse |
 
 ### Klageveier – oversikt
 
 | Klagegrunn | Klageinstans | Frist | Merknad |
 |------------|-------------|:-----:|---------|
 | **Reguleringsplanvedtak** | Statsforvalteren i Troms og Finnmark | 3 uker etter kunngjøring | Vurderer formelle saksbehandlingsregler, lovtolkning. Faglig innhold endres sjelden |
-| **Konsesjonsvedtak (Mattilsynet)** | Landbruks- og matdepartementet (LMD) | Normalt 3 uker | Kan argumentere mot miljøvilkår (vannmiljø, rømt fisk, lakselus) |
-| **Saksbehandlingsfeil** | Sivilombudsmannen | Ingen fast frist | Gir kun uttalelse, ikke omgjøring. Kan likevel ha politisk tyngde |
+| **Lokalitetsklarering / akvakulturtillatelse** (Finnmark fylkeskommune) | Fiskeridirektoratet | 3 uker | Klagen sendes fylkeskommunen. Kan argumentere mot miljøvilkår (vannmiljø, rømt fisk, lakselus) |
+| **Vedtak fra Mattilsynet** (fiskehelse, dyrevelferd) | Mattilsynet (overordnet klageinstans) | 3 uker | Gjelder Mattilsynets eget vedtak/tillatelse |
+| **Saksbehandlingsfeil** | Sivilombudet | Normalt innen ett år etter endelig vedtak | Gir kun uttalelse, ikke omgjøring. Kan likevel ha politisk tyngde |
 | **Manglende konsultasjon** | Kommunal- og distriktsdepartementet | I forbindelse med klage | Brudd på sameloven kap. 4 kan påberopes |
 | **Utslippstillatelse** | Miljødirektoratet | Etter forurensningsloven | Gjelder ev. utslippstillatelse fra Statsforvalteren |
 
@@ -398,7 +404,8 @@ gantt
 
 | Anledning | Tidsrom | Hva kan du gjøre? |
 |-----------|---------|-------------------|
-| **1. Høring av planprogram** | Nå – 01.07.2026 | Skriftlige innspill til Rambøll. **VIKTIGSTE MULIGHET NÅ** |
+| **1. Høring av planprogram** | 11.05–01.07.2026 | ✅ Avsluttet – innspillet ligger i `Innspill/` |
+| **Kartlegging av fiskeriinteresser** | Frist 19.10.2026 | **Pågår nå** – svar på Rambølls skjema, se [forslag til svar](Innspill/Kartlegging_fiskeriinteresser.md) |
 | **Folkemøter** | Q3 2026 | I bygdene i Rognsundet – invitasjon sendes i samråd med bygdelag |
 | **Dialog med fagutredere** | Q4 2026–Q1 2027 | Meld deg som informant hvis du har kunnskap om fiske, friluftsliv, reindrift eller lokalsamfunn |
 | **2. Høring av planforslag** | Q3 2027 | 6 ukers høring – ny mulighet for innspill |
@@ -406,7 +413,7 @@ gantt
 
 I tillegg kan du når som helst ta kontakt med plankonsulent (Rambøll) via e-post eller telefon.
 
-**Sivilombudsmannen:** Dersom du mener det har skjedd saksbehandlingsfeil (f.eks. manglende konsultasjon, brudd på saksbehandlingsregler), kan du klage til Sivilombudsmannen. Ombudsmannen gir kun uttalelse, ikke omgjøring, men uttalelsen kan ha politisk tyngde.
+**Sivilombudet:** Dersom du mener det har skjedd saksbehandlingsfeil (f.eks. manglende konsultasjon, brudd på saksbehandlingsregler), kan du klage til Sivilombudet. Sivilombudet gir kun uttalelse, ikke omgjøring, men uttalelsen kan ha politisk tyngde.
 
 ---
 
@@ -524,8 +531,8 @@ Flere offentlige instanser har roller i planprosessen og kan fremme innsigelse d
 | **Fiskeridirektoratet** | Innsigelse på gyteområder og fiskeinteresser | **Middels** |
 | **NVE** | Innsigelse på skredfare og flodbølgerisiko | **Middels** |
 | **Mattilsynet** | Fiskehelse og lakselus | **Middels** |
-| **Finnmark fylkeskommune** | Kulturminner, regionale interesser | **Lav-Middels** |
-| **Sivilombudsmannen** | Kan vurdere saksbehandlingsfeil (manglende konsultasjon, brudd på saksbehandlingsregler) | **Lav** – gir kun uttalelse, ikke omgjøring |
+| **Finnmark fylkeskommune** | Regional planmyndighet og kulturminner – og **vedtaksmyndighet for lokalitetsklarering** (akvakulturtillatelse) | **Middels-Høy** – avgjør konsesjonsrunden |
+| **Sivilombudet** | Kan vurdere saksbehandlingsfeil (manglende konsultasjon, brudd på saksbehandlingsregler) | **Lav** – gir kun uttalelse, ikke omgjøring |
 | **Alta kommune (formannskapet)** | Politisk vedtak av reguleringsplan | Avgjørende – planen krever politisk flertall |
 | **Naturvernforbundet / WWF (World Wide Fund for Nature) / FNF** | Høringsinnspill, ev. søksmål | Avhenger av organisasjonenes prioritering |
 | **Reinbeitedistrikter** (24A, 25) | Samiske rettigheter, konsultasjonskrav | Kan påvirke prosess og fremdrift |
@@ -556,7 +563,7 @@ Flere offentlige instanser har roller i planprosessen og kan fremme innsigelse d
 | **Lukket teknologi som vilkår** | Lukket/semilukket/landbasert teknologi kan redusere lus, rømming og utslipp vesentlig. KU bør sammenligne driftsformer, ikke bare plasseringer. | KU-forskriften, nat.mangfoldloven §12 (miljøforsvarlige teknikker) | HI/Veterinærinstituttet |
 | **Regelverk i endring** | Havbruksmeldingen (2025) dreier mot miljøbetingelser, lusekvoter, tapsavgift og insentiver for lukket teknologi. Plan/KU bør ta høyde for ny retning. | Meld. St. 24 (2024–2025), Innst. 525 S | [regjeringen.no](https://www.regjeringen.no/contentassets/341de502286746b7803860a2199aa3d6/no/pdfs/stm202420250024000dddpdfs.pdf) |
 | **18 utredningstema** | KPA §1.11.1 stiller krav om 18 temaer – flere kan bli nedprioritert uten innspill. | KPA §1.11.1 | Alta kommune KPA 2021–2040 |
-| **Akvakulturloven** | §3-1 krever «miljømessig forsvarlig drift». Konsesjonsbehandling hos Mattilsynet er en egen prosess i tillegg til reguleringsplanen. | Akvakulturloven §3-1 | [LOV-2005-06-17-79](https://lovdata.no/dokument/NL/lov/2005-06-17-79) |
+| **Akvakulturloven** | §3-1 krever «miljømessig forsvarlig drift». Lokalitetsklarering hos Finnmark fylkeskommune (med Mattilsynet, Statsforvalteren og Kystverket) er en egen prosess i tillegg til reguleringsplanen. | Akvakulturloven §3-1 | [LOV-2005-06-17-79](https://lovdata.no/dokument/NL/lov/2005-06-17-79) |
 | **Kulturminneloven** | Automatisk fredete kulturminner i sjø må kartlegges. Riksantikvaren/Tromsø Museum forvalter kulturminner i sjø. | Kulturminneloven | [LOV-1978-06-09-50](https://lovdata.no/dokument/NL/lov/1978-06-09-50) |
 | **Reindriftsloven** | Varslingsplikt og vern av beiteområder. Kommunen må sikre reinbeitedistriktene særskilt vurdering. | Reindriftsloven | [LOV-2007-06-15-40](https://lovdata.no/dokument/NL/lov/2007-06-15-40) |
 
@@ -583,8 +590,9 @@ De ønsker å erstatte 2–3 av disse med to nye, bedre plasserte lokaliteter.
 | Aktivitet | Tidsrom | Status |
 |-----------|---------|--------|
 | Planoppstart vedtatt av planutvalget | 04.12.2025 | ✅ Gjennomført (enstemmig) |
-| Varsel oppstart og høring av planprogram | 11.05.2026 – 01.07.2026 | **PÅGÅR** |
-| Medvirkningsmøter og folkemøter | Q3 2026 | Ikke gjennomført |
+| Varsel oppstart og høring av planprogram | 11.05.2026 – 01.07.2026 | ✅ Avsluttet |
+| Kartlegging av fiskeriinteresser (Rambøll) | høst 2026 – frist 19.10.2026 | **PÅGÅR** |
+| Medvirkningsmøter og folkemøter | Q3 2026 | Ikke kjent – følg med på kommunens kunngjøringer |
 | Fastsetting av planprogram | Q4 2026 | Ikke gjennomført |
 | Datainnsamling og konsekvensutredninger | Q4 2026 – Q1 2027 | Ikke gjennomført |
 | Planforslag sendes kommunen | Q2 2027 | Ikke gjennomført |
@@ -597,11 +605,9 @@ De ønsker å erstatte 2–3 av disse med to nye, bedre plasserte lokaliteter.
 
 ## Kontaktinfo
 
-### Hovedkontakt for høringsinnspill
+### Plankonsulent (Rambøll)
 
-**Høringsfrist: 01.07.2026**
-
-Innspill til planprogrammet sendes til:
+Høringsfristen for planprogrammet gikk ut 01.07.2026. Plankonsulenten kan fortsatt kontaktes underveis i planprosessen:
 > **Rambøll Norge AS**  
 > Postboks 1077, 9503 Alta  
 > E-post: marie.mcdougall@ramboll.no
@@ -626,17 +632,16 @@ Kontaktperson: **Marie Dølør McDougall** – tlf. +47 975 87 006
 | **Statsforvalteren i Troms og Finnmark** | Innsigelsesmyndighet (miljø, naturmangfold) | sfotapost@statsforvalteren.no | – | – |
 | **Sametinget** | Samiske interesser, konsultasjon | sametinget@sametinget.no | – | – |
 | **Kystverket** | Farleder, sikkerhet, Mjånes fyr | post@kystverket.no | – | – |
-| **Fiskeridirektoratet** | Gyteområder, fiskeinteresser | post@fiskeridir.no | – | – |
-| **Mattilsynet** | Fiskehelse, lakselus, konsesjon | postmottak@mattilsynet.no | – | – |
+| **Fiskeridirektoratet** | Gyteområder, fiskeinteresser; klageinstans for lokalitetsklarering | post@fiskeridir.no | – | – |
+| **Mattilsynet** | Fiskehelse, lakselus, dyrevelferd (vedtak før lokalitetsklarering) | postmottak@mattilsynet.no | – | – |
 | **NVE** | Skredfare, flodbølgerisiko | nve@nve.no | – | – |
 | **Miljødirektoratet** | KU-veileder M-1941, klage på utslipp | post@miljodir.no | – | – |
 | **Nærings- og fiskeridepartementet (NFD)** | Havbruks- og konsesjonspolitikk, akvakulturloven | postmottak@nfd.dep.no | – | – |
 | **Klima- og miljødepartementet (KLD)** | Overordnet miljø- og naturpolitikk | postmottak@kld.dep.no | – | – |
 | **Riksantikvaren / Tromsø Museum** | Kulturminner i sjø | – | – | – |
-| **Finnmark fylkeskommune** | Kulturminner, regionale interesser | post@ffk.no | – | – |
-| **Landbruks- og matdepartementet (LMD)** | Klageinstans konsesjon (Mattilsynet) | postmottak@lmd.dep.no | – | – |
+| **Finnmark fylkeskommune** | Lokalitetsklarering (akvakulturtillatelse), kulturminner, regionale interesser | post@ffk.no | – | – |
 | **Kommunal- og distriktsdepartementet (KDD)** | Klageinstans konsultasjon (sameloven) | postmottak@kdd.dep.no | – | – |
-| **Sivilombudsmannen** | Saksbehandlingsfeil | postmottak@sivilombudsmannen.no | – | – |
+| **Sivilombudet** | Saksbehandlingsfeil | postmottak@sivilombudet.no | – | – |
 | **Datatilsynet** | Personvernklager | postkasse@datatilsynet.no | – | – |
 
 ### Politiske partier og folkevalgte
@@ -645,18 +650,20 @@ Reguleringsplanen avgjøres til slutt med **politisk flertall i Alta kommunestyr
 
 **Gruppeledere i Alta kommunestyre** (slik de er oppført hos Alta kommune, oppdatert 27.05.2026)
 
-| Parti | Gruppeleder | Kontakt |
-|-------|-------------|---------|
-| **Arbeiderpartiet** (posisjon) | Ole Steinar Østlyngen | ole@altamotorsenter.no · 900 11 066 |
-| **Senterpartiet** (posisjon) | Jan Martin Rishaug | jamris@alta.kommune.no · 908 66 055 |
-| **Venstre** (posisjon) | Trine Noodt | trine.noodt@gmail.com · 407 29 188 |
-| **Høyre** | Alex Bjørkmann | alex@bjorkmanns.no · 901 26 317 |
-| **Fremskrittspartiet** | Claus Jørstad | claus.jorstad@alta.kommune.no · 977 91 667 |
-| **SV** | Tore Grøtte | aronnes@live.com · 977 43 222 |
-| **Rødt** | Britt Karin Søvik | brittkarinsovik@gmail.com · 416 32 542 |
-| **MDG** | Frode Elias Lindal | frode84@gmail.com · 905 32 955 |
-| **Kristelig Folkeparti** | Knut Klevstad | knut@klevstad.no · 917 50 647 |
-| **Konservativt** | Inger Svendsen | inger@gsas.no · 951 81 710 |
+| Parti | Gruppeleder |
+|-------|-------------|
+| **Arbeiderpartiet** (posisjon) | Ole Steinar Østlyngen |
+| **Senterpartiet** (posisjon) | Jan Martin Rishaug |
+| **Venstre** (posisjon) | Trine Noodt |
+| **Høyre** | Alex Bjørkmann |
+| **Fremskrittspartiet** | Claus Jørstad |
+| **SV** | Tore Grøtte |
+| **Rødt** | Britt Karin Søvik |
+| **MDG** | Frode Elias Lindal |
+| **Kristelig Folkeparti** | Knut Klevstad |
+| **Konservativt** | Inger Svendsen |
+
+*Kontaktinformasjon til gruppelederne står i [kommunens oversikt](https://www.alta.kommune.no/politikk/politiske-partier-i-kommunestyret). Private e-postadresser og telefonnumre gjengis ikke her.*
 
 *Alta kommune oppgir at 11 partier er representert i perioden; de ti partigruppene med oppførte gruppeledere står over. Se [kommunens oppdaterte oversikt](https://www.alta.kommune.no/politikk/politiske-partier-i-kommunestyret) for den fullstendige listen (bl.a. om Pasientfokus, en stor lokal kraft i Alta, har representanter).*
 
@@ -678,8 +685,8 @@ Hele Rognsundet er sjøsamisk område, og samiske politiske aktører er derfor s
 | Parti / liste | Rolle | Kontakt |
 |---------------|-------|---------|
 | **Nordkalottfolket** | Stor på Sametinget og inne i Finnmark fylkesting (7 mandater). Vektlegger kyst, sjøsamiske rettigheter og fiske | heia@nordkalottfolket.no · [nordkalottfolket.no](https://nordkalottfolket.no/kontakt/) |
-| Nordkalottfolket – Sametinget | Parlamentarisk leder Vibeke Larsen | tlf. 941 30 116 |
-| Nordkalottfolket – Finnmark fylkesting | Gruppeleder Magne Ek | tlf. 908 24 844 |
+| Nordkalottfolket – Sametinget | Parlamentarisk leder Vibeke Larsen | via [nordkalottfolket.no](https://nordkalottfolket.no/kontakt/) |
+| Nordkalottfolket – Finnmark fylkesting | Gruppeleder Magne Ek | via [nordkalottfolket.no](https://nordkalottfolket.no/kontakt/) |
 | **Norske Samers Riksforbund (NSR)** | Samepolitisk liste og organisasjon | [nsr.no](https://nsr.no/) |
 | **Sametinget** | Konsultasjonsmyndighet (se «Offentlige instanser» over) | sametinget@sametinget.no |
 
@@ -852,9 +859,9 @@ Disse kan sende egne høringsinnspill, mobilisere medlemmer og gi saken faglig o
 
 ### Annet
 
-32. **NALO-programmet:** Nærings- og fiskeridepartementets arealverktøy for havbruk. [nalo.no](https://www.nalo.no/)
+32. **NALO-programmet:** Nasjonalt overvåkingsprogram for lakselus på vill laksefisk. [Regjeringen – NALO 2022 (vedlegg)](https://www.regjeringen.no/contentassets/b6f5e7d38fe04234b32156131a1eec14/appendiks-2-nalo-2022.pdf)
 33. **FNs bærekraftsmål:** Mål 2, 3, 8, 9, 11, 12, 14, 15. [fn.no](https://www.fn.no/om-fn/fns-baerekraftsmaal)
-34. **Sivilombudsmannen:** Klage på saksbehandling. [sivilombudsmannen.no](https://www.sivilombudsmannen.no/)
+34. **Sivilombudet:** Klage på saksbehandling. [sivilombudet.no](https://www.sivilombudet.no/)
 35. **GitHub-repository:** [github.com/egkristi/Rognsund_Oppdrett](https://github.com/egkristi/Rognsund_Oppdrett)
 
 ### Driftsform, utslipp og regelverk (2025–2026)
@@ -901,7 +908,7 @@ Disse kan sende egne høringsinnspill, mobilisere medlemmer og gi saken faglig o
 | **M-1941** | Miljødirektoratets veileder for konsekvensutredning av klima og miljø |
 | **MDG** | Miljøpartiet De Grønne |
 | **MTB** | Maksimal tillatt biomasse |
-| **NALO** | Nærings- og fiskeridepartementets arealverktøy for havbruk |
+| **NALO** | Nasjonalt overvåkingsprogram for lakselus på vill laksefisk |
 | **NFD** | Nærings- og fiskeridepartementet |
 | **NIBIO** | Norsk institutt for bioøkonomi |
 | **NINA** | Norsk institutt for naturforskning |

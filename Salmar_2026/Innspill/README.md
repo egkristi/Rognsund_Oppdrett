@@ -1,19 +1,22 @@
-# Innspill til planprogram – klart til å sende
+# Innspill og medvirkning
 
-Denne mappen inneholder et ferdig **høringsinnspill til planprogrammet** for SalMars planlagte akvakultur i Rognsund, klart til å sendes innen fristen **01.07.2026**.
+> **Nå (frist 19.10.2026):** Rambøll kartlegger fiskeriinteresser i Rognsund. Se [forslag til svar på skjemaet](Kartlegging_fiskeriinteresser.md).
+
+Denne mappen inneholder **høringsinnspillet til planprogrammet** for SalMars planlagte akvakultur i Rognsund. Høringsfristen var **01.07.2026** og er passert. Innspillet ligger her som dokumentasjon, og som mal som kan gjenbrukes når planforslaget sendes på høring (ventet 2027).
 
 ## Filer
 
 | Fil | Bruk |
 |-----|------|
-| `Hoeringsinnspill_planprogram_Rognsund.docx` | **Klar til å sende** (Word) – fyll inn avsender og send |
-| `Hoeringsinnspill_planprogram_Rognsund.md` | Kildeversjon (redigerbar tekst) |
+| `Hoeringsinnspill_planprogram_Rognsund.docx` | Innspillet i Word-format (mal med avsenderfelt) |
+| [`Hoeringsinnspill_planprogram_Rognsund.md`](Hoeringsinnspill_planprogram_Rognsund.md) | Kildeversjon (redigerbar tekst) |
+| `PLAN-SAMMENSTILLING.pdf` | Øyeblikksbilde av plan-sammenstillingen slik den ble sendt med innspillet. Gjeldende versjon: [`../PLAN-SAMMENSTILLING.md`](../PLAN-SAMMENSTILLING.md) |
 | [`Kartlegging_fiskeriinteresser.md`](Kartlegging_fiskeriinteresser.md) | **Forslag til svar** på Rambølls kartlegging av fiskeriinteresser (frist 19.10.2026) |
 
-## Slik bruker du det
+## Slik ble innspillet brukt (og kan gjenbrukes)
 
 1. **Fyll inn avsender** øverst i dokumentet: navn / organisasjon / lag, adresse, e-post og dato (feltene merket `[Fyll inn]`).
-2. **Send innen 01.07.2026** til hovedmottaker:
+2. **Send innen fristen** (for planprogrammet var den 01.07.2026; ved senere høringer gjelder ny frist) til hovedmottaker:
    - **Rambøll Norge AS** v/ Marie Dølør McDougall – `marie.mcdougall@ramboll.no`
 3. **Send kopi** (anbefalt) til:
    - Alta kommune – `postmottak@alta.kommune.no`
@@ -35,4 +38,4 @@ Denne mappen inneholder et ferdig **høringsinnspill til planprogrammet** for Sa
 - Full kontaktliste (myndigheter, politiske partier, medier, organisasjoner): se `../README.md`.
 - Faglig sammenstilling med kart og kilder: se `../PLAN-SAMMENSTILLING.md`.
 
-> Frist: **01.07.2026**. Jo flere som sender inn, desto større vekt får de samme momentene i den samlede vurderingen.
+> Jo flere som sender inn, desto større vekt får de samme momentene i den samlede vurderingen – det gjelder også ved høringen av planforslaget.

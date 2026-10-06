@@ -1,0 +1,12 @@
+# Konfigurasjon for ekstern lenkesjekk (.github/workflows/links.yml)
+max_concurrency = 8
+timeout = 30
+max_retries = 2
+# 403/429: mange nyhets- og myndighetssider blokkerer roboter eller begrenser antall kall.
+accept = ["200..=299", "403", "429"]
+exclude_path = ["Salmar_2026/underlag_konvertert"]
+exclude = [
+  "^mailto:",
+  "forms\\.cloud\\.microsoft",
+  "egkristi\\.github\\.io",
+]

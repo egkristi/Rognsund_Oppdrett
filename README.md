@@ -22,9 +22,10 @@ Prosjektet inneholder:
 |-------------|---------|
 | `Salmar_2026/` | **All dokumentasjon spesifikt for SalMars plan om utvidelse i Rognsund** |
 | `Salmar_2026/README.md` | Handlingsplan, 10 argumenter, innspillsmal, tidslinje |
-| `Salmar_2026/PLAN-SAMMENSTILLING.md` | **Utvidet analyse** – 22 kapitler med full gjennomgang av alt planmateriale, driftsform/utslipp, teknologiske alternativer og nasjonalt regelverk |
+| `Salmar_2026/PLAN-SAMMENSTILLING.md` | **Utvidet analyse** – 23 kapitler med full gjennomgang av alt planmateriale, driftsform/utslipp, teknologiske alternativer og nasjonalt regelverk |
 | `Salmar_2026/underlag/` | **Originale PDF-dokumenter** (7 stk) |
 | `Salmar_2026/underlag_konvertert/` | **Konverterte markdown-filer** (7 stk) |
+| `Salmar_2026/Innspill/` | **Høringsinnspill** til planprogrammet og **forslag til svar** på kartleggingen av fiskeriinteresser |
 | `Salmar_2026/underlag_bilder/` | **Kart og figurer** (20+ PNG/JPG) |
 
 Se [Salmar_2026/README.md](Salmar_2026/README.md) for fullstendig dokumentasjon og handlingsplan.
@@ -52,8 +53,8 @@ Området har nasjonale og internasjonale verneinteresser:
 
 1. **Les dokumentene** i `Salmar_2026/` for å sette deg inn i saken
 2. **Bruk argumentene** i README-en til å skrive innspill
-3. **Frist for innspill til planprogram: 01.07.2026**
-   - **Nå: Kartlegging av fiskeriinteresser (frist 19.10.2026)** – se [forslag til svar](Salmar_2026/Innspill/Kartlegging_fiskeriinteresser.md)
+3. **Nå: Svar på kartleggingen av fiskeriinteresser innen 19.10.2026** – se [forslag til svar](Salmar_2026/Innspill/Kartlegging_fiskeriinteresser.md)
+   - Høringen av planprogrammet ble avsluttet 01.07.2026 – [innspillet](Salmar_2026/Innspill/README.md) kan gjenbrukes ved høring av planforslaget (2027)
 4. **Spred ordet** – del kunnskapen med andre som er opptatt av Rognsund
 
 ---

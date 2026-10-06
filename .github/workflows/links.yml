@@ -1,0 +1,25 @@
+name: Lenkesjekk
+
+# Sjekker eksterne lenker i markdown-filene. Kjøres ukentlig, manuelt og på PR-er
+# som endrer markdown. Påvirker ikke publiseringen av GitHub Pages.
+on:
+  schedule:
+    - cron: "17 5 * * 1"
+  workflow_dispatch:
+  pull_request:
+    paths: ["**/*.md", "lychee.toml"]
+
+permissions:
+  contents: read
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Sjekk lenker
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --config lychee.toml --no-progress "./**/*.md"

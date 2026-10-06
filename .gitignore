@@ -19,9 +19,5 @@ __pycache__/
 .venv/
 venv/
 
-
-
-# Symlink to Salmar_2026 inside docs/
-docs/Salmar_2026
 # MkDocs-staging (genereres av scripts/build_site.sh)
 _docs/

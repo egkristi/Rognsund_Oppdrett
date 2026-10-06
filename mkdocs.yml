@@ -67,11 +67,6 @@ nav:
       - Kunngjøring (Rambøll): "Salmar_2026/underlag_konvertert/Kunngjøring_ Rognsund akvakultur - Ramboll - [www.ramboll.com].md"
       - Varsel om oppstart (Alta kommune): "Salmar_2026/underlag_konvertert/Varsel om oppstart av  detaljregulering for akvakultur i Rognsund -_ - [www.alta.kommune.no].md"
 
-# Filer som publiseres, men ikke står i menyen (dubletter/arbeidskopier).
-not_in_nav: |
-  *(1).md
-  *_copy.md
-
 validation:
   links:
     absolute_links: relative_to_docs
