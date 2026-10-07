@@ -22,7 +22,7 @@
 > - Innsynsretten følger av **offentleglova § 3** (innsynskravet: § 28), ikke § 25 (§ 25 gjelder tilsettingssaker) (kap. 5).
 > - «Én av tre hovedruter» for smolt har ingen kilde. Planinitiativet sier at Rognsundet er «en av vandringsrutene» for anadrom fisk fra Altavassdraget (kap. 3.1).
 > - Planmaterialet navngir ikke hvilke 2–3 lokaliteter som skal fjernes – det må avklares og bindes i planen (kap. 3.14).
-> - Det som ifølge planmaterialet «ikke skal øke», er **antallet** SalMar-anlegg; samme biomasse er bare SalMars vurdering (kap. 3.14).
+> - Det som ifølge planmaterialet «skal altså ikke øke», er **antallet** SalMar-anlegg; samme biomasse er bare SalMars vurdering (kap. 3.14).
 > - Hårfelling er en kartleggingskategori for sel, ikke hval; Rognsund er registrert beiteområde for knølhval og vågehval (kap. 3.7).
 > - Det er ikke dokumentert at deler av fjordsystemet er registrert som «fjorder med sjelden utskifting av bassengvann» (kap. 3.2).
 > - Se [Veien videre](../VEIEN-VIDERE.md) for oppdatert prosess og lovgrunnlag.

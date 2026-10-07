@@ -121,6 +121,8 @@ Vannforekomsten Rognsundet (ID 0420031000-C) har i dag **god økologisk tilstand
 | **Kommuneplanens samfunnsdel** | "Alta Vil", vedtatt 22.06.2015 | Fremmer næring, trivsel og utvikling av Alta som regionssenter |
 
 > **Dette er et sentralt plan- og politikkspørsmål:** Begge varslingsområdene er i strid med KPA. Det nordlige er i hovedsak avsatt til fiske (VFI2), og det sørlige er FFNFA, der KPA pkt. 6.2.2 ikke tillater oppdrett av anadrome fiskearter (laks og ørret). Planen forutsetter derfor en detaljregulering som avviker fra kommuneplanens arealdel. Fordi planen ikke er i samsvar med KPA, kan SalMar ikke kreve kommunestyrebehandling hvis kommunen velger ikke å fremme planforslaget (pbl § 12-11). Arealdelens områder for akvakultur ble tatt inn i planen for over 20 år siden, og forutsetningene er endret.
+>
+> **Forhistorie:** Under revisjonen av arealdelen foreslo kommunen i 2019 krav om utslippsfrie oppdrettsanlegg, men forslaget ble tatt ut før offentlig ettersyn. Ifølge Vest-Finnmark Kystfiskarlag avsatte kommunen bevisst ingen nye akvakulturområder ved revisjonen. Se [Veien videre, kap. 8.2](VEIEN-VIDERE.md#82-lokale-og-regionale-eksempler-i-finnmark).
 
 ![Kommuneplanens arealdel – arealformål fiske](underlag_bilder/fiskeridir/Fiskeridir_23_kommuneplan_arealformaal_fiske_VF12.png)
 *Figur F23: Kommuneplanens arealdel for Alta – sjøareal med arealformål 6300 «Fiske» (VFI2) i nordlige Rognsund (Fiskeridirektoratets kartportal / Plandata).*
@@ -595,14 +597,16 @@ Planprogrammet behandler sjøsamisk fiske som en del av temaet "tradisjonelt fis
 | **1. Varsel oppstart** | Q2 2026 (11.05.2026) | ✅ Gjennomført |
 | **2. Høring av planprogram** | Q2 2026 – frist 01.07.2026 | ✅ Avsluttet |
 | **2b. Kartlegging av fiskeriinteresser (Rambøll)** | høst 2026 – frist 19.10.2026 | **PÅGÅR** |
-| **3. Medvirkningsmøter/folkemøter** | Q3 2026 | Ikke kjent – følg med på kommunens kunngjøringer |
-| **4. Fastsetting av planprogram** | Q4 2026 | Ikke gjennomført |
+| **3. Medvirkningsmøter/folkemøter** | 2.–3. kvartal 2026 (planprogrammets plan) | Ikke kjent om de er holdt – spør kommunen |
+| **4. Fastsetting av planprogram** | Q4 2026 (planprogrammets plan: Q3 2026) | Ikke kjent per 06.10.2026 – forsinket |
 | **5. Datainnsamling og utredninger** | Q4 2026 – Q1 2027 | Ikke gjennomført |
 | **6. Planforslag sendes kommunen** | Q2 2027 | Ikke gjennomført |
 | **7. Høring og offentlig ettersyn (6 uker)** | Q3 2027 | Ikke gjennomført |
 | **8. Sluttbehandling og planvedtak** | Q1 2028 | Ikke gjennomført |
 
-> **Merk:** Fremdriftsplanen er tentativ og forutsetter at det ikke oppstår uforutsette utfordringer. Den vil påvirkes av saksbehandlingstid i kommunen og datoer for politiske møter.
+> **Merk:** Planprogrammets fremdriftsplan er tentativ og forutsetter at det ikke oppstår uforutsette utfordringer. Den vil påvirkes av saksbehandlingstid i kommunen og datoer for politiske møter.
+
+> **Om tidslinjen:** Planprogrammets egen fremdriftsplan (kap. 4.2) hadde medvirkningsmøter i 2.–3. kvartal 2026, fastsetting av planprogrammet i 3. kvartal 2026 og planvedtak i 2. kvartal 2027. Per 06.10.2026 er det ikke kjent at planprogrammet er fastsatt. Tidsrommene under er derfor prosjektets eget anslag. Skyves vedtaket til etter kommunevalget høsten 2027, er det et nytt kommunestyre som avgjør.
 
 Samme tidslinje som diagram (✅ = gjennomført · pågår nå · 🔴 = frist / kritisk milepæl). Diagrammet vises både på GitHub og på nettsiden.
 
@@ -617,7 +621,7 @@ gantt
     Frist for innspill til planprogram        :done, milestone, t3, 2026-07-01, 0d
     Kartlegging av fiskeriinteresser (frist)  :crit, milestone, t3b, 2026-10-19, 0d
     section Medvirkning og utredning
-    Folkemøter i Rognsund                     :         t4, 2026-08-01, 2026-09-30
+    Folkemøter (varslet, ikke kjent om holdt) :         t4, 2026-05-11, 2026-09-30
     Fastsetting av planprogram                :         t5, 2026-10-01, 2026-12-15
     Konsekvensutredninger (KU)                :         t6, 2026-10-01, 2027-03-31
     section Planforslag og høring
@@ -635,10 +639,10 @@ gantt
 |-----------|---------|-------------|
 | **1. Høring av planprogram** | 11.05–01.07.2026 | ✅ Avsluttet |
 | **Kartlegging av fiskeriinteresser** | Frist 19.10.2026 | **Pågår nå** – se [momenter til inspirasjon](Innspill/Kartlegging_fiskeriinteresser.md) |
-| **Folkemøter** | Q3 2026 | I bygdene i Rognsundet – invitasjon sendes separat i samråd med bygdelag |
+| **Folkemøter** | Varslet «i løpet av varslingsperioden» | Ikke kjent om de er holdt – spør kommunen |
 | **Dialog med fagutredere** | Q4 2026–Q1 2027 | Fagutredere kontakter informanter særskilt ved behov |
 | **2. Høring av planforslag** | Q3 2027 | 6 ukers høring – ny mulighet for innspill |
-| **3. Klage på vedtak** | Q1 2028 | 3 ukers frist etter kunngjøring |
+| **3. Klage på vedtak** | Q1 2028 | 3 ukers frist fra underretning eller kunngjøring |
 
 I tillegg: Det er anledning til å ta kontakt med plankonsulent via e-post eller telefon underveis i planprosessen.
 
@@ -851,11 +855,11 @@ Miljømål om **god økologisk og kjemisk tilstand** skal nås. Rognsundet har i
 |:----:|-----|----------|
 | 01.07.2026 | Høring planprogram | ✅ Avsluttet |
 | **19.10.2026** | Kartlegging av fiskeriinteresser | Svar på Rambølls skjema |
-| Q3 2026 | Folkemøter | Møt opp og si din mening |
+| Varslet 2026 | Folkemøter (ikke kjent om holdt) | Spør kommunen – be om møte før fastsetting |
 | Q4 2026 | Fastsetting planprogram | Følg med – krev endringer |
 | Q4 2026–Q1 2027 | KU-arbeid | Meld deg som informant |
 | Q3 2027 | Høring planforslag | Nytt innspill |
-| Prosjektets anslag | Planvedtak (planprogrammets egen plan: Q2 2027) | Klagefrist 3 uker etter kunngjøring |
+| Prosjektets anslag | Planvedtak (planprogrammets egen plan: Q2 2027) | Klagefrist 3 uker fra underretning eller kunngjøring |
 | Etter planvedtak | Lokalitetsklarering (Finnmark fylkeskommune) | Egen høringsrunde; klage til Fiskeridirektoratet |
 | Parallelt | Mattilsynets vedtak (fiskehelse, dyrevelferd) | Fiskehelse, lakselus, rømming |
 

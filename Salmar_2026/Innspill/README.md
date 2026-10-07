@@ -20,8 +20,8 @@ Denne mappen inneholder **høringsinnspillet til planprogrammet** for SalMars pl
    - **Rambøll Norge AS** v/ Marie Dølør McDougall – `marie.mcdougall@ramboll.no`
 3. **Send kopi** (anbefalt) til:
    - Alta kommune – `postmottak@alta.kommune.no`
-   - Statsforvalteren i Troms og Finnmark – `sfotapost@statsforvalteren.no`
-   - Sametinget – `sametinget@sametinget.no`
+   - Statsforvalteren i Troms og Finnmark – `sftfpost@statsforvalteren.no`
+   - Sametinget – `samediggi@samediggi.no`
    - Kystverket – `post@kystverket.no`
    - (og gjerne Fiskeridirektoratet, NVE, Mattilsynet, Finnmark fylkeskommune)
 4. **Tilpass om ønskelig.** Du kan forkorte eller velge ut de temaene du selv er mest opptatt av – alle innspill teller med.

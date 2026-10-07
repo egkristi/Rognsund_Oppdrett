@@ -353,38 +353,40 @@ Planinitiativet inneholder en vurdering etter forskrift om konsekvensutredninger
 
 ```mermaid
 gantt
-    title Tidslinje for planprosessen – Rognsund
+    title Tidslinje for planprosessen – Rognsund (prosjektets anslag, oktober 2026)
     dateFormat  YYYY-MM-DD
     axisFormat  %b %Y
 
     section Høring og medvirkning
     Høring planprogram (avsluttet 01.07.2026) :done, milestone, 2026-07-01, 0d
     Kartlegging fiskeriinteresser (19.10.2026) :crit, milestone, 2026-10-19, 0d
-    Folkemøter i Rognsund                     :2026-08-01, 2026-10-31
+    Folkemøter (varslet, ikke kjent om holdt) :2026-05-11, 2026-09-30
     Fastsetting av planprogram                :milestone, 2026-12-01, 0d
 
     section Utredning
     Konsekvensutredninger gjennomføres        :2026-12-01, 2027-03-31
-    Høring av planforslag (6 uker)            :2027-03-01, 2027-09-30
+    Høring av planforslag (6 uker)            :2027-07-01, 2027-09-30
 
     section Vedtak og klage
     Søknad om lokalitetsklarering             :2027-04-01, 2027-06-30
-    Endelig planvedtak Alta kommune           :milestone, 2028-04-01, 0d
-    Klagefrist reguleringsplan (3 uker)       :2028-04-01, 2028-04-22
+    Endelig planvedtak Alta kommune           :milestone, 2028-03-31, 0d
+    Klagefrist reguleringsplan (3 uker)       :2028-03-31, 2028-04-21
     Klagefrist lokalitetsklarering            :2028-07-01, 2028-09-30
     Sivilombudet (saksbehandlingsfeil)        :2028-09-01, 2029-01-31
 ```
+
+> **Om tidslinjen:** Planprogrammets egen fremdriftsplan (kap. 4.2) hadde medvirkningsmøter i 2.–3. kvartal 2026, fastsetting av planprogrammet i 3. kvartal 2026 og planvedtak i 2. kvartal 2027. Per 06.10.2026 er det ikke kjent at planprogrammet er fastsatt. Tidsrommene under er derfor prosjektets eget anslag. Skyves vedtaket til etter kommunevalget høsten 2027, er det et nytt kommunestyre som avgjør.
 
 | Dato | Aktivitet | Mulighet for påvirkning |
 |------|-----------|------------------------|
 | 01.07.2026 | Frist for innspill til planprogram – ✅ avsluttet | Innspillet ligger i `Innspill/` og kan gjenbrukes senere |
 | **19.10.2026** | **Kartlegging av fiskeriinteresser (Rambøll)** | Svar på skjemaet – se [momenter til inspirasjon](Innspill/Kartlegging_fiskeriinteresser.md) |
-| Q3 2026 | Folkemøter i Rognsund | Delta og gi innspill muntlig |
-| Q4 2026 | Planprogram fastsettes av Alta kommune | Følg med på politisk behandling |
+| 2.–3. kvartal 2026 (varslet) | Folkemøter i Rognsund – ikke kjent om de er holdt | Spør kommunen, og be om møte før planprogrammet fastsettes |
+| Q4 2026 (planprogrammets plan: Q3 2026) | Planprogram fastsettes av Alta kommune – forsinket | Kontakt politikerne før behandlingen – se [Veien videre](VEIEN-VIDERE.md) |
 | Q4 2026–Q1 2027 | Konsekvensutredninger gjennomføres | Meld interesse som informant for fiske, friluftsliv, reindrift. Fagutredere kontakter informanter særskilt |
-| Q1–Q3 2027 | Høring av planforslag (6 uker) | Ny høringsrunde – anledning til å kommentere hele planen |
+| Q3 2027 | Høring av planforslag (minst 6 uker) | Ny høringsrunde – anledning til å kommentere hele planen |
 | Q2 2027 | Søknad om lokalitetsklarering (Finnmark fylkeskommune, med Mattilsynet, Statsforvalteren og Kystverket) | Mulighet for uttalelse til søknaden |
-| Q2 2028 | Endelig planvedtak i Alta kommune | Klagefrist 3 uker etter vedtak til Statsforvalteren |
+| Q1 2028 (planprogrammets plan: Q2 2027) | Endelig planvedtak i Alta kommune | Klagefrist 3 uker etter vedtak til Statsforvalteren |
 | Etter vedtak | Klagefrist lokalitetsklarering (3 uker) | Klagen sendes fylkeskommunen; Fiskeridirektoratet er klageinstans |
 | Etter klagebehandling | Sivilombudet (ved saksbehandlingsfeil) | Kan vurdere formelle feil, men gir kun uttalelse |
 
@@ -392,11 +394,11 @@ gantt
 
 | Klagegrunn | Klageinstans | Frist | Merknad |
 |------------|-------------|:-----:|---------|
-| **Reguleringsplanvedtak** | Statsforvalteren i Troms og Finnmark | 3 uker etter kunngjøring | Vurderer formelle saksbehandlingsregler, lovtolkning. Faglig innhold endres sjelden |
+| **Reguleringsplanvedtak** | Statsforvalteren i Troms og Finnmark | 3 uker fra underretning eller kunngjøring | Vurderer formelle saksbehandlingsregler, lovtolkning. Faglig innhold endres sjelden |
 | **Lokalitetsklarering / akvakulturtillatelse** (Finnmark fylkeskommune) | Fiskeridirektoratet | 3 uker | Klagen sendes fylkeskommunen. Kan argumentere mot miljøvilkår (vannmiljø, rømt fisk, lakselus) |
 | **Vedtak fra Mattilsynet** (fiskehelse, dyrevelferd) | Mattilsynet (overordnet klageinstans) | 3 uker | Gjelder Mattilsynets eget vedtak/tillatelse |
 | **Saksbehandlingsfeil** | Sivilombudet | Normalt innen ett år etter endelig vedtak | Gir kun uttalelse, ikke omgjøring. Kan likevel ha politisk tyngde |
-| **Manglende konsultasjon** | Påberopes i klage over planvedtaket (Statsforvalteren) | 3 uker etter kunngjøring | Sameloven kap. 4 har ingen egen klageordning; brudd «kan gi grunnlag for ugyldighet» (§ 4-9). Sametinget kan fremme innsigelse (pbl § 5-4) |
+| **Manglende konsultasjon** | Påberopes i klage over planvedtaket (Statsforvalteren) | 3 uker fra underretning eller kunngjøring | Sameloven kap. 4 har ingen egen klageordning; brudd «kan gi grunnlag for ugyldighet» (§ 4-9). Sametinget kan fremme innsigelse (pbl § 5-4) |
 | **Utslippstillatelse** | Miljødirektoratet | Etter forurensningsloven | Gjelder ev. utslippstillatelse fra Statsforvalteren |
 
 ### Medvirkningsmuligheter – tre anledninger
@@ -405,10 +407,10 @@ gantt
 |-----------|---------|-------------------|
 | **1. Høring av planprogram** | 11.05–01.07.2026 | ✅ Avsluttet – innspillet ligger i `Innspill/` |
 | **Kartlegging av fiskeriinteresser** | Frist 19.10.2026 | **Pågår nå** – svar på Rambølls skjema, se [momenter til inspirasjon](Innspill/Kartlegging_fiskeriinteresser.md) |
-| **Folkemøter** | Q3 2026 | I bygdene i Rognsundet – invitasjon sendes i samråd med bygdelag |
+| **Folkemøter** | Varslet «i løpet av varslingsperioden» | Ikke kjent om de er holdt – spør kommunen |
 | **Dialog med fagutredere** | Q4 2026–Q1 2027 | Meld deg som informant hvis du har kunnskap om fiske, friluftsliv, reindrift eller lokalsamfunn |
 | **2. Høring av planforslag** | Q3 2027 | 6 ukers høring – ny mulighet for innspill |
-| **3. Klage på vedtak** | Q2 2028 | 3 ukers frist etter kunngjøring |
+| **3. Klage på vedtak** | Q1 2028 | 3 ukers frist fra underretning eller kunngjøring |
 
 I tillegg kan du når som helst ta kontakt med plankonsulent (Rambøll) via e-post eller telefon.
 
@@ -586,13 +588,15 @@ De ønsker å erstatte 2–3 av disse med to nye, bedre plasserte lokaliteter.
 
 ## Planprosess
 
+Tidsrom er prosjektets anslag; planprogrammets egen plan hadde planvedtak i 2. kvartal 2027.
+
 | Aktivitet | Tidsrom | Status |
 |-----------|---------|--------|
 | Planoppstart vedtatt av planutvalget | 04.12.2025 | ✅ Gjennomført (enstemmig) |
 | Varsel oppstart og høring av planprogram | 11.05.2026 – 01.07.2026 | ✅ Avsluttet |
 | Kartlegging av fiskeriinteresser (Rambøll) | høst 2026 – frist 19.10.2026 | **PÅGÅR** |
-| Medvirkningsmøter og folkemøter | Q3 2026 | Ikke kjent – følg med på kommunens kunngjøringer |
-| Fastsetting av planprogram | Q4 2026 | Ikke gjennomført |
+| Medvirkningsmøter og folkemøter | 2.–3. kvartal 2026 (planprogrammets plan) | Ikke kjent om de er holdt – spør kommunen |
+| Fastsetting av planprogram | Q4 2026 (planprogrammets plan: Q3 2026) | Ikke kjent per 06.10.2026 – forsinket |
 | Datainnsamling og konsekvensutredninger | Q4 2026 – Q1 2027 | Ikke gjennomført |
 | Planforslag sendes kommunen | Q2 2027 | Ikke gjennomført |
 | Høring og offentlig ettersyn (6 uker) | Q3 2027 | Ikke gjennomført |
