@@ -208,6 +208,7 @@ Alle punktene under er kontrollert mot planprogrammet (versjon 01, 11.05.2026), 
 | **Klage og utsatt iverksetting** | Etter vedtak. | Fvl. §§ 28, 29, 42 |
 | **Sivilombudet** | Kan vurdere saksbehandlingsfeil etter at klageadgangen er brukt; gir uttalelse, ikke omgjøring. | Sivilombudsloven |
 | **Valget høsten 2027** | Hvis vedtaket kommer etter valget, er det nye kommunestyret som avgjør. Partiene kan bes om å ta standpunkt i programmene. | – |
+| **Kommuneplanen på lang sikt** | Samfunnsdelen («Alta Vil», 2015) er under revisjon (planprogrammet kap. 2.7.3). Etter valget skal det nye kommunestyret vedta en planstrategi og ta stilling til om arealdelen skal revideres. Der kan for eksempel krav om lukket teknologi eller nullutslipp og vern av gyteområder og fiskefelt forankres for hele kommunen. | [pbl § 10-1](https://lovdata.no/lov/2008-06-27-71/§10-1): planstrategi senest ett år etter konstituering; forslaget skal være offentlig minst 30 dager før behandling |
 
 ---
 
